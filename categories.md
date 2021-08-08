@@ -9,7 +9,7 @@ Here we generate all the categories.
 
 {% assign rawcats = "" %}
 {% for post in site.posts %}
-{% assign tcats = post.category | join:'|' | append:'|' %}
+{% assign tcats = post.categories | join:'|' | append:'|' %}
 {% assign rawcats = rawcats | append:tcats %}
 {% endfor %}
 
@@ -39,9 +39,9 @@ Here we generate all the categories.
 {% for ct in cats %}
 ## {{ ct }}
 {% for post in site.posts %}
-{% if post.category contains ct %}
+{% if post.categories contains ct %}
 * [{{ post.title }}]({{ post.url }}) {{ post.date | date_to_string }}
-{% for ct in post.category %}
+{% for ct in post.categories %}
 [{{ ct }}](#{{ ct | slugify }})
 {% endfor %}
 {% endif %}
