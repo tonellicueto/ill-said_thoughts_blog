@@ -1,12 +1,9 @@
- title: Trial blog
+ title: Ill-said thoughts
 author: Josué Tonelli-Cueto
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Personal blog of Josué Tonelli-Cueto on random things. In English & Spanish.
 theme: minima
-
-minima:
-  skin: dark
 
 # social links
 twitter_username: tonellicueto # DO NOT include the @ character, or else the build will fail!
