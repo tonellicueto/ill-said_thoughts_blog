@@ -48,7 +48,6 @@ footer {
 	background-color: #ee2523;
 	border-color : white;
 	color: white;
-  width:30%;
   font-size:inherit;
 }
 
@@ -58,7 +57,6 @@ footer {
 		color: black;
     font-variant:inherit;
     font-style:inherit;
-    width:30%;
     font-size:inherit;
 }
 
@@ -66,7 +64,7 @@ footer {
 	background-color: #FF69B4;
   border-color : white;
   color: white;
-  width:30%;font-size:inherit;
+  font-size:inherit;
 }
 
 .btn-phd:hover, .btn-phd:focus{
@@ -75,7 +73,7 @@ footer {
     color: black;
     font-variant:inherit;
     font-style:inherit;
-    width:30%;font-size:inherit;
+    font-size:inherit;
 }
 
 .btn-phdtulink, .btn-phdtulink:active{
