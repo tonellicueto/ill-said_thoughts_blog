@@ -23,11 +23,7 @@ permalink: /tags/
 	{% endif %}
 {% endfor %}
 
-{% for tag in tags %}
-  [{{ tag }}](#{{ tag | slugify }})
-{% endfor %}
 
-Textoooo
 
 {% for tag in tags %}
 	## {{ tag }} ##
@@ -40,4 +36,8 @@ Textoooo
 		 {% endfor %}
 		 {% endif %}
 	 {% endfor %}
+{% endfor %}
+
+{% for tag in tags %}
+  [{{ tag }}](#{{ tag | slugify }})
 {% endfor %}
