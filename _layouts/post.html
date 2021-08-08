@@ -46,7 +46,7 @@ layout: default
   {% assign it = it+1 %}
   {% endfor %}
   <span style="float:right;">[{% for tag in page.tags %}
-    <a class=btn-secondary href="../tags/#{{ tag | slugify}}">&nbsp;{{ tag }}&nbsp;</a>
+    <a class=btn-secondary href="../tags/#{{ tag | slugify}}" role="button">&nbsp;{{ tag }}&nbsp;</a>
   {% endfor %}
 ]</span></p>
 
