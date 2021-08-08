@@ -26,6 +26,12 @@ permalink: /tags/
 {% for tag in tags %}
   [{{ tag }}](#{{ tag | slugify }})
 {% endfor %}
+
+## tag1
+
+* uncomment
+* dos
+
 {% for tag in tags %}
     {{ tag }}
 	 {% for post in site.posts %}
