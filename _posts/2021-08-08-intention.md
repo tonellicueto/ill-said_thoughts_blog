@@ -1,7 +1,8 @@
 ---
+layout: post
 title: "Intentions"
 date: 2021-08-08
-categoreis: post, epsilon
+categories: post, epsilon
 tags: epsilon, alfa
 ---
 
