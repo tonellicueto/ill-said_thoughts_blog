@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" style="padding-top: 55px">
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -41,12 +41,12 @@ layout: default
   <b>Categories</b>:
   {% endif %}{% assign it = 0 %}
   {% for ct in page.categories %}
-  <a href="https://tonellicueto.xyz/ill-said_thoughts_blog/categories/#{{ ct | slugify}}">{{ ct }}</a>
+  <a href="https://tonellicueto.xyz/ill-said_thoughts/categories/#{{ ct | slugify}}">{{ ct }}</a>
   {% if it < page.categories.size %}, {% endif %}
   {% assign it = it+1 %}
   {% endfor %}
   <span style="float:right;">[{% for tag in page.tags %}
-    <a class=btn-secondary href="https://tonellicueto.xyz/ill-said_thoughts_blog/tags/#{{ tag | slugify}}" role="button">&nbsp;{{ tag }}&nbsp;</a>
+    <a class=btn-secondary href="https://tonellicueto.xyz/ill-said_thoughts/categories/#{{ tag | slugify}} " role="button">&nbsp;{{ tag }}&nbsp;</a>
   {% endfor %}
 ]</span></p>
 
