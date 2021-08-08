@@ -30,17 +30,11 @@ Here we generate all the categories.
 {% endif %}
 {% endfor %}
 
-<h1 class="page-title">
-  <a href="/blog">Blog</a> | {{ page.title }}
-</h1>
-<br/>
-
 <div class="posts">
 <p>
 {% for ct in cats %}
 <a href="#{{ ct | slugify }}" class="codinfox-category-mark" style="color:#999;text-decoration: none;"> {{ ct }} </a> &nbsp;&nbsp;
 {% endfor %}
-<a href="#no-category" class="codinfox-category-mark" style="color:#999;text-decoration: none;"> No Category </a> &nbsp;&nbsp;
 </p>
 
 {% for ct in cats %}
