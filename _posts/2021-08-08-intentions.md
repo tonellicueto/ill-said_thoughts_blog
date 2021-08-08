@@ -8,5 +8,4 @@ tags: tag1 tag2
 
 My intention with this blog is having a place where I can type quick thoughts...
 
-#### Tags: {{tags}}
-#### Categories: {{categories}}
+If $x>7\sin x$ then...
