@@ -34,10 +34,19 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
-  <span>[
+  <span>
+  {% for tag in page.categories %}
+  {% if page.categories.size == 1 %}
+  <b>Category</b>:
+  {% else %}
+  <b>Categories</b>:
+  {% endif %}{% assign it = 0 %}
+  {% for ct in page.categories %}
+  <a href="../categories/#{{ ct | slugify}}">{{ ct }}</a>
+  {% if it < page.categories.size %}, {% endif %}
+  {% endfor %}
   {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+    <a href="../tags/#{{ tag | slugify}}"><code class="highligher-rouge"><nobr>{{ tag }}</nobr></code>&nbsp;</a>
   {% endfor %}
 ]</span>
 
