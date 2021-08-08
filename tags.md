@@ -4,11 +4,6 @@ title: Tags
 permalink: /tags/
 ---
 
-{% comment %}
-=======================
-The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
-=======================
-{% endcomment %}
 {% assign rawtags = "" %}
 {% for post in site.posts %}
 	{% assign ttags = post.tags | join:'|' | append:'|' %}
@@ -16,11 +11,6 @@ The following part extracts all the tags from your posts and sort tags, so that 
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
 
-{% comment %}
-=======================
-The following part removes dulpicated tags and invalid tags like blank tag.
-=======================
-{% endcomment %}
 {% assign tags = "" %}
 {% for tag in rawtags %}
 	{% if tag != "" %}
@@ -33,22 +23,11 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 	{% endif %}
 {% endfor %}
 
-{% comment %}
-=======================
-The purpose of this snippet is to list all the tags you have in your site.
-=======================
-{% endcomment %}
 {% for tag in tags %}
   [{{ tag }}](#{{ tag | slugify }})
 {% endfor %}
-
-{% comment %}
-=======================
-The purpose of this snippet is to list all your posts posted with a certain tag.
-=======================
-{% endcomment %}
 {% for tag in tags %}
-	## {{ tag }} {#{{ tag | slugify }}}
+	## {{ tag }}
 	 {% for post in site.posts %}
 		 {% if post.tags contains tag %}
      * ### [{{ post.title }}]({{ post.url }}) {{ post.date | date_to_string }}
