@@ -48,7 +48,8 @@ footer {
 	background-color: #ee2523;
 	border-color : white;
 	color: white;
-  width:30%;font-size:inherit;
+  width:30%;
+  font-size:inherit;
 }
 
 .btn-secondary:hover, .btn-secondary:focus{
@@ -57,7 +58,8 @@ footer {
 		color: black;
     font-variant:inherit;
     font-style:inherit;
-    width:30%;font-size:inherit;
+    width:30%;
+    font-size:inherit;
 }
 
 .btn-phd, .btn-phd:active{
@@ -109,13 +111,6 @@ footer {
     width:30%;font-size:inherit;
 }
 
-
-span a, span a:active, span a:hover{
-    color: #ee2523;
-    font-style:italic;
-    font-variant: small-caps;
-    font-size: medium;
-}
 
  a { color: inherit; }
 

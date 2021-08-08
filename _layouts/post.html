@@ -45,10 +45,10 @@ layout: default
   {% if it < page.categories.size %}, {% endif %}
   {% assign it = it+1 %}
   {% endfor %}
-  <span style="float:right;">[{% for tag in page.tags %}
+  <span style="float:right;">{% for tag in page.tags %}
     <a class=btn-secondary href="{{/tags/#{{ tag | slugify}} | relative_url }} " role="button">&nbsp;{{ tag }}&nbsp;</a>
   {% endfor %}
-]</span></p>
+</span></p>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
