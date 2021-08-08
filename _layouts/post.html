@@ -34,7 +34,7 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
-  <span>
+  <p>
   {% if page.categories.size == 1 %}
   <b>Category</b>:
   {% else %}
@@ -45,10 +45,10 @@ layout: default
   {% if it < page.categories.size %}, {% endif %}
   {% assign it = it+1 %}
   {% endfor %}
-  [{% for tag in page.tags %}
+  <span style="float:right;">[{% for tag in page.tags %}
     <a href="../tags/#{{ tag | slugify}}"><code class="highligher-rouge"><nobr>{{ tag }}</nobr></code>&nbsp;</a>
   {% endfor %}
-]</span>
+]</span></p>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
