@@ -1,7 +1,7 @@
 title: Ill-said thoughts
 author:
   name: Josué Tonelli-Cueto
-  email: your-email@domain.com
+  email: josue.tonelli.cueto@bizkaia.eu
 description: > # this means to ignore newlines until "show_excerpts:"
   Personal blog of Josué Tonelli-Cueto on random things. In English & Spanish.
 
@@ -11,7 +11,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
-
+  skin: dark
   # generate social links in footer
   social_links:
     twitter: tonellicueto
