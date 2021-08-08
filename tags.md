@@ -28,7 +28,7 @@ permalink: /tags/
 {% endfor %}
 
 {% for tag in tags %}
-	# {{ tag }}
+	## {{ tag }} ##
 	 {% for post in site.posts %}
 		 {% if post.tags contains tag %}
      * ## [{{ post.title }}]({{ post.url }}) {{ post.date | date_to_string }}
