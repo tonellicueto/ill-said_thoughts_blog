@@ -3,7 +3,7 @@ author: Josué Tonelli-Cueto
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This blog is the personal blog of...
-theme:minima
+theme: minima
 
 # social links
 twitter_username: tonellicueto # DO NOT include the @ character, or else the build will fail!
