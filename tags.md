@@ -23,10 +23,17 @@ permalink: /tags/
 	{% endif %}
 {% endfor %}
 
-
+{% for tag in tags %}
+  [{{ tag }}](#{{ tag | slugify }})
+{% endfor %}
 
 {% for tag in tags %}
-	## {{ tag }} ##
+  {{ tag }}
+{% endfor %}
+
+{% for tag in tags %}
+
+   ##{{ tag }}
 	 {% for post in site.posts %}
 		 {% if post.tags contains tag %}
      * ## [{{ post.title }}]({{ post.url }}) {{ post.date | date_to_string }}
@@ -36,8 +43,4 @@ permalink: /tags/
 		 {% endfor %}
 		 {% endif %}
 	 {% endfor %}
-{% endfor %}
-
-{% for tag in tags %}
-  [{{ tag }}](#{{ tag | slugify }})
 {% endfor %}
