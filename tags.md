@@ -27,6 +27,8 @@ permalink: /tags/
   [{{ tag }}](#{{ tag | slugify }})
 {% endfor %}
 
+Textoooo
+
 {% for tag in tags %}
 	## {{ tag }} ##
 	 {% for post in site.posts %}
@@ -38,5 +40,4 @@ permalink: /tags/
 		 {% endfor %}
 		 {% endif %}
 	 {% endfor %}
-
 {% endfor %}
