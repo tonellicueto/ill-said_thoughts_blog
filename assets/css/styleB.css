@@ -1,9 +1,4 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
-body{
-  background-color : #FFFFFF;
-  margin-top: 35px;
-  padding-top: 2rem;
-}
 
 .jumbotron {
     margin-bottom: 35px;
