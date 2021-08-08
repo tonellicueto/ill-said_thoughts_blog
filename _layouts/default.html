@@ -15,6 +15,47 @@
 
     {%- include footer.html -%}
 
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+    <!-- For phone -->
+    <script type="text/javascript">
+    <!--
+    if (screen.width <= 699) {
+    var x;
+    x = document.getElementsByTagName("H1");
+    var i;
+     for (i = 0; i < x.length; i++) {
+      x[i].style="font-size:2.5em;font-weight:bold;";
+     }
+    x = document.getElementsByTagName("H2");
+     for (i = 0; i < x.length; i++) {
+      x[i].style="font-size:1.8em;font-weight:bold;";
+    }
+    x = document.getElementsByTagName("H3");
+     for (i = 0; i < x.length; i++) {
+      x[i].style="font-size:1em;font-weight:bold;";
+    }
+    }
+    //-->
+    </script>
+
+    <!-- For math expression-->
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+       tex2jax: {
+         inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        processEscapes: true
+        }
+       });
+    </script>
+     <script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
   </body>
 
 </html>

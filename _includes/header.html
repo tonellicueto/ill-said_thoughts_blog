@@ -1,10 +1,41 @@
 <header class="site-header">
+  {%- assign default_paths = site.pages | map: "path" -%}
+  {%- assign page_paths = site.header_pages | default: default_paths -%}
+  {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+  <div class="fixed-top" data-toggle="affix">
+   <nav class="navbar navbar-toggleable-md navbar-inverse navbar-custom" id="general">
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><img src="imgs/logo.png"/></a>
+
+      <div class="collapse navbar-collapse " id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+          </li>
+
+        <ul class="navbar-nav r-auto">
+          {%- for path in page_paths -%}
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+          {%- if my_page.title -%}
+	<li class="nav-item active">
+          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          </li>
+          {%- endif -%}
+        {%- endfor -%}
+      <li class="nav-item active">
+            <a class="nav-link" href="https://tonellicueto.xyz">Main Web</a>
+        </li>
+        </ul>
+      </div>
+
+    </nav>
+</div>
 
   <div class="wrapper">
-    {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.header_pages | default: default_paths -%}
-    {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    <a class="site-title" rel="author" href=""></a>
 
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
@@ -18,12 +49,8 @@
         </label>
 
         <div class="trigger">
-          {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            {%- endif -%}
-          {%- endfor -%}
+
+
           <a class="page-link" href="https://tonellicueto.xyz">Personal webpage</a>
         </div>
       </nav>
