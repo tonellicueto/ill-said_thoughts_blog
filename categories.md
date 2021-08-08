@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tags
-permalink: /tags/
+title: Categories
+permalink: /categories/
 ---
 {% comment%}
 Here we generate all the categories.
