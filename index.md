@@ -1,5 +1,3 @@
----
-title: "Welcome to my blog"
----
+Personal blog of Josué Tonelli-Cueto.
 
-This is a blog...
+In English and Spanish.
