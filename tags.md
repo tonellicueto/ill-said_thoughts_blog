@@ -39,7 +39,7 @@ The purpose of this snippet is to list all the tags you have in your site.
 =======================
 {% endcomment %}
 {% for tag in tags %}
-  [{{ tag }}]({{ tag | slugify }})
+  [{{ tag }}](#{{ tag | slugify }})
 {% endfor %}
 
 {% comment %}
