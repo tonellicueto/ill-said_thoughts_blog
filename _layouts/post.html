@@ -41,12 +41,12 @@ layout: default
   <b>Categories</b>:
   {% endif %}{% assign it = 0 %}
   {% for ct in page.categories %}
-  <a href="{{/categories/#{{ ct | slugify}} | relative_url }}">{{ ct }}</a>
+  <a href="https://tonellicueto.xyz/ill-said_thoughts_blog/categories/#{{ ct | slugify}}">{{ ct }}</a>
   {% if it < page.categories.size %}, {% endif %}
   {% assign it = it+1 %}
   {% endfor %}
   <span style="float:right;">[{% for tag in page.tags %}
-    <a class=btn-secondary href="{{/tags/#{{ tag | slugify}} | relative_url }}" role="button">&nbsp;{{ tag }}&nbsp;</a>
+    <a class=btn-secondary href="https://tonellicueto.xyz/ill-said_thoughts_blog/tags/#{{ tag | slugify}}" role="button">&nbsp;{{ tag }}&nbsp;</a>
   {% endfor %}
 ]</span></p>
 
