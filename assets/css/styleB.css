@@ -60,23 +60,6 @@ footer {
     width:30%;font-size:inherit;
 }
 
-.btn-arxiv, .btn-arxiv:active{
-	background-color: #00ff00;
-	border-color : #F3BC1B;
-	color: #F3BC1B;
-  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-  width:30%;font-size:inherit;
-}
-
-.btn-arxiv:hover, .btn-arxiv:focus{
-    background-color: #F3BC1B;
-		border-color: white;
-		color: #00ff00;
-    font-variant:inherit;
-    font-style:inherit;
-    width:30%;font-size:inherit;
-}
-
 .btn-phd, .btn-phd:active{
 	background-color: #FF69B4;
   border-color : white;
