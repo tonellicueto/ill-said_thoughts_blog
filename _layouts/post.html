@@ -45,7 +45,7 @@ layout: default
   {% if it < page.categories.size %}, {% endif %}
   {% assign it = it+1 %}
   {% endfor %}
-  {% for tag in page.tags %}
+  [{% for tag in page.tags %}
     <a href="../tags/#{{ tag | slugify}}"><code class="highligher-rouge"><nobr>{{ tag }}</nobr></code>&nbsp;</a>
   {% endfor %}
 ]</span>
