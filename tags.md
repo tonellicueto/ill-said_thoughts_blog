@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Tag
+layout: page
+title: Tags
+permalink: /tags/
 ---
 
 {% comment %}
