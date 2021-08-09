@@ -31,14 +31,14 @@ Here we generate all the categories.
 {% endfor %}
 
 <div class="posts">
-<p style="text-align:justify;>
+<p style="text-align:justify;">
 {% for ct in cats %}
 <a href="#{{ ct | slugify }}" style="font-variant: small-caps;"> {{ ct }} </a> &nbsp;&nbsp;
 {% endfor %}
 </p>
 
 {% for ct in cats %}
-<h3 id="{{ ct | slugify }}" >{{ ct }}</h3>
+<h3 id="{{ ct | slugify }}" style="font-variant: small-caps;">{{ ct }}</h3>
 <ul>
   {% for post in site.posts %}
   {% if post.categories contains ct %}
@@ -50,7 +50,7 @@ Here we generate all the categories.
       {% assign it = 0 %}{% for ct in post.categories %}
       <a href="#{{ ct | slugify }}" style="font-variant: small-caps;">{{ ct }}</a>{% if it < post.categories.size %}, {% endif %}{% assign it = it+1 %}
       {% endfor %}
-    &#125; [ 
+    &#125; [
     {% assign it = 0 %}{% for tag in post.tags %}
     <a href="#{{ tag | slugify }}">{{ tag }}</a>{% if it < post.tags.size %}, {% endif %}{% assign it = it+1 %}
     {% endfor %}
