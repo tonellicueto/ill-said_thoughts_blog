@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Intentions"
+author: "Josué Tonelli-Cueto"
 date: 2021-08-08
 categories: category1 category2
 tags: tag1 tag2
