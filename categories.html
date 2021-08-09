@@ -37,6 +37,8 @@ Here we generate all the categories.
 {% endfor %}
 </p>
 
+{%- assign date_format = site.minima.date_format | default: "%-d/%b/%Y" -%}
+
 {% for ct in cats %}
 <h3 id="{{ ct | slugify }}" style="font-variant: small-caps;">{{ ct }}</h3>
 <ul>

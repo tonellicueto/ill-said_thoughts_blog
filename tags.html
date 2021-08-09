@@ -37,6 +37,8 @@ Here we generate all the tags.
 {% endfor %}
 </p>
 
+{%- assign date_format = site.minima.date_format | default: "%-d/%b/%Y" -%}
+
 {% for tag in tags %}
 <h3 id="{{ tag | slugify }}">{{ tag }}</h3>
 <ul>
