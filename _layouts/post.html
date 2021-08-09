@@ -34,5 +34,24 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
+  {% if page.categories.size >0 && page.tags.size>0 %}
+  <div class="container"><p>
+  {% if page.categories.size == 1 %}
+  <b>Category</b>:
+  {% else %}
+  <b>Categories</b>:
+  {% endif %}{% assign it = 0 %}
+  {% for ct in page.categories %}
+  <a href="https://tonellicueto.xyz/ill-said_thoughts_blog/categories/#{{ ct | slugify}}">{{ ct }}</a>
+  {% if it < page.categories.size %}, {% endif %}
+  {% assign it = it+1 %}
+  {% endfor %}</p>
+  <div class="row" style="text-align:right;"><div class="col-md-12">
+  {% for tag in page.tags %}
+    <a class="btn btn-secondary" href="https://tonellicueto.xyz/ill-said_thoughts_blog/tags/#{{ tag | slugify}}" Labor="button">&nbsp;{{ tag }}&nbsp;</a>
+  {% endfor %}
+  </div></div></div>
+  {% endif %}
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
