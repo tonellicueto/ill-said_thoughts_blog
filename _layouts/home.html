@@ -9,17 +9,6 @@ layout: default
 
   {{ content }}
 
-<hr>
-  <div class="row" style="text-align:center;"><div class="col-md-4">
-    <a class="btn btn-secondary" href="/categories/" Labor="button" style="width:80%;">Categories</a>
-  </div><div class="col-md-4">
-    <a class="btn btn-secondary" href="/tags/" Labor="button" style="width:80%;">Taga</a>
-  </div><div class="col-md-4">
-    <a class="btn btn-secondary" href="{{ 'feed.xml' | relative_url }}" Labor="button" style="width:80%;"><svg class="svg-icon orange">
-      <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-    </svg> Subscribe</a>
-  </div></div>
-<hr>
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}

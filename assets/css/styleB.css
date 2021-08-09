@@ -60,6 +60,22 @@ footer {
     font-size:inherit;
 }
 
+.btn-secondaryB, .btn-secondaryB:active{
+	background-color: white;
+	border-color : #ee2523;
+	color: #ee2523;
+  font-size:inherit;
+}
+
+.btn-secondaryB:hover, .btn-secondaryB:focus{
+    background-color: #ee2523;
+		border-color: #ee2523;
+		color: white;
+    font-variant:inherit;
+    font-style:inherit;
+    font-size:inherit;
+}
+
 .btn-phd, .btn-phd:active{
 	background-color: #FF69B4;
   border-color : white;

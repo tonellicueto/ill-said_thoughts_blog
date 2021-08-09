@@ -1,12 +1,13 @@
 <footer>
-<p>
-  &emsp;&emsp;<a href="{{ 'feed.xml' | relative_url }}">
-    <svg class="svg-icon orange">
+  <div class="row" style="text-align:center;"><div class="col-md-4">
+    <a class="btn btn-secondaryB" href="/categories/" Labor="button" style="width:80%;">Categories</a>
+  </div><div class="col-md-4">
+    <a class="btn btn-secondaryB" href="/tags/" Labor="button" style="width:80%;">Taga</a>
+  </div><div class="col-md-4">
+    <a class="btn btn-secondaryO" href="{{ 'feed.xml' | relative_url }}" Labor="button" style="width:80%;"><svg class="svg-icon orange">
       <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-    </svg> Subscribe
-  </a>
-  <span style="float:right;"> &copy;{{ site.author.name | escape }}&emsp;&emsp;</span>
-</p>
-<p style="text-align:center;">{{ site.title | escape }}: {{ site.description | escape }}</p>
+    </svg> Subscribe</a>
+  </div></div>
+<p style="text-align:center;">{{ site.title | escape }}: {{ site.description | escape }}<br/>&copy;{{ site.author.name | escape }}</p>
 <hr style="margin: 0;">
 </footer> <!--  /container  -->
