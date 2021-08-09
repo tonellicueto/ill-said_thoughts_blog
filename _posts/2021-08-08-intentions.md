@@ -5,7 +5,8 @@ author: "Josué Tonelli-Cueto"
 date: 2021-08-08
 categories: category1 category2
 tags: tag1 tag2
-lang: en es
+#lang: es
+lang: en
 ---
 
 My intention with this blog is having a place where I can type quick thoughts... Here I will write a sufficiently long paragraph, because I need to check how this parses them in a linebreak.
