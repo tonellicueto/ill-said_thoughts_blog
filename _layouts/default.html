@@ -26,11 +26,11 @@
     {% if it < page.categories.size %}, {% endif %}
     {% assign it = it+1 %}
     {% endfor %}</p>
-    <div class="row" style="text-align:right;">
-    {% for tag in page.tags %}<div class="col-md-3">
-      <a class="btn btn-secondary" href="https://tonellicueto.xyz/ill-said_thoughts_blog/tags/#{{ tag | slugify}}" Labor="button">&nbsp;{{ tag }}&nbsp;</a></div>
+    <div class="row" style="text-align:right;"><div class="col-md-12">
+    {% for tag in page.tags %}
+      <a class="btn btn-secondary" href="https://tonellicueto.xyz/ill-said_thoughts_blog/tags/#{{ tag | slugify}}" Labor="button">&nbsp;{{ tag }}&nbsp;</a>
     {% endfor %}
-    </div></div>
+    </div></div></div>
     {% endif %}
 
     {%- include footer.html -%}
