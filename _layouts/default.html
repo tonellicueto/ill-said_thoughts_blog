@@ -13,8 +13,9 @@
       </div>
     </main>
 
-    <p>
+
     {% if page.categories.size >0 && page.tags.size>0 %}
+    <div class="container"><p>
     {% if page.categories.size == 1 %}
     <b>Category</b>:
     {% else %}
@@ -29,7 +30,7 @@
     {% for tag in page.tags %}
       <a class=btn-secondary href="https://tonellicueto.xyz/ill-said_thoughts_blog/tags/#{{ tag | slugify}}" Labor="button" style="width:20%;">&nbsp;{{ tag }}&nbsp;</a>
     {% endfor %}
-    </div></div>
+    </div></div></div>
     {% endif %}
 
     {%- include footer.html -%}
