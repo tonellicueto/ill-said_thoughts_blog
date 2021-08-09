@@ -46,15 +46,15 @@ Here we generate all the tags.
       <a href="../{{ post.url }}">
         <em>{{ post.title }}</em>
         <small>({{ post.date | date_to_string }})</small>.
-      </a> <small><small>[
-      {% assign it = 0 %}{% for tag in post.tags %}
-      <a href="#{{ tag | slugify }}">{{ tag }}</a>{% if it < post.tags.size %}, {% endif %}{% assign it = it+1 %}
-      {% endfor %}
-      ] &#123;
+      </a> <small><small>&#123;
         {% assign it = 0 %}{% for ct in post.categories %}
         <a href="../#{{ ct | slugify }}" style="font-variant: small-caps;">{{ ct }}</a>{% if it < post.categories.size %}, {% endif %}{% assign it = it+1 %}
         {% endfor %}
-      &#125;</small></small>
+      &#125; [
+      {% assign it = 0 %}{% for tag in post.tags %}
+      <a href="#{{ tag | slugify }}">{{ tag }}</a>{% if it < post.tags.size %}, {% endif %}{% assign it = it+1 %}
+      {% endfor %}
+      ]</small></small>
   </li>
   {% endif %}
   {% endfor %}
