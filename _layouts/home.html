@@ -27,13 +27,11 @@ layout: default
           <a href="{{ post.url | relative_url }}" style="font-variant: small-caps;">
             {{ post.title | escape }}
           </a>
-          <span style="float:right;">
           {%- if post.lang=="en" -%}
-          <a class="btn btn-secondary btn-sm" href="https://tonellicueto.xyz/ill-said_thoughts_blog/tags/#{{ tag | slugify}}" Labor="button" >Reed</a>
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" style="float:right;">Read</a>
           {%- else -%}
-          <a class="btn btn-secondary btn-sm" href="https://tonellicueto.xyz/ill-said_thoughts_blog/tags/#{{ tag | slugify}}" Labor="button" >Leer</a>
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >Leer</a>
           {% endif %}
-          </span>
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
