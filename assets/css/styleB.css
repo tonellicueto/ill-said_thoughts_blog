@@ -85,6 +85,22 @@ footer {
     text-align: center;
 }
 
+.btn-title, .btn-title:active, .btn-title:hover, .btn-title:focus{
+	background-color: white;
+	border-color : white;
+	color: black;
+  display: inline;
+  font-size:medium;
+  float:center;
+  font-size:9vw;
+  font-weight: bold;
+  font-style: normal;
+  font-variant: small-caps;
+  height:12vw;
+  padding: 0em 0em;
+  text-align: center;
+}
+
  a { color: inherit; }
 
  a:active, a:hover{
