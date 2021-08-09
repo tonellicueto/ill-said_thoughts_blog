@@ -45,7 +45,7 @@ Here we generate all the categories.
   <li>
     <a href="../{{ post.url }}">
       <em>{{ post.title }}</em>
-      <small>({{ page.date | date: "%-d/%b/%Y" }})</small>.
+      <small>({{ post.date | date: "%-d/%b/%Y" }})</small>.a
     </a> <small><small>&#123;
       {% assign it = 0 %}{% for ct in post.categories %}
       <a href="#{{ ct | slugify }}" style="font-variant: small-caps;">{{ ct }}</a>{% if it < post.categories.size %}, {% endif %}{% assign it = it+1 %}
