@@ -41,7 +41,7 @@ layout: default
   <b>Categories</b>:
   {% endif %}{% assign it = 0 %}
   {% for ct in page.categories %}
-  <a href="https://tonellicueto.xyz/ill-said_thoughts_blog/categories/#{{ ct | slugify}}">{{ ct }}</a>
+  <a href="https://tonellicueto.xyz/ill-said_thoughts_blog/categories/#{{ ct | slugify}}" >{{ ct }}</a>
   {% if it < page.categories.size %}, {% endif %}
   {% assign it = it+1 %}
   {% endfor %}</p>
