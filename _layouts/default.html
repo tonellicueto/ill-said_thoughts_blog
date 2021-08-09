@@ -46,7 +46,8 @@
     for (i = 0; i < x.length; i++) {
      x[i].style="width:100%;";
     }
-    }
+    x = document.getElementsByClassName("fixed-top");
+     x[i].innerHTML="<a class="nav-link" href="{{ "/" | relative_url }}" style="font-variant: small-caps;  font-weight: bold;text-align:center;">{{ site.title | escape }}</a>";    
     //-->
     </script>
 
