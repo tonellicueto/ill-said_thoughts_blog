@@ -45,7 +45,7 @@ Here we generate all the tags.
   <li>
       <a href="../{{ post.url }}">
         <em>{{ post.title }}</em>
-        <small>({{ post.date | date_to_string }})</small>.
+        <small>({{ page.date | date: date_format }})</small>.
       </a> <small><small>&#123;
         {% assign it = 0 %}{% for ct in post.categories %}
         <a href="../#{{ ct | slugify }}" style="font-variant: small-caps;">{{ ct }}</a>{% if it < post.categories.size %}, {% endif %}{% assign it = it+1 %}
