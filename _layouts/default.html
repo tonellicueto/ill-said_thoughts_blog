@@ -7,7 +7,7 @@
 
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
+    <main class="page-content" aria-label="Content" style="padding-top: 60px" id="page-content-main">
       <div class="wrapper">
         {{ content }}
       </div>
@@ -50,6 +50,7 @@
     x = document.getElementsByClassName("fixed-top");
      x[0].innerHTML='<center><a class="nav-link" href="{{ "/" | relative_url }}" style="font-variant: small-caps;  font-weight: bold;text-align:center;font-size:2.8em;">{{ site.title | escape }}</a></center>';
      x[0].style.backgroundColor="#ee2523";
+    document.getElementById("page-content-main").style.paddingTop="6em;";
     }
     //-->
     </script>
