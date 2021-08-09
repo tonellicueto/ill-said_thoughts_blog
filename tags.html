@@ -44,7 +44,7 @@ Here we generate all the tags.
   {% if post.tags contains tag %}
   <li>
       <a href="../{{ post.url }}">
-        <em>{{ post.title }}</em>
+        <div style="font-variant: small-caps;">{{ post.title }}</div>
         <small>({{ post.date | date: "%-d/%b/%Y" }})</small>.
       </a> <small><small>&#123;
         {% assign it = 0 %}{% for ct in post.categories %}
