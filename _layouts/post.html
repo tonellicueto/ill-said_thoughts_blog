@@ -30,10 +30,6 @@ layout: default
     {{ content }}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
   <p style="text-align:justify;">
   {% if page.categories.size == 1 %}
   <b>Category</b>:
@@ -49,6 +45,11 @@ layout: default
     <a class="btn btn-tag btn-sm" href="https://tonellicueto.xyz/ill-said_thoughts_blog/tags/#{{ tag | slugify}}" Labor="button" >&nbsp;{{ tag }}&nbsp;</a>
   {% endfor %}
   </p>
+
+
+    {%- if site.disqus.shortname -%}
+      {%- include disqus_comments.html -%}
+    {%- endif -%}
 
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
