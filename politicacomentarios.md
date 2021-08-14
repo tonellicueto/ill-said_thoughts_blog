@@ -39,4 +39,4 @@ Consideraremos que acoso incluye cualquiera de las siguientes acciones:
 * Revelar deliberadamente cualquier aspecto de la identidad de una persona sin su consentimiento, excepto en la medida de que sea necesario para proteger a personas vulnerables de abusos intencionados.
 * Publicación de comunicaciones privadas no relacionadas con el acoso.
 
-<a class="btn btn-tag" href="https://tonellicueto.xyz/ill-said-thoughts_blog/commentpolicy/" Labor="button" style="width:100%;">Comment Policy in English</a>
+<a class="btn btn-tag" href="https://tonellicueto.xyz/ill-said_thoughts_blog/commentpolicy/" Labor="button" style="width:100%;">Comment Policy in English</a>
