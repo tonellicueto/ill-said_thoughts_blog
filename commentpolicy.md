@@ -39,6 +39,5 @@ We will consider as harassment any of the following actions:
 * Deliberate "outing" of any aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 * Publication of non-harassing private communication.
 
-<hr style="margin: 0;">
+<hr/>
 <a class="btn btn-tag" href="https://tonellicueto.xyz/ill-said_thoughts_blog/politicacomentarios/" Labor="button" style="width:100%;">Política de comentarios en castellano</a>
-<hr style="margin: 0;">
