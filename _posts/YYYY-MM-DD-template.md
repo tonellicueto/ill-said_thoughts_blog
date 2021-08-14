@@ -2,7 +2,7 @@
 layout: post
 title: "Title"
 author: "Josué Tonelli-Cueto"
-date: 2021-08-14
+date: YYYY-MM-DD
 categories: category1 category2
 tags: tag1 tag2
 #lang: es
