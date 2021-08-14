@@ -17,15 +17,15 @@ The following list of rules is not exhaustive in any way, but it should give an 
 
 Note that, as the list above is not exhaustive, satisfying all the rules is a necessary, but not sufficient condition for commenting.
 
-## Definition of harassment
+### Definition of harassment
 
-To guarantee that the meaning of 'harassment' is clear, we include the following list (taken from the [Geek Feminism Blog](https://geekfeminismdotorg.wordpress.com/about/code-of-conduct/)) of what we will consider as harassment.
+To guarantee that the meaning of 'harassment' is clear, we include the following list (taken from the [Geek Feminism Blog](https://geekfeminismdotorg.wordpress.com/about/code-of-conduct/)) of what we will consider as harassment. Although not all the elements of the list applies directly in the context of commenting in a blog, we show the list integrally for completeness.
 
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
 * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 * Deliberate misgendering or use of ‘dead’ or rejected names.
 * Gratuitous or off-topic sexual images or behaviour  in spaces where they’re not appropriate.
-* Physical contact and simulated physical contact (eg, textual descriptions like “*hug*” or “*backrub*”) without consent or after a request to stop.
+* Physical contact and simulated physical contact (eg, textual descriptions like “\*hug\*” or “\*backrub\*”) without consent or after a request to stop.
 * Threats of violence.
 * Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.
 * Deliberate intimidation.
