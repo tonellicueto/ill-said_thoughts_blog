@@ -1,8 +1,8 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
-
+{% assign idhyvor = hyvor.id | string %}
 <div id="hyvor-talk-view"></div>
 <script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = {{ capture hyvor.id}};
+    var HYVOR_TALK_WEBSITE = {{ idhyvor }};
     var HYVOR_TALK_CONFIG = {
         url: '{{ page.url | absolute_url }}',
         id: '{{ page.url | absolute_url }}',
