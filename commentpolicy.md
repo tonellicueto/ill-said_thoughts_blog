@@ -5,7 +5,7 @@ lang: en
 permalink: /commentpolicy/
 ---
 
-We believe in free speech and the right of anyone to express their opinions about the posts in this blog. However, free speech cannot be an effective right for everyone in a hostile environment. Because of this, we will moderate comments to create an environment in which everyone feels that e can share freely and openly eir opinions. We will remove any comment, regardless of the expressed opinion, that do not contribute to create such an environment.
+We believe in free speech and the right of anyone to express their opinions about the posts in this blog. However, free speech cannot be an effective right for everyone in a hostile environment. Because of this, we will moderate comments to create an environment in which any person feels that E can share freely and openly Eir opinions. We will remove any comment, regardless of the expressed opinion, that do not contribute to create such an environment.
 
 The following list of rules is not exhaustive in any way, but it should give an idea of the limits we impose.
 
