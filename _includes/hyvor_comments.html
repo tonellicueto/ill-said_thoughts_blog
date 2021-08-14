@@ -1,12 +1,13 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
 
+{% assign hyvor.id = hyvor.id | plus: 0 %}
 <div id="hyvor-talk-view"></div>
 <script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = {{ hyvor.id }};
+    var HYVOR_TALK_WEBSITE = {{hyvor.id}};
     var HYVOR_TALK_CONFIG = {
         url: '{{ page.url | absolute_url }}',
         id: '{{ page.url | absolute_url }}',
-        {% if page.lang=="es" %}language: 'es_ES';{% else %}language: 'en_us'{% endif %} 
+        {% if page.lang=="es" %}language: 'es_ES';{% else %}language: 'en_us'{% endif %}
     };
 </script>
 <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed.js"></script>
