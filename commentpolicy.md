@@ -35,6 +35,8 @@ We will consider as harassment any of the following actions:
 * Sustained disruption of discussion.
 * Unwelcome sexual attention.
 * Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others.
-* Comunicaciones privadas continuadas después de una petición de parar.
-* Revelar deliberadamente cualquier aspecto de la identidad de una persona sin su consentimiento, excepto en la medida de que sea necesario para proteger a personas vulnerables de abusos intencionados.
-* Publicación de comunicaciones privadas no relacionadas con el acoso.
+* Continued one-on-one communication after requests to cease.
+* Deliberate "outing" of any aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse.
+* Publication of non-harassing private communication.
+
+<a class="btn btn-tag" href="https://tonellicueto.xyz/ill-said-thoughts_blog/politicacomentarios/" Labor="button" style="width:100%;">Política de comentarios en castellano</a>

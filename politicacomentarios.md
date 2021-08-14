@@ -35,6 +35,8 @@ Consideraremos que acoso incluye cualquiera de las siguientes acciones:
 * Interrupción continua del debate.
 * Atención sexual no deseada.
 * Patrones de contacto social inapropiado, como exigir/asumir niveles inapropiados de intimidad con otres.
-* Continued one-on-one communication after requests to cease.
-* Deliberate "outing" of any aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse.
-* Publication of non-harassing private communication.
+* Comunicaciones privadas continuadas después de una petición de parar.
+* Revelar deliberadamente cualquier aspecto de la identidad de una persona sin su consentimiento, excepto en la medida de que sea necesario para proteger a personas vulnerables de abusos intencionados.
+* Publicación de comunicaciones privadas no relacionadas con el acoso.
+
+<a class="btn btn-tag" href="https://tonellicueto.xyz/ill-said-thoughts_blog/commentpolicy/" Labor="button" style="width:100%;">Comment Policy in English</a>

@@ -42,6 +42,7 @@ footer {
 	border-color : white;
 	color: white;
   font-size:inherit;
+  text-align: center;
 }
 
 .btn-tag:hover, .btn-tag:focus{
@@ -51,6 +52,7 @@ footer {
     font-variant:inherit;
     font-style:inherit;
     font-size:inherit;
+    text-align: center;
 }
 
 .btn-read, .btn-read:active{
