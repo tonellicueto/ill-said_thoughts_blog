@@ -29,12 +29,12 @@ Consideraremos que acoso incluye cualquiera de las siguientes acciones:
 * Contacto físico o contacto físico simulado, como descripciones como "\*abrazo\*" or "\*masa de espalda\*", sin consentimiento o después de una petición para parar.
 * Amenazas de violencia.
 * Incitar a la violencia contra cualquier individuo, incluyendo animar a una persona a suicidarse o autodañarse.
-* Deliberate intimidation.
-* Stalking or following.
-* Harassing photography or recording, including logging online activity for harassment purposes.
-* Sustained disruption of discussion.
-* Unwelcome sexual attention.
-* Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
+* Intimidación deliberada.
+* Acechar o seguir.
+* Acosar mediante fotografías y vídeos, incluido el registro de la actividad on-line para fines de acoso.
+* Interrupción continua del debate.
+* Atención sexual no deseada.
+* Patrones de contacto social inapropiado, como exigir/asumir niveles inapropiados de intimidad con otres.
 * Continued one-on-one communication after requests to cease.
 * Deliberate "outing" of any aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 * Publication of non-harassing private communication.
