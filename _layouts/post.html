@@ -32,15 +32,15 @@ layout: default
 
   <p style="text-align:justify;">
   {% if page.categories.size == 1 %}
-  <b>Category</b>:
+    {% if page.lang=="en" %}<b>Category</b>:{% else %}<b>Categoría</b>:{% endif %}
   {% else %}
-  <b>Categories</b>:
+    {% if page.lang=="en" %}<b>Categories</b>:{% else %}<b>Categorías</b>:{% endif %}
   {% endif %}{% assign it = 0 %}
   {% for ct in page.categories %}
   <a href="https://tonellicueto.xyz/ill-said_thoughts_blog/categories/#{{ ct | slugify}}" style="font-variant: small-caps;">{{ ct }}</a>
   {% if it < page.categories.size %}, {% endif %}
   {% assign it = it+1 %}
-  {% endfor %}<br/><em>Tags:</em>
+  {% endfor %}<br/><em>{% if page.lang=="en" %}Tags:{% else %}Etiquetas:{% endif %}</em>
   {% for tag in page.tags %}
     <a class="btn btn-tag btn-sm" href="https://tonellicueto.xyz/ill-said_thoughts_blog/tags/#{{ tag | slugify}}" Labor="button" >&nbsp;{{ tag }}&nbsp;</a>
   {% endfor %}
