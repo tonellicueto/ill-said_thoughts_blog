@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spanish trial"
+title: "Spanish trial 2"
 author: "Josué Tonelli-Cueto"
 date: 2021-08-14
 categories: category1 category2
