@@ -10,7 +10,7 @@ lang: en
 published: false
 ---
 
-Whatever moves around in my head is most likely not an original thought. My head is full of the sound of the voices of the people I have read or listened. My thoughts are not necessarily mine, but just the superposition of all the echos of the voices—own or alien—resonating in the walls of my skull. In this paradox, where the boundary between the I and the circumstance blurs, I live without 
+Whatever moves around in my head is most likely not an original thought. My head is full of the sound of the voices of the people I have read or listened. My thoughts are not mine, but just the superposition of all the echos of the voices—own or alien—resonating in the walls of my skull. In this paradox, where the boundary between the I and the circumstance blurs, I live without an original idea 
 
 but just the superposition of the echos of a thousand read/heard voices resonating in the walls of my skull. My thoughts are just like yesterday's meal reheated in the microwave. Thus there is no way of saying them well.
 
