@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "The Rethinking Manifesto: A Manifesto for Ill-said Thoughts"
+title: "The Rethinking Manifesto&#58; A Manifesto for Ill-said Thoughts"
 author:
-- Iasafro Maesman
-- Josué Tonelli-Cueto
+- "Iasafro Maesman"
+- "Josué Tonelli-Cueto"
 date: 2021-12-31 23:59:59
 categories: manifesto
 tags:
