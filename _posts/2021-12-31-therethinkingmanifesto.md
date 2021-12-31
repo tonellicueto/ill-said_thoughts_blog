@@ -5,6 +5,7 @@ author:
 - "Iasafro Maesman"
 - "Josué Tonelli-Cueto"
 description: "A manifesto for the blog <<Ill-said Thoughts>>."
+excerpt: "A manifesto for the blog <<Ill-said Thoughts>>."
 date: 2021-12-31 23:59:59
 categories: manifesto
 tags:

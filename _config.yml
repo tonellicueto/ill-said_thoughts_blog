@@ -58,6 +58,10 @@ minima:
 #header_pages:
 # - about.md
 
+feed:
+  posts_limit: 999
+  excerpt_only: true
+
 # Build settings
 theme: minima
 
