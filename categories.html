@@ -52,7 +52,7 @@ Here we generate all the categories.
       {% endfor %}
     &#125; [
     {% assign it = 0 %}{% for tag in post.tags %}
-    <a href="#{{ tag | slugify }}">{{ tag }}</a>{% assign it = it+1 %}{% if it < post.tags.size %}, {% endif %}
+    <a href="#{{ tag | slugify }}">{{ tag }}</a>{% if it < post.tags.size %}, {% endif %}{% assign it = it+1 %}
     {% endfor %}
     ]</small></small>
   </li>
