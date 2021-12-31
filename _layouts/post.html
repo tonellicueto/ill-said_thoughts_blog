@@ -50,9 +50,9 @@ layout: default
     {% if page.lang=="en" %}<b>Category</b>:{% else %}<b>Categoría</b>:{% endif %}
   {% else %}
     {% if page.lang=="en" %}<b>Categories</b>:{% else %}<b>Categorías</b>:{% endif %}
-  {% endif %}{% assign it = 0 %}
+  {% endif %}{% assign it = 1 %}
   {% for ct in page.categories %}
-  <a href="https://tonellicueto.xyz/ill-said_thoughts_blog/categories/#{{ ct | slugify}}" style="font-variant: small-caps;">{{ ct }}</a>{% assign it = it+1 %}{% if it < page.categories.size %}, {% endif %}
+  <a href="https://tonellicueto.xyz/ill-said_thoughts_blog/categories/#{{ ct | slugify}}" style="font-variant: small-caps;">{{ ct }}</a>{% if it < page.categories.size %}, {% endif %}{% assign it = it+1 %}
   {% endfor %}<br/><em>{% if page.lang=="en" %}Tags:{% else %}Etiquetas:{% endif %}</em>
   {% for tag in page.tags %}
     <a class="btn btn-tag btn-sm" href="https://tonellicueto.xyz/ill-said_thoughts_blog/tags/#{{ tag | slugify}}" Labor="button" >&nbsp;{{ tag }}&nbsp;</a>
