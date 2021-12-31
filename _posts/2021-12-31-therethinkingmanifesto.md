@@ -4,7 +4,7 @@ title: "The Rethinking Manifesto"
 author:
 - "Iasafro Maesman"
 - "Josué Tonelli-Cueto"
-description: "A manifesto for the beginning of this blog whose goal is: to rethink, to rethink and to rethink."
+description: "A manifesto for the blog <<Ill-said Thoughts>>."
 date: 2021-12-31 23:59:59
 categories: manifesto
 tags:
