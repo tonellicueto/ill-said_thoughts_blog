@@ -2,8 +2,8 @@
 layout: post
 title: "The Rethinking Manifesto: A Manifesto for Ill-said Thoughts"
 author:
-- "Iasafro Maesman"
-- "Josué Tonelli-Cueto"
+-"Iasafro Maesman"
+-"Josué Tonelli-Cueto"
 date: 2021-12-31 23:59:59
 categories: manifesto
 tags: "(pseudo)random thoughts" blog
@@ -12,7 +12,7 @@ lang: en
 published: true
 ---
 
-Full with all the voices I have listened/read, where is my voice? Inside the walls of my skull, the echos of the voices—own or alien—superpose with each other becoming my own alien voice. My thoughts are rethoughts. While the thinker views the world and thinks, I—a rethinker—hear to the others' voices and I rethink. My worldview is a worldhear, I view the world I hear. Lost without an essence, lost without a view, my postmodern I—a processor in the (re)thinking human network—gets rethoughts in and out.
+Full with all the voices I have listened/read, where is my voice? Inside the walls of my skull, the echos of the voices—own or alien—superpose with each other becoming my own alien voice. My thoughts are rethoughts. While the thinker views the world and thinks, I—a rethinker—hear to the others' voices and I rethink. My worldview is a worldhear, I view the world I hear. Lost without an essence, lost without own view, my postmodern I—a processor in the (re)thinking human network—gets rethoughts in and out.
 
 Rethinking—unlike thinking—can only be collective. Rethoughts, like stories, pass from person—or should I say processor?—to person in an infinite loop of relistening/rereading-rethinking. Like in a game of *teléfono escacharrado*—or a mathematical proof—, each rethought is small—or trivial—, but after many iterations the surprise emerges: the small becomes big—the trivial becomes complex. A processor has limited computational—cognitive—power, but put many processors in a chain and the accumulation of infinitesimal steps becomes an integral jump. Let the chain become a non-linear thinking network and the jump turns into a flight.
 
