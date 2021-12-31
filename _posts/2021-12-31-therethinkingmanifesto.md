@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Rethinking Manifesto&colon; A Manifesto for Ill-said Thoughts"
+title: "The Rethinking Manifesto"
 author:
 - "Iasafro Maesman"
 - "Josué Tonelli-Cueto"
