@@ -4,7 +4,7 @@ title: "The Rethinking Manifesto"
 author:
 - "Iasafro Maesman"
 - "Josué Tonelli-Cueto"
-description: "I intend just three things: to rethink, to rethink and to rethink. [...] In rethinking—recombining, remixing, rewriting/resaying, rediscussing—thoughts already out there, I am searching for articulating what I deem important to be rethought."
+description: "A manifesto for the beginning of this blog whose goal is: to rethink, to rethink and to rethink."
 date: 2021-12-31 23:59:59
 categories: manifesto
 tags:
