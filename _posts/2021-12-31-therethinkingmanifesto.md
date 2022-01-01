@@ -4,8 +4,8 @@ title: "The Rethinking Manifesto"
 author:
 - "Iasafro Maesman"
 - "Josué Tonelli-Cueto"
-description: "A manifesto for the blog Ill-said Thoughts."
-excerpt: "A manifesto for the blog Ill-said Thoughts."
+description: "A manifesto for the \"Ill-said Thoughts\" blog."
+excerpt: "A manifesto for the \"Ill-said Thoughts\" blog."
 image: "../imgs/rethinkingmanifesto.png"
 date: 2021-12-31 23:59:59
 categories: manifesto
