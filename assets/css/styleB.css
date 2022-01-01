@@ -112,9 +112,3 @@ footer {
     font-size: inherit;
     text-decoration: inherit;
 }
-
-blockquote > p{
-  font-style:inherit;
-  font-size: inherit;
-  text-decoration: inherit;
-}
