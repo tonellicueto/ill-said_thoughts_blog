@@ -115,7 +115,7 @@ footer {
 
 .abstract {
    color:#000000;
-   background-color:#ffdcff;
+   background-color:#ffaaff;
    @include relative-font-size(0.9);
    font-style: inherit;
    text-align:justify;
