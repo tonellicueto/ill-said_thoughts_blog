@@ -6,7 +6,7 @@ html {
  * Reset some basic elements
  */
 body, h1, h2, h3, h4, h5, h6,
-p, blockquote, blockabstract, pre, hr,
+p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
@@ -40,7 +40,7 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, blockabstract, pre,
+p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
@@ -125,18 +125,6 @@ blockquote {
     font-style: normal;
   }
 }
-
-blockabstract {
-   color:#DCDCDC;
-   background-color:#ee2523;
-   @include relative-font-size(0.9);
-   font-style: inherit;
-   text-align:justify;
-   width:100%;
-   padding-top: 1em;
-   padding-bottom: 1em;
-   margin-bottom: 0;
- }
 
 /**
  * Code formatting
