@@ -127,16 +127,14 @@ blockquote {
 }
 
 blockabstract {
-   color: $brand-color;
-   padding-right: $spacing-unit / 2;
-   padding-left: $spacing-unit / 2;
-   @include relative-font-size(0.95);
+   color:#DCDCDC;
+   background-color:#ee2523;
+   @include relative-font-size(0.9);
    font-style: inherit;
    text-align:justify;
-
-   > :last-child {
-     margin-bottom: 0;
-   }
+   width:100%;
+   padding-top: 1em;
+   padding-bottom: 1em;
  }
 
 /**
