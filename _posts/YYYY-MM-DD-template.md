@@ -4,7 +4,7 @@ title: "Title"
 author: "Josué Tonelli-Cueto"
 description: "..."
 excerpt: "..."
-#image: "..."
+image: "../imgs/logo.png"
 date: YYYY-MM-DD
 categories: category1 category2
 tags: tag1 tag2
