@@ -22,9 +22,6 @@ published: true
 La primera iteración de este texto fue escrita en siete postales enviadas a diversas personas desde Venezia. Las iteraciones posteriores son extensiones, variaciones y permutaciones de esa iteración inicial improvisada. El presente texto no es más que una de esas iteraciones posteriores.
 </div>
 <br/>
-<br/>
-<br/>
-<br/>
 Una *homotopía*—sin entrar en tecnicismos—es una deformación de una cosa en otra. En computación, no siempre es fácil obtener una solución a problema desde cero. Sin embargo, deformar un problema que sabemos resolver en otro que no sabemos resolver siguiendo la solución puede ser mucho más fácil. Este método, conocido como *deformación homotópica*, es central en la resolución de sistemas de polinomios. Sin embargo, no entremos en los detalles de este método por ahora.
 
 Tratar de entender mejor este método fue lo que me trajo a Venezia para trabajar con Felipe Cucker—uno de mis directores de tesis—. Bueno, eso y el hecho de que Felipe tiene un piso en este ciudad. Esto último es importante, porque Felipe y yo no podíamos reunirnos en Hong Kong debido a la pandemia, por lo que tener un lugar para reunirse era necesario. Y dada la posibilidad, Venezia era un gran lugar para hacerlo.
@@ -46,4 +43,6 @@ Intentemos no ser tan abstractes y volvamos a Venezia. En nuestra situación, te
 
 La Enoteca Schiavi está cerca de la Gallerie dell'Accademia de Venezia—la Accademia a partir de ahora—, en tanto que es fácil encontrarla bien explorando alrededor de la Accademia o preguntando a une locale que esté por allá. Ahora, igual tampoco sabemos ir a la Accademia, pero desde la piaza de San Marco se puede ir a la Accademia siguiendo las señales correspondientes. De esta forma, si sabemos ir a San Marco, sabemos ir a la Accademia y de ahí a la Enoteca Schiavi y sus *chiquetti*. Esto es, hemos 'deformado' el problema de ir a San Marco al problema de ir a la Enoteca Schiavi pasando a través del problema de ir a la Accademia. Esto muestra la filosofía de la *continuación homotópica* en acción.
 
-Ahora, si bien siempre puedo orientarme por Venezia—y dónde sea—haciendo homotopías y continuaciones homotópicas, no siempre debe une saber dónde va a acabar. Perderse por Venezia, deambulando sobre sus canales y por sus puentes sin rumbo aparente, será siempre más divertido y bello que hacer homotopías y continuaciones homotópicas en ella.  
+Ahora, si bien siempre puedo orientarme por Venezia—y dónde sea—haciendo homotopías y continuaciones homotópicas, no siempre debe une saber dónde va a acabar. Perderse por Venezia, deambulando sobre sus canales y por sus puentes sin rumbo aparente, será siempre más divertido y bello que hacer homotopías y continuaciones homotópicas en ella.
+
+***  
