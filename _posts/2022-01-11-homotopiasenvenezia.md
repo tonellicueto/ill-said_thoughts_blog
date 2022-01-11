@@ -33,14 +33,14 @@ Al andar por Venezia, une no puede evitar perderse en el complicado laberinto de
 
 Ahora, perderse en Venezia y sus paisajes urbanos no es siempre una posibilidad. A veces, tenemos que ir a alguna parte desde otra parte—de casa a la piazza San Marco o tu *gelateria* favorita. Con un móvil esto es fácil, pero imaginemos que al estar tan atentos al móvil nos tropezamos y—la Matemática no lo quiera—se nos cae el móvil a un canal. ¿Cómo hacemos ahora para ir a alguna parte y no a ninguna parte?
 
-Si el lugar está suficientemente cerca, la solución es sencilla: preguntamos a une locale[^1] o simplemente examinamos las calles cercanas y listo. Lamentablemente, no siempre tenemos la suerte de ir a un lugar cercano—dicho de otra manera: tenemos la mala suerte de ir a un lugar lejano[^r]. En esta situación, ¿cuál puede ser una buena estrategia? Un local puede darnos indicaciones difíciles de seguir/recordar—o incluso erróneas— y explorar la ciudad puede llevarnos demasiado tiempo. Así, la pregunta sigue: ¿qué podemos hacer?
+Si el lugar está suficientemente cerca, la solución es sencilla: preguntamos a une locale[^1] o simplemente examinamos las calles cercanas y listo. Lamentablemente, no siempre tenemos la suerte de ir a un lugar cercano—dicho de otra manera: tenemos la mala suerte de ir a un lugar lejano.[^r] En esta situación, ¿cuál puede ser una buena estrategia? Un local puede darnos indicaciones difíciles de seguir/recordar—o incluso erróneas— y explorar la ciudad puede llevarnos demasiado tiempo. Así, la pregunta sigue: ¿qué podemos hacer?
 
 [^1]: Si es que todavía existen locales en Venezia.
 [^r]: Siguiendo el estilo *rajoyano*.
 
 En vez de tratar de ir directamente de donde estamos a ese lugar lejano al que queremos ir—resolver directamente el problema—, podemos 'deformar'—transformar—nuestro problema en otro más fácil de resolver. Este problema a su vez 'deformamos' en otro más fácil de resolver, y así sucesivamente hasta que llegamos a un punto donde nuestras técnicas iniciales (preguntar a une locale o examinar las calles cercanas) pueden resolver el problema. Así, en vez de resolver nuestro problema de golde, poco a poco hemos transformado este problema incial en una sucesión de problemas más fáciles de resolver. Esto es la filosofía que subyace a la *continuación homotópica*.
 
-Intentemos no ser tan abstractes y volvamos a Venezia. En nuestra situación, tenemos hambre y queremos comer algunos *chiquetti*[^c]. En vez de ir a un lugar cualquiera, estamos caprichoses y así decidimos ir a la Enoteca Schiavi porque tienen *chiquetti* en abundancia y a buen precio.
+Intentemos no ser tan abstractes y volvamos a Venezia. En nuestra situación, tenemos hambre y queremos comer algunos *chiquetti*.[^c] En vez de ir a un lugar cualquiera, estamos caprichoses y así decidimos ir a la Enoteca Schiavi porque tienen *chiquetti* en abundancia y a buen precio.
 
 [^c]: Una versión veneziana de los *pintxos*—pronunciado 'pinchos' para aquelles desconocedores del euskera.
 
