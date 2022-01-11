@@ -19,7 +19,7 @@ published: true
 ---
 
 <div class="jumbotron abstract" style="font-style: italic;">
-La primera iteración de este texto fue escrita en siete postales enviadas a diversas personas desde Venezia el 27 de julio de 2021. Las iteraciones posteriores son extensiones, variaciones y permutaciones de esa iteración inicial improvisada. El presente texto no es más que una de esas iteraciones posteriores.
+La primera iteración de este texto fue escrita en siete postales enviadas desde Venezia el 27 de julio de 2021. Las iteraciones posteriores son extensiones, variaciones y permutaciones de esa iteración inicial improvisada. El presente texto no es más que una de esas iteraciones posteriores.
 </div>
 <br/>
 Una *homotopía*—sin entrar en tecnicismos—es una deformación de una cosa en otra. En computación, no siempre es fácil obtener una solución a problema desde cero. Sin embargo, deformar un problema que sabemos resolver en otro que no sabemos resolver siguiendo la solución puede ser mucho más fácil. Este método, conocido como *deformación homotópica*, es central en la resolución de sistemas de polinomios. Sin embargo, no entremos en los detalles de este método por ahora.
