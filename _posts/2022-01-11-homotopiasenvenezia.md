@@ -33,7 +33,7 @@ Al andar por Venezia, une no puede evitar perderse en el complicado laberinto de
 
 Ahora, perderse en Venezia y sus paisajes urbanos no es siempre una posibilidad. A veces, tenemos que ir a alguna parte desde otra parte—de casa a la piazza San Marco o tu *gelateria* favorita. Con un móvil esto es fácil, pero imaginemos que al estar tan atentos al móvil nos tropezamos y—la Matemática no lo quiera—se nos cae el móvil a un canal. ¿Cómo hacemos ahora para ir a alguna parte y no a ninguna parte?
 
-Si el lugar está suficientemente cerca, la solución es sencilla: preguntamos a une locale[ˆ1] o simplemente examinamos las calles cercanas y listo. Lamentablemente, no siempre tenemos la suerte de ir a un lugar cercano—dicho de otra manera: tenemos la mala suerte de ir a un lugar lejano[^r]. En esta situación, ¿cuál puede ser una buena estrategia? Un local puede darnos indicaciones difíciles de seguir/recordar—o incluso erróneas— y explorar la ciudad puede llevarnos demasiado tiempo. Así, la pregunta sigue: ¿qué podemos hacer?
+Si el lugar está suficientemente cerca, la solución es sencilla: preguntamos a une locale[^1] o simplemente examinamos las calles cercanas y listo. Lamentablemente, no siempre tenemos la suerte de ir a un lugar cercano—dicho de otra manera: tenemos la mala suerte de ir a un lugar lejano[^r]. En esta situación, ¿cuál puede ser una buena estrategia? Un local puede darnos indicaciones difíciles de seguir/recordar—o incluso erróneas— y explorar la ciudad puede llevarnos demasiado tiempo. Así, la pregunta sigue: ¿qué podemos hacer?
 
 [^1]: Si es que todavía existen locales en Venezia.
 [^r]: Siguiendo el estilo *rajoyano*.
