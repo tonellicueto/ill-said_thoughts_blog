@@ -8,8 +8,11 @@ image: "../imgs/logo.png"
 date: YYYY-MM-DD
 categories: category1 category2
 tags: tag1 tag2
-#lang: es
 lang: en
+#lang: es
+#lang: eu
+#lang: de
+#lang:fr
 published: false
 ---
 

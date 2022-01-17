@@ -29,8 +29,16 @@ layout: default
           </a>
           {%- if post.lang=="en" -%}
           <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" style="float:right;">Read</a>
-          {%- else -%}
+          {% elsif post.lang=="es" %}
           <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >Leer</a>
+          {% elsif post.lang=="eu" %}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >Irakurri</a>
+          {% elsif post.lang=="de" %}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >Lesen</a>
+          {% elsif post.lang=="fr" %}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >Lire</a>
+          {%- else -%}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >¿?</a>
           {% endif %}
         </h3>
         {%- if site.show_excerpts -%}
