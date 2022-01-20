@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Divulgación / Popular Science"
-permalink: /divulgacion/
+title: "Creations literarias"
+permalink: /creationsliteraturias/
 ---
 
 <div class="post" style="padding-top: 60px">
@@ -11,7 +11,7 @@ permalink: /divulgacion/
 </header>
 
 <div class="jumbotron abstract" style="font-style: italic;">
-Debajo puedes encontrar una lista de mis posts de divulgación científica y matemática, tanto en castellano como en otros idiomas—mayoritariamente en inglés. / Below you can find a list of my posts related to popularization of science and mathematics, both in English and other languages—mainly in Spanish.
+Debajo you can find a lista de mis posts containing poems, historias and so on, both en castellano und in English. ¿And quizás other idiomas?
 </div><br/>
 
 
@@ -22,7 +22,7 @@ Debajo puedes encontrar una lista de mis posts de divulgación científica y mat
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%-d/%b/%Y" -%}
       {%- for post in posts -%}
-      {%- if post.categories contains "divulgación" -%}
+      {%- if post.categories contains "story" or post.categories contains "poem" -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
