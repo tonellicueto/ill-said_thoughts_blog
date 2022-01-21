@@ -2,8 +2,8 @@
 layout: post
 title: "Homotopías en Venezia"
 author: "Josué Tonelli-Cueto"
-description: "¿Qué es eso de la continuación homotópica? Este post, que mezcla lo personal, lo matemático y los veneziano, describe la filosofía subyacente a la continuación homotópica ilustrándola con el andar en Venezia."
-excerpt: "¿Qué es eso de la continuación homotópica? Este post, que mezcla lo personal, lo matemático y los veneziano, describe la filosofía subyacente a la continuación homotópica ilustrándola con el andar en Venezia."
+description: "¿Qué es eso de la continuación homotópica? Este post, que mezcla lo personal, lo matemático y lo veneziano, describe la filosofía subyacente a la continuación homotópica ilustrándola con el andar en Venezia."
+excerpt: "¿Qué es eso de la continuación homotópica? Este post, que mezcla lo personal, lo matemático y lo veneziano, describe la filosofía subyacente a la continuación homotópica ilustrándola con el andar en Venezia."
 image: "../imgs/homotopiasenvenezia.png"
 date: 2022-01-11 11:11:11
 categories:

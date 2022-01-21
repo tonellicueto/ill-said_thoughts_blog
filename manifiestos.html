@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Creations literarias"
-permalink: /creationsliterarias/
+title: "Manifiestos / Manifestos"
+permalink: /manifiestos/
 ---
 
 <div class="post" style="padding-top: 60px">
@@ -11,7 +11,7 @@ permalink: /creationsliterarias/
 </header>
 
 <div class="jumbotron abstract">
-Lista de las creations literarias—poems, historias...—in blog hau.
+Lista de los manifiestos publicados en este blog. / List of the manifestos published in this blog.
 </div><br/>
 
 
@@ -22,7 +22,7 @@ Lista de las creations literarias—poems, historias...—in blog hau.
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%-d/%b/%Y" -%}
       {%- for post in posts -%}
-      {%- if post.categories contains "story" or post.categories contains "poem" -%}
+      {%- if post.categories contains "manifesto" -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
