@@ -46,7 +46,7 @@
     for (i = 0; i < x.length; i++) {
      x[i].style="width:100%;";
     }
-    document.getElementById("phone1").style.visibility='visible';
+    document.getElementById("phone1").innerHTML='<a href="{{ "/" | relative_url }}" style="font-variant: small-caps;  font-weight: bold;color:white;">{{ site.title | escape }}</a><br/><a href="{{"/categories/" | relative_url }}" style="color: white;">Categories</a> &#183; <a href="{{ "/tags/" | relative_url }}" style="color: white;">Tags</a> &#183; <a href="{{ 'feed.xml' | relative_url }}" style="color: white;">Feed</a><br/><a id="phone2" href="{{ "/listoflists/" | relative_url }}" style="color: white;">List of lists</a><br/>&copy;{{ site.author.name | escape }}<br/><a id="phone1" href="https://tonellicueto.xyz" style="font-variant: small-caps;  font-weight: bold;color:white;">Personal Web</a>';
     document.getElementById("phone2").style.visibility='hidden';
     document.getElementById("phone3").style.visibility='visible';
     x = document.getElementsByClassName("fixed-top");
