@@ -31,13 +31,16 @@
     var x;
     var i;
     x = document.getElementsByTagName("H1");
-    for (i = 0; i < x.length; i++) {x[i].style.fontSize="1.9em";}
+    for (i = 0; i < x.length; i++) {x[i].style.fontSize="1.9em";x[i].style.fontWeight="bold";}
     x = document.getElementsByTagName("H2");
-    for (i = 0; i < x.length; i++) {x[i].style.fontSize="1.6em";}
+    for (i = 0; i < x.length; i++) {x[i].style.fontSize="1.6em";x[i].style.fontWeight="bold";}
     x = document.getElementsByTagName("H3");
-    for (i = 0; i < x.length; i++) {x[i].style.fontSize="1.3em";}
+    for (i = 0; i < x.length; i++) {x[i].style.fontSize="1.3em";x[i].style.fontWeight="bold";}
     x = document.getElementsByTagName("H4");
-    for (i = 0; i < x.length; i++) {x[i].style.fontSize="1em";}
+    for (i = 0; i < x.length; i++) {x[i].style.fontSize="1em";x[i].style.fontWeight="bold";}
+    x = document.getElementsByClassName("post-header");
+    let text=x[0].innerHTML;
+    x[0].innerHTML = text.replace(" / ", "<br/>/ ");
     x = document.getElementsByClassName("btn btn-read");
     for (i = 0; i < x.length; i++) {
      x[i].style="width:100%;";
