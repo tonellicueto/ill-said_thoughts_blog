@@ -46,7 +46,7 @@
     for (i = 0; i < x.length; i++) {
      x[i].style="width:100%;";
     }
-    document.getElementById("phone1").innerHTML='<a href="{{ "/" | relative_url }}" style="font-variant: small-caps;  font-weight: bold;color:white;">{{ site.title | escape }}</a><br/><a href="{{"/categories/" | relative_url }}" style="color: white;">Categories</a> &#183; <a href="{{ "/tags/" | relative_url }}" style="color: white;">Tags</a> &#183; <a href="{{ 'feed.xml' | relative_url }}" style="color: white;">Feed</a><br/><a href="{{ "/listoflists/" | relative_url }}" style="color: white;">List of lists</a><br/>&copy;{{ site.author.name | escape }}<br/><a href="https://tonellicueto.xyz" style="font-variant: small-caps;  font-weight: bold;color:white;">Personal Web</a>';
+    document.getElementById("phone1").innerHTML='<a href="{{ "/" | relative_url }}" style="font-variant: small-caps;  font-weight: bold;color:white;">{{ site.title | escape }}</a><br/><a href="{{"/categories/" | relative_url }}" style="color: white;">Categories</a> &#183; <a href="{{ "/tags/" | relative_url }}" style="color: white;">Tags</a> &#183; <a href="{{ 'feed.xml' | relative_url }}" style="color: white;">Feed</a><br/>&#183; <a href="{{ "/listoflists/" | relative_url }}" style="color: white;">List of lists</a> &#183; <br/>&copy;{{ site.author.name | escape }}<br/><a href="https://tonellicueto.xyz" style="font-variant: small-caps;  font-weight: bold;color:white;">Personal Web</a>';
     x = document.getElementsByClassName("fixed-top");
      x[0].innerHTML='<p style="text-align:center;padding-top:5vw;padding-bottom:3vw;"><a class="btn btn-title rounded-0" href="{{ "/" | relative_url }}">&nbsp;{{ site.title | escape }}&nbsp;</a></p>';
      x[0].style.backgroundColor="#ee2523";
