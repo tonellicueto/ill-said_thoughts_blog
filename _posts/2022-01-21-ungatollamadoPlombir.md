@@ -53,7 +53,7 @@ Sin embargo, a parte de los principio del *Katzenmanifest*, Пломбир convi
 
 En este ambiente de peligro constante, ¿qué puede hacer Пломбир? Cuando Пломбир necesita paz, pide salir al balcón. Este lugar puede ser frío—y más en Ucrania—, pero este *plombières* andante no teme al frío. Un frío que le permite estar solo, en tranquilidad, de vacaciones de su intensa actividad doméstica de juegos infantiles. En este balcón, Пломбир, como un *plombières* en la nevera, enfría su espíritu para seguir siendo tan *chill*.
 
-Un día que una belarrusa y un bilbaíno visitaron a esta familia belarrusa, Пломбир intentó escapar no una, sino dos veces. Aprovechando las largas despedidas, que dejaban largo tiempo la puerta abierta, Пломбир como de un prisionero esperando la ocasión aprovechó para escapar de la casa. Para pena de Пломбир—y alegría de la familia belarrusa—, esta visitante pareja encontró a Пломбир y lo devolvió ignorando su llamada de auxilio codificada en sus intentos de evasión.
+Un día que una belarrusa y un bilbaíno visitaron a esta familia belarrusa, Пломбир intentó escapar no una, sino dos veces. Aprovechando las largas despedidas, que dejaban largo tiempo la puerta abierta, Пломбир, como un prisionero esperando la ocasión, aprovechó para escapar de la casa. Para pena de Пломбир—y alegría de la familia belarrusa—, esta visitante pareja encontró a Пломбир y lo devolvió ignorando su llamada de auxilio codificada en sus intentos de evasión.
 
 Así, condenado a su vida en esta casa ucraniana con esta familia belarrusa, Пломбир continúa *chill*mente resistiendo todo lo que se le viene encima. Porque a diferencia de otros *plombières*, este *plombières* andante nunca se derritirá, siempre se mantendrá *chill*.
 
