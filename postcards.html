@@ -1,0 +1,54 @@
+---
+layout: default
+title: "Proyectos postales / Postcard projects"
+permalink: /postcards/
+---
+
+<div class="post" style="padding-top: 60px">
+
+<header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+</header>
+
+<div class="jumbotron abstract">
+Muchos posts en este blog no son más que iteraciones—extensiones, variaciones y permutaciones—acumuladas de escritos cuya primera iteración improvisada fue fragmentada a lo largo de varias postales que eran mandadas a distintas personas desde algún lugar del mundo. La lista aquí presente recopila los posts que han surgido a partir de estos proyectos postales. / Many posts in this blog are nothing more than accumulated iterations—extensions, variations and permutations—of writtings whose first improvised iteration was fragmented across several postcards. These postcards were sent to different people from someplace of the world. The list here collects all the posts arising from these postcard projects.
+</div><br/>
+
+
+  {% assign posts = site.posts %}
+
+
+  {%- if posts.size > 0 -%}
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%-d/%b/%Y" -%}
+      {%- for post in posts -%}
+      {%- if post.categories contains "postcards" -%}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a href="{{ post.url | relative_url }}" style="font-variant: small-caps;">
+            {{ post.title | escape }}
+          </a>
+          {%- if post.lang=="en" -%}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" style="float:right;">Read</a>
+          {% elsif post.lang=="es" %}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >Leer</a>
+          {% elsif post.lang=="eu" %}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >Irakurri</a>
+          {% elsif post.lang=="de" %}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >Lesen</a>
+          {% elsif post.lang=="fr" %}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >Lire</a>
+          {%- else -%}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >¿Read?</a>
+          {% endif %}
+        </h3>
+          {{ post.excerpt }}
+      </li>
+      {% endif %}
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+
+</div>
