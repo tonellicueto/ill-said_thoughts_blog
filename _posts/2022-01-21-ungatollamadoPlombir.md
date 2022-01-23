@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un gato llamado Пломбир"
-author: "Josué Tonelli-Cueto"
+author: "Iasafro Maesman"
 description: "En una casa de Ucrania, un gato belarruso [llamado Пломбир] vive junto a la familia belarrusa..."
 excerpt: "En una casa de Ucrania, un gato belarruso [llamado Пломбир] vive junto a la familia belarrusa..."
 image: "../imgs/plombir.jpg"
