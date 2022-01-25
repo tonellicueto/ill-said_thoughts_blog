@@ -36,7 +36,7 @@ layout: default
         <span style="color:#000000;">• {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <span class="p-author h-card" itemprop="name" style="color:#ee2523;">{{ author }}</span></span>
-            {%- if forloop.last == false -%}, {%- else -%} & {%- endif -%}</span>
+            {%- if forloop.last == false -%}, {%- else -%}&nbsp;& &nbsp;{%- endif -%}</span>
         {% endfor %}
       {%- endif -%}</p>
   </header>
