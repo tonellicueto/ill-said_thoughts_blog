@@ -24,9 +24,8 @@ layout: default
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         • {% for author in post.author %}
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-        {%- if forloop.last == false %}, {% endif -%}
+        <span class="p-author h-card" itemprop="name" style="color:#ee2523;">{{ author }}</span>
+        {%- if forloop.last == false %}, {%- else -%} & {% endif -%}
         {% endfor %}
         <h3>
           <a href="{{ post.url | relative_url }}" style="font-variant: small-caps;">
