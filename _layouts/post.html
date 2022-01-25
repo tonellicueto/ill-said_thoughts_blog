@@ -33,10 +33,10 @@ layout: default
       {%- endif -%}
       {%- endif -%}
       {%- if page.author -%}
-        <span style="color:#000000;">• {% for author in page.author %}{% assign beforelast = forloop.length | minus: 1 %}
+        <span style="color:#000000;">•</span> {% for author in page.author %}{% assign beforelast = forloop.length | minus: 1 %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <span class="p-author h-card" itemprop="name" style="color:#ee2523;">{{ author }}</span></span>
-            {%- if forloop.index < beforelast -%}, {% elsif forloop.index == beforelast %} & {% endif -%}</span>
+            {%- if forloop.index < beforelast -%}<span style="color:#000000;">,</span> {% elsif forloop.index == beforelast %} <span style="color:#000000;">&</span> {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
   </header>
