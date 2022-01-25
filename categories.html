@@ -45,8 +45,8 @@ Here we generate all the categories.
   <li>
     <a href="../{{ post.url }}">
       {% for author in post.author %}{% assign beforelast = forloop.length | minus: 1 %}
-      {{ author }}{%- if forloop.index < beforelast -%}, {% elsif forloop.index == beforelast %} & {% endif -%}{%- endfor -%}.
-      ({{ post.date | date: "%-d/%b/%Y" }})
+      {{ author }}{%- if forloop.index < beforelast -%}, {% elsif forloop.index == beforelast %} & {% endif -%}{%- endfor %}
+      ({{ post.date | date: "%-d/%b/%Y" }}).
       <berlin style="font-variant: small-caps;">{{ post.title }}</berlin>.
     </a> <small><small>&#123;
     {%- for ct in post.categories -%}

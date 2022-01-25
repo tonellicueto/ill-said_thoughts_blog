@@ -11,12 +11,10 @@ image: "../imgs/logo.png"
 date: YYYY-MM-DD
 categories:
 - conferences
-- organization
 - mathematics
-- science
 tags:
 - hybrid
-- tips
+- organization
 - my life as a mathematician
 lang: en
 #lang: es
