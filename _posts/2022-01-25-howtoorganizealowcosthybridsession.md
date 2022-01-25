@@ -7,7 +7,7 @@ author:
 - "Josué Tonelli-Cueto"
 description: "We give some tips on how to organize a low-cost hybrid session at a scientific conference based on our own experience organizing one. The tips are intended to show how to turn an on-site session for around 30 people into a hybrid session by taking advantage of the highly technological world we live in."
 excerpt: "We give some tips on how to organize a low-cost hybrid session at a scientific conference based on our own experience organizing one. The tips are intended to show how to turn an on-site session for around 30 people into a hybrid session by taking advantage of the highly technological world we live in."
-image: "../imgs/logo.png"
+image: "../imgs/lowcosthybrid.png"
 date: 2022-01-25 20:00:00
 categories:
 - conferences
