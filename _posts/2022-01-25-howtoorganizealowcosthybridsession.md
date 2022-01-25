@@ -74,7 +74,7 @@ Of course, it is not enough to know the components of a machine to make it work.
 1. All computers should be connected to the streaming/video-sharing platform.
 1. The same computer should be connected to the speakers and the wireless microphone.
 
-   The reason for having this is to avoid a feedback loop in the audio. Most streaming/video-sharing platforms do not reproduce the sound emitted through the speakers and recorded in the microphone, thus eliminating the problem. Note that we are considering a session where the speaker can be heard well if E speaks in the room, so no additional arrangements are needed for the sound.
+   The reason for having this is to avoid a feedback loop in the audio. Most streaming/video-sharing platforms do not reproduce the sound emitted through the speakers and recorded in the microphone of the same computer, thus eliminating the problem. Note that we are considering a session where the speaker can be heard well if E speaks in the room, so no additional arrangements are needed for the sound.
 1. The computer connected to the projector should be the one whose screen is shared through the streaming/video-sharing platform.
 
    In this way, the slide presentation is shared directly with the on-line audience guaranteeing a better quality than sharing a recording of the projection of the slides. Of course, when an on-line speaker presents, this computer will not be sharing the screen but the corresponding on-line speaker.
