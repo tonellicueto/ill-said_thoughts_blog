@@ -23,9 +23,9 @@ layout: default
       {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        • {% for author in post.author %}
+        • {% for author in post.author %}{% assign beforelast = forloop.length | minus: 1 %}
         <span class="p-author h-card" itemprop="name" style="color:#ee2523;">{{ author }}</span>
-        {%- if forloop.last == false %}, {%- else -%}&nbsp;& &nbsp;{% endif -%}
+        {%- if forloop.index < beforelast -%}, {% elsif forloop.index == beforelast %} & {% endif -%}
         {% endfor %}
         <h3>
           <a href="{{ post.url | relative_url }}" style="font-variant: small-caps;">
