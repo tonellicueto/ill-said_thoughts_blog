@@ -43,7 +43,7 @@ An on-site or on-line session is successful if the following three requisites ha
 
 It is so natural to extend these requirements to a hybrid session. However, satisfying these requisites is harder in the hybrid session because each environment—the on-site and the on-line session—works differently. On top of that, we have to alternate between these two environments. For example, we have to guarantee that a talk given by an on-site speaker is not only followed by the on-site people but also recorded and streamed properly to all the on-line participants. If we are not careful, the latter might restrict the speaker's movement, making that E cannot take advantage of Eir body language to give the presentation in the room. Thus making the on-site talk just like an on-line talk, but in a bigger room and with people accompanying Em in the room.
 
-## What do we need for a successful hybrid session?
+## What do we need for a hybrid session?
 
 Taking into account the above, to perform a successful hybrid session, we need:
 1. One or two computers with a good Internet connection.
