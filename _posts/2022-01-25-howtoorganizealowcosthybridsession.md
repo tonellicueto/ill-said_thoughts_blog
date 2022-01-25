@@ -30,7 +30,7 @@ Congreso Bienal de la RSME (Biennial Congress of the Royal Spanish Mathematical 
 
 In this post, we will show how an on-site session for around 30 participants—it may work for more—in a room can be turned into a low-cost hybrid session using today's technological advantages. Our point is to show that we don't need highly specialized technology to organize a successful hybrid session in this highly technological world.
 
-# What means that a hybrid session is successful?
+## What means that a hybrid session is successful?
 
 An on-site or on-line session is successful if the following three requisites happen:
 1. Every speaker can give Eir[^1] presentation in the assigned time frame.
@@ -43,7 +43,7 @@ An on-site or on-line session is successful if the following three requisites ha
 
 It is so natural to extend these requirements to a hybrid session. However, satisfying these requisites is harder in the hybrid session because each environment—the on-site and the on-line session—works differently. On top of that, we have to alternate between these two environments. For example, we have to guarantee that a talk given by an on-site speaker is not only followed by the on-site people but also recorded and streamed properly to all the on-line participants. If we are not careful, the latter might restrict the speaker's movement, making that E cannot take advantage of Eir body language to give the presentation in the room. Thus making the on-site talk just like an on-line talk, but in a bigger room and with people accompanying Em in the room.
 
-# What do we need for a successful hybrid session?
+## What do we need for a successful hybrid session?
 
 Taking into account the above, to perform a successful hybrid session, we need:
 1. One or two computers with a good Internet connection.
@@ -84,7 +84,7 @@ Of course, it is not enough to know the components of a machine to make it work.
 
 We should try to have 20 minutes before the session to try the set-up and guarantee that everything works properly. This time is critical the first time since it allows one to correct any problems that might arise.  
 
-# Making a low-cost hybrid session
+## Making a low-cost hybrid session
 
 To do the above setting, it might seem that one needs expensive equipment to guarantee that everything works well. However, this is far from the truth. First, we should note that a conference presentation needs neither extremely high-quality image nor high-quality sounds. It needs good image and good sounds, but there is no need to employ the state-of-the-art technology more suited to the needs of an artistic live event than to the needs of a scientific event. Second, many of the technological components listed above can be found in the pieces of technology that we carry with us. As of today, many of us have laptops, phones, headphones and many more technological pieces that give sufficiently good technology for making a hybrid scientific session.
 
