@@ -25,6 +25,10 @@ Muchos posts en este blog no son más que iteraciones—extensiones, variaciones
       {%- if post.categories contains "postcards" -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
+        • {% for author in post.author %}{% assign beforelast = forloop.length | minus: 1 %}
+        <span class="p-author h-card" itemprop="name" style="color:#ee2523;">{{ author }}</span>
+        {%- if forloop.index < beforelast -%}, {% elsif forloop.index == beforelast %} & {% endif -%}
+        {% endfor %}
         <h3>
           <a href="{{ post.url | relative_url }}" style="font-variant: small-caps;">
             {{ post.title | escape }}
