@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "How to organize a low-cost hybrid event?"
+title: "How to organize a low-cost hybrid session at a scientific conference?"
 author:
 - "Laura Brustenga i Moncusí"
 - "Roser Homs"
 - "Josué Tonelli-Cueto"
-description: "We give some tips on how to organize a low-cost hybrid session for a scientific conference based on our own experience organizing one. The tips are intented to show how turn into hybrid an on-site session for around 30 people."
-excerpt: "We give some tips on how to organize a low-cost hybrid session for a scientific conference based on our own experience organizing one. The tips are intented to show how turn into hybrid an on-site session for around 30 people."
+description: "We give some tips on how to organize a low-cost hybrid session at a scientific conference based on our own experience organizing one. The tips are intended to show how to turn an on-site session for around 30 people into a hybrid session by taking advantage of the highly technological world we live in."
+excerpt: "We give some tips on how to organize a low-cost hybrid session at a scientific conference based on our own experience organizing one. The tips are intended to show how to turn an on-site session for around 30 people into a hybrid session by taking advantage of the highly technological world we live in."
 image: "../imgs/logo.png"
 date: 2022-01-25 20:00:00
 categories:
