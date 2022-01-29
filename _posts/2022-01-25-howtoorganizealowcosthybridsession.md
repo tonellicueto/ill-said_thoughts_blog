@@ -46,15 +46,27 @@ It is so natural to extend these requirements to a hybrid session. However, sati
 ## What do we need for a hybrid session?
 
 Taking into account the above, to perform a successful hybrid session, we need:
-1. One or two computers with a good Internet connection.<br/>To interconnect the components and the in-site and on-line settings.  
-1. An streaming/video-sharing platform.<br/>To communicate between the on-site and the on-line participants.
-1. A projector (and the needed adapters).<br/>To transmit the on-line presentation and the on-line participants to the on-site participants.
-1. Speakers[^ls].<br/>To transmit the audio from the on-line room to the on-site participants.
+1. One or two computers with a good Internet connection.
+
+   To interconnect the components and the in-site and on-line settings.  
+1. An streaming/video-sharing platform.
+
+   To communicate between the on-site and the on-line participants.
+1. A projector (and the needed adapters).
+
+   To transmit the on-line presentation and the on-line participants to the on-site participants.
+1. Speakers[^ls].
+
+   To transmit the audio from the on-line room to the on-site participants.
 1. A camera.
 
    To record and transmit the on-site presentation and the on-site questioners to the on-line participants.
-1. A wireless microphone.<br/>To record and transmit the sound of the on-site presentation and the on-site questions to the on-line participants.
-1. A presentation remote.<br/>To pass the slides without the need to approach the computer.
+1. A wireless microphone.
+
+   To record and transmit the sound of the on-site presentation and the on-site questions to the on-line participants.
+1. A presentation remote.
+
+   To pass the slides without the need to approach the computer.
 
 [^ls]: Loudspeakers, not the people giving the talks!
 
@@ -77,13 +89,27 @@ We should try to have 20 minutes before the session to try the set-up and guaran
 To do the above setting, it might seem that one needs expensive equipment to guarantee that everything works well. However, this is far from the truth. First, we should note that a conference presentation needs neither extremely high-quality image nor high-quality sounds. It needs good image and good sounds, but there is no need to employ the state-of-the-art technology more suited to the needs of an artistic live event than to the needs of a scientific event. Second, many of the technological components listed above can be found in the pieces of technology that we carry with us. As of today, many of us have laptops, phones, headphones and many more technological pieces that give sufficiently good technology for making a hybrid scientific session.
 
 Let us go piece by piece:
-1. Computers with a good Internet connection.<br/>If the room does not have computers, we should use laptops instead. For the Internet connection, we should be careful that the *eduroam* setting is properly set up so that it works at the institution we are in.
-1. Streaming/video-sharing platform.<br/>If your institution offers zoom or other platforms, there is not much to do. However, as of today, there are reasonable open and free alternatives such as [Jitsi meet](https://meet.jit.si/) that work reasonably well.
-1. A projector.<br/>We should expect to find such a device in a room where an on-site session was gonna take place.
-1. Speakers.<br/>Depending on the room, the speakers of the laptop might suffice. However, as of today, one can find a lot of very cheap speakers that one can connect to the computer. Note that we are reproducing a person speaking, so the sound quality doesn't need to be perfect.
-1. Wireless microphone.<br/>Regular Bluetooth headphones with microphone—usually used for the phone—are an excellent cheap substitute that one could already have. One can find for less than 25 euros many reasonable versions of these. However, if one has wired headphones with microphone, one can connect them to a phone connected to the streaming/video-sharing platform, so that the phone will record and transmit the sound. This last solution would then be very similar to the standard microphone connected to a box that one carries around in big talks.
-1. Camera.<br/>Although a professional camera is always better, the current cameras of laptops (and tablets) have a very decent quality. In general, a laptop camera will have a resolution of 720p which is not ideal. However, the recording of the on-site presentations will not be seen in a huge screen but in a computer screen, for which this resolution is sufficiently good even to read what is being written in a blackboard presentation.
-1. A presentation remote.<br/>An on-site speaker likely has one. However, if one has a wireless mouse, this device can be used as an alternative.
+1. Computers with a good Internet connection.
+
+   If the room does not have computers, we should use laptops instead. For the Internet connection, we should be careful that the *eduroam* setting is properly set up so that it works at the institution we are in.
+1. Streaming/video-sharing platform.
+
+   If your institution offers zoom or other platforms, there is not much to do. However, as of today, there are reasonable open and free alternatives such as [Jitsi meet](https://meet.jit.si/) that work reasonably well.
+1. A projector.
+
+   We should expect to find such a device in a room where an on-site session was gonna take place.
+1. Speakers.
+
+   Depending on the room, the speakers of the laptop might suffice. However, as of today, one can find a lot of very cheap speakers that one can connect to the computer. Note that we are reproducing a person speaking, so the sound quality doesn't need to be perfect.
+1. Wireless microphone.
+
+   Regular Bluetooth headphones with microphone—usually used for the phone—are an excellent cheap substitute that one could already have. One can find for less than 25 euros many reasonable versions of these. However, if one has wired headphones with microphone, one can connect them to a phone connected to the streaming/video-sharing platform, so that the phone will record and transmit the sound. This last solution would then be very similar to the standard microphone connected to a box that one carries around in big talks.
+1. Camera.
+
+   Although a professional camera is always better, the current cameras of laptops (and tablets) have a very decent quality. In general, a laptop camera will have a resolution of 720p which is not ideal. However, the recording of the on-site presentations will not be seen in a huge screen but in a computer screen, for which this resolution is sufficiently good even to read what is being written in a blackboard presentation.
+1. A presentation remote.
+
+   An on-site speaker likely has one. However, if one has a wireless mouse, this device can be used as an alternative.
 
 In this way, one can for sure set up a seminar room in a university for hybrid sessions with a budget of fewer than 100 euros. Moreover, this low-cost solution allows us to prepare for the eventuality that we have to convert a planned on-site session to a hybrid one where both on-site and on-line participants can enjoy the session.
 
