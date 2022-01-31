@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://illsaidthoughts.xyz/howtoorganizealowcosthybridsession/</loc>
+    <lastmod>2022-01-25</lastmod>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://illsaidthoughts.xyz/ungatollamadoPlombir/</loc>
+    <lastmod>2022-01-21</lastmod>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://illsaidthoughts.xyz/homotopiasenvenezia/</loc>
+    <lastmod>2022-01-11</lastmod>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://illsaidthoughts.xyz/thesispoem/</loc>
+    <lastmod>2022-01-05</lastmod>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://illsaidthoughts.xyz/newyear2022/</loc>
+    <lastmod>2022-01-01</lastmod>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://illsaidthoughts.xyz/therethinkingmanifesto/</loc>
+    <lastmod>2021-12-31</lastmod>
+    <priority>1</priority>
+  </url>
+
+<!-- Permanent -->
+
+<url>
+  <loc>https://illsaidthoughts.xyz/</loc>
+  <lastmod>2022-01-29</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://illsaidthoughts.xyz/categories/</loc>
+  <lastmod>2022-01-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://illsaidthoughts.xyz/tags/</loc>
+  <lastmod>2022-01-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://illsaidthoughts.xyz/listoflists/</loc>
+  <lastmod>2022-01-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://illsaidthoughts.xyz/creationsliterarias/</loc>
+  <lastmod>2022-01-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://illsaidthoughts.xyz/divulgacion/</loc>
+  <lastmod>2022-01-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://illsaidthoughts.xyz/manifestos/</loc>
+  <lastmod>2022-01-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://illsaidthoughts.xyz/mathposts/</loc>
+  <lastmod>2022-01-29</lastmod>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://illsaidthoughts.xyz/postcards/</loc>
+  <lastmod>2022-01-29</lastmod>
+  <priority>0.5</priority>
+</url>
+
+</urlset>
