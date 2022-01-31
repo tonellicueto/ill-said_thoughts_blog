@@ -14,7 +14,7 @@ Here we generate all the tags.
 {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
 
-{% assign rawtags = rawtags | split:'|' | sort %}
+{% assign rawtags = rawtags | split:'|' | sort_natural %}
 
 {% assign tags = "" %}
 
@@ -31,12 +31,10 @@ Here we generate all the tags.
 {% endif %}
 {% endfor %}
 
-{% assign tags=tags | sort_natural | join: '|' %}
-
 <div class="row">
 {% for tag in tags %}
-<div class="col-md-4" style="text-align:center;padding-top:0.5em;">
-<a class="btn btn-tag" href="#{{ tag | slugify}}" role="button" style="width:100%;">{{ tag }}</a>
+<div class="col-md-6" style="text-align:center;padding-top:0.5em;">
+<a class="btn btn-tag" href="#{{ tag | slugify}}" role="button" style="width:80%;">{{ tag }}</a>
 </div>
 {% endfor %}
 </div>
