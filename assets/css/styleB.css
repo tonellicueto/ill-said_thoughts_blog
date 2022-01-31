@@ -1,6 +1,6 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 html {
-  scroll-padding-top: 70px; /* height of sticky header */
+  scroll-padding-top: 80px; /* height of sticky header */
 }
 
 footer {
