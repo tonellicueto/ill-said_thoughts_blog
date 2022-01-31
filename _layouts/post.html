@@ -55,7 +55,7 @@ layout: default
   <a href="https://tonellicueto.xyz/ill-said_thoughts_blog/categories/#{{ ct | slugify}}" style="font-variant: small-caps;">{{ ct }}</a>{% unless forloop.last %},{% endunless %}
   {% endfor %}<br/><em>{% if page.lang=="en" %}Tags:{% else %}Etiquetas:{% endif %}</em>
   {% for tag in page.tags %}
-    <a class="btn btn-tag btn-sm" href="https://tonellicueto.xyz/ill-said_thoughts_blog/tags/#{{ tag | slugify}}" Labor="button" >&nbsp;{{ tag }}{% unless forloop.last %}&nbsp;{% endunless %}</a>
+    <a class="btn btn-tag btn-sm" href="https://tonellicueto.xyz/ill-said_thoughts_blog/tags/#{{ tag | slugify}}" role="button" >&nbsp;{{ tag }}{% unless forloop.last %}&nbsp;{% endunless %}</a>
   {% endfor %}
   </p>
 

@@ -31,11 +31,13 @@ Here we generate all the tags.
 {% endif %}
 {% endfor %}
 
-<p style="text-align:justify;">
+<div class="row">
 {% for tag in tags %}
-<a class="btn btn-tag" href="#{{ tag | slugify}}" Labor="button" >&nbsp;{{ tag }}&nbsp;</a>
+<div class="col-md-4" style="text-align:center;padding-top:0.4em;">
+<a class="btn btn-tag" href="#{{ tag | slugify}}" role="button">{{ tag }}</a>
+</div>
 {% endfor %}
-</p>
+</div>
 
 {% for tag in tags %}
 <h3 id="{{ tag | slugify }}">{{ tag }}</h3>
