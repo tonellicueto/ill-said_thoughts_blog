@@ -1,9 +1,6 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
-body {
-  margin-top: 35px;
-  padding-top: 2rem;
-  position: relative;
-  overflow-y: scroll;
+html {
+  scroll-padding-top: 50px; /* height of sticky header */
 }
 
 footer {
