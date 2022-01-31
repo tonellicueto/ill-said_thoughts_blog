@@ -31,6 +31,8 @@ Here we generate all the tags.
 {% endif %}
 {% endfor %}
 
+{% tags | join: '|' |sort_natural %}
+
 <div class="row">
 {% for tag in tags %}
 <div class="col-md-4" style="text-align:center;padding-top:0.5em;">
