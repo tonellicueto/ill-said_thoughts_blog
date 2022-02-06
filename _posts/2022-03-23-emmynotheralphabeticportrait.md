@@ -2,9 +2,9 @@
 layout: post
 title: "Emmy Noether, alphabetic portrait"
 author: "Iasafro Maesman"
-description: "Alphabetic portrait (in the sense of OuLiPo) of the German mathematician Emmy Noether"
-excerpt: "Alphabetic portrait (in the sense of OuLiPo) of the German mathematician Emmy Noether"
-image: "../imgs/logo.png"
+description: "Alphabetic portrait (in the sense of OuLiPo) of the mathematician Emmy Noether"
+excerpt: "Alphabetic portrait (in the sense of OuLiPo) of the mathematician Emmy Noether"
+image: "../imgs/emmynoether.png"
 date: 2022-03-23 00:00:00
 categories:
 - poem
@@ -52,7 +52,7 @@ Zürich, where the International Congress of Mathematics where she was recognize
 <br/>
 <br/>
 <div class="jumbotron abstract" style="font-style: italic;">
-Translation of my own original in Spanish, "Emmy Noether, retrato alfabético", published in the blog [mujeres con ciencia](https://mujeresconciencia.com/2015/10/05/emmy-noether-retrato-alfabetico/). We publish this translation on the 140th birthday of Emmy Noether, on the 23rd of March 2022. 
+Translation of my own original in Spanish, "Emmy Noether, retrato alfabético", published in the blog [mujeres con ciencia](https://mujeresconciencia.com/2015/10/05/emmy-noether-retrato-alfabetico/). We publish this translation on the 140th birthday of Emmy Noether, on the 23rd of March 2022.
 </div>
 ***
 An alphabetic portrait is one of the literary (potential) constructions of *OuLiPo* (Ouvroir de Littérature Potentielle). The definition (translated of the [original definition in French by Michèle Audin](https://www.oulipo.net/fr/contraintes/alphabetique-portrait)) is as follows:
