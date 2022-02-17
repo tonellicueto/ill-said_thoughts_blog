@@ -20,7 +20,7 @@ published: true
 ---
 
 <div class="jumbotron abstract" style="font-style: italic;">
-Este texto propio fue originalmente publicado por primera vez en el blog de la revista [$\pi kasle$](https://pikasle.com/pikasle_es.html) para participar en la [Edición 5.2 Emmy Noether del Carnaval de Matemáticas en marzo de 2014](http://matesdedavid.blogspot.com/2014/03/edicion-52-emmy-noether_10.html) cuyo anfitrión fue [Matesdavid](http://matesdedavid.blogspot.com/). Junto con _[Un puzzle sencillo](https://culturacientifica.com/2014/03/26/un-puzzle-sencillo/)_ del [Cuaderno de Cultura Científica](https://culturacientifica.com/), obtuvo [el premio al mejor post de dicha edición del carnaval](http://eliatron.blogspot.com/2014/04/premio-carnamat52.html).
+Este texto propio fue originalmente publicado por primera vez en el blog de la revista <a href="https://pikasle.com/pikasle_es.html">$\pi kasle$</a> para participar en la <a href="http://matesdedavid.blogspot.com/2014/03/edicion-52-emmy-noether_10.html">Edición 5.2 Emmy Noether del Carnaval de Matemáticas en marzo de 2014</a> cuyo anfitrión fue [Matesdavid](http://matesdedavid.blogspot.com/). Junto con _[Un puzzle sencillo](https://culturacientifica.com/2014/03/26/un-puzzle-sencillo/)_ del [Cuaderno de Cultura Científica](https://culturacientifica.com/), obtuvo [el premio al mejor post de dicha edición del carnaval](http://eliatron.blogspot.com/2014/04/premio-carnamat52.html).
 </div>
 <br/>
 
