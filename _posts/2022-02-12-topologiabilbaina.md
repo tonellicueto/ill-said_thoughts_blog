@@ -34,6 +34,6 @@ Toda persona, ya sea de Bilbao o no, ha visto alguna vez este mapa[^MB]:
 ¿Qué significa este mapa? ¿Qué representa? Aunque muchos/as no lo sepan, representa la topología verdadera del universo. Y es que el universo no es un toro (donut), una bola o un espacio euclídeo, el universo está centrado en Bilbao. Bilbao está en todas partes. Da igual donde te encuentres, Bilbao siempre está cerca de ti porque es la capital del universo. Por ello, la
 topología del universo es la topología Bilbao-inclusión.
 
-[^MB]: _Nota no presente en el post original:_ El mapamundi bilbaíno, cuyo título original es _Map of the World_, es una obra del artista vasco Juan Echegoien Krug y que firmó como JEK Larson del Wissenschaftler Art Group, New York. [Más información en este artículo de Isabel Ibañez en _el Correo_](https://www.elcorreo.com/bizkaia/201601/26/quien-dibujo-mapamundi-bilbao-20160119104605.html).
+[^MB]: _Nota no presente en el post original:_ El mapamundi bilbaíno, cuyo título original es _Map of the World_, es una obra del artista vasco Juan Echegoien Krug y que firmó como JEK Larson del Wissenschaftler Art Group, New York. [Más información en este artículo de Isabel Ibañez en _El Correo_](https://www.elcorreo.com/bizkaia/201601/26/quien-dibujo-mapamundi-bilbao-20160119104605.html).
 
 ***
