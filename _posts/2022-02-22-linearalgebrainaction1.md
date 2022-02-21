@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linear Algebra at Work.<br/>1: Radicals and Kummer's Theory"
+title: "Linear Algebra at Work.\n 1: Radicals and Kummer's Theory"
 author: "Josué Tonelli-Cueto"
 description: "'Linear Algebra at Work' is a series of posts showing nice application of linear algebra inside mathematics. In this post: radical extensions and Kummer theory."
 excerpt: "'Linear Algebra at Work' is a series of posts showing nice application of linear algebra inside mathematics. In this post: radical extensions and Kummer theory."
