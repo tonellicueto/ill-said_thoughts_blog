@@ -17,16 +17,16 @@ lang: en
 #lang: eu
 #lang: de
 #lang:fr
-published: true
+published: false
 ---
 
 <div class="jumbotron abstract" style="font-style: italic;">
 If number theory is the queen of mathematics, linear algebra is its working class—ignored by the upper disciplines of mathematics, linear algebra does the heavy work underneath. In this series of posts, I intend to share those examples of linear algebra at work to showcase not only the beauty of linear algebra but its computational, simplifying and unifying power.
 </div>
 <br/>
-The *raison d'être* of [Galois theory](https://en.wikipedia.org/wiki/Galois_theory)[^1] is the following theorem:
+The *raison d'être*[^re] of [Galois theory](https://en.wikipedia.org/wiki/Galois_theory)[^1] is the following theorem:
 
-*[raison d'être]: reason for existing
+[^re]: reason for existing
 
 **Theorem.** A univariate polynomial $f\in K[X]$ is solvable by radical if and only if the Galois group of the Galois group its splitting field over $K$ is solvable.
 
@@ -134,7 +134,7 @@ is a non-zero $\omega$-eigenvector of $\sigma$—and so it is a primitive elemen
 
 $$X^n-1=n\omega^{-1}(X-\omega)\mathcal{L}_n,$$
 
-we have that a) $\mathrm{im}(\sigma-\omega\mathrm{id})=\keq \mathcal{L}_n(\sigma)$, b) $\mathrm{im}\mathcal{L}_n(\sigma)=\ker(\sigma-\omega\mathrm{id})$, and c) $L$ is a direct sum of the image of $\mathcal{L}_n(\sigma)$ and the image of $\sigma-\omega\mathrm{id}$.
+we have that a) $\mathrm{im}(\sigma-\omega\mathrm{id})=\ker \mathcal{L}_n(\sigma)$, b) $\mathrm{im}\,\mathcal{L}_n(\sigma)=\ker(\sigma-\omega\mathrm{id})$, and c) $L$ is a direct sum of the image of $\mathcal{L}_n(\sigma)$ and the image of $\sigma-\omega\mathrm{id}$.
 
 Now, let's show that $\mathcal{L}_n(\sigma)$ is a projection onto the subspace of $\omega$-eigenvector of $\sigma$:
 * $1\Rightarrow 2.$ This follows from b) in the first paragraph of the proof.
@@ -156,7 +156,11 @@ $$\frac{1}{n}\sum_{k=0}^{n-1}\omega^{-k}\sigma^ku$$
 is non-zero, and so, by b) above, it is a non-zero $\omega$-eigenvector of $\sigma$, as desired.
 <p style="text-align:right">$\square$</p>
 
+It is important to note how the classical theory can be fully recovered through linear algebra. Moreover, we obtain sufficient and necessary conditions for
+
 ## Kummer theory
+
+
 
 
 ***
