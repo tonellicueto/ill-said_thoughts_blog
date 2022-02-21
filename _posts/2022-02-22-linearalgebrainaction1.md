@@ -26,6 +26,8 @@ If number theory is the queen of mathematics, linear algebra is its working clas
 <br/>
 The *raison d'être* of [Galois theory](https://en.wikipedia.org/wiki/Galois_theory)[^1] is the following theorem:
 
+*[raison d'être]: reason for existing
+
 **Theorem.** A univariate polynomial $f\in K[X]$ is solvable by radical if and only if the Galois group of the Galois group its splitting field over $K$ is solvable.
 
 We can interpret this theorem as one of the first uncomputability results, in which a certain computational method—taking adding, substracting, multiplying, dividiving and taking radicals—is not enough to express the roots of a polynomial. At the core of the proof of the above theorem lies the following proposition.
