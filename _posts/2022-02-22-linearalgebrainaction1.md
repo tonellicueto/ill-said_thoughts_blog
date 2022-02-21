@@ -120,7 +120,6 @@ $$1=\left(\frac{1}{n}\sum_{k=1}^{n-1}(n-k)\omega^{-k}X^{k-1}\right)(X-\omega)+L_
 
 ## Kummer theory
 
-## Artin-Schreier theory
 
 ***
 

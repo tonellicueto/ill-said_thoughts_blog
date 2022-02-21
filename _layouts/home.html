@@ -29,7 +29,7 @@ layout: default
         {% endfor %}
         <h3>
           <a href="{{ post.url | relative_url }}" style="font-variant: small-caps;">
-            {{ post.title | escape }}
+            {{ post.title | newline_to_br }}
           </a>
           {%- if post.lang=="en" -%}
           <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" style="float:right;">Read</a>
