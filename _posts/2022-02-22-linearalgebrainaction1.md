@@ -26,11 +26,11 @@ If number theory is the queen of mathematics, linear algebra is its working clas
 <br/>
 The *raison d'être* of [Galois theory](https://en.wikipedia.org/wiki/Galois_theory)[^1] is the following theorem:
 
-> **Theorem.** A univariate polynomial $f\in K[X]$ is solvable by radical if and only if the Galois group of the Galois group its splitting field over $K$ is solvable.
+**Theorem.** A univariate polynomial $f\in K[X]$ is solvable by radical if and only if the Galois group of the Galois group its splitting field over $K$ is solvable.
 
 We can interpret this theorem as one of the first uncomputability results, in which a certain computational method—taking adding, substracting, multiplying, dividiving and taking radicals—is not enough to express the roots of a polynomial. At the core of the proof of the above theorem lies the following proposition.
 
-> **Proposition.** Let $L/K$ be a Galois extension of degree $p$ prime such that $K$ does not have characteristic $p$ and such that $K$ contains all $p$th roots of unity. Then $$L=K[\alpha^{\frac{1}{p}}]$$for some $\alpha\in K$.
+**Proposition.** Let $L/K$ be a Galois extension of degree $p$ prime such that $K$ does not have characteristic $p$ and such that $K$ contains all $p$th roots of unity. Then $$L=K[\alpha^{\frac{1}{p}}]$$for some $\alpha\in K$.
 
 To prove the above proposition, one employs very explicitly that $L/K$ does not have subextensions. As a consequence, one feels that one does not really understand why solvability by radicals work. At the core of the proof is the formula for the Lagrange resolvent
 $$\sum_{k=0}^{p-1}\omega^{-k}x^k,$$
@@ -44,19 +44,19 @@ Given a Galois extension $L/K$, we can consider any Galois automorphism $\sigma:
 
 However, considering Galois automorphisms as linear endomorphisms is nothing new. On the way to prove the fundamental theorem of Galois theory, one proves the following lemma whose proof we omit[^artin]. The objective of this lemma is to show that there cannot be more Galois automorphisms than the degree of the extension.
 
-> **Artin's Lemma. ** Let $L/K$ be a field extension and $\sigma_1,\ldots,\sigma_n\in\mathrm{Gal}(L/K)$ distinct Galois automorphisms of $L/K$. Then $\sigma_1,\ldots,\sigma_n$ are linearly independent over $L$ (as elements of the $L$-vector space of $K$-linear endomorphisms of $L$).
+**Artin's Lemma.** Let $L/K$ be a field extension and $\sigma_1,\ldots,\sigma_n\in\mathrm{Gal}(L/K)$ distinct Galois automorphisms of $L/K$. Then $\sigma_1,\ldots,\sigma_n$ are linearly independent over $L$ (as elements of the $L$-vector space of $K$-linear endomorphisms of $L$).
 
 [^artin]: The argument is by induction on $n$. For $n=1$, the statement is obvious. For $n>1$, assume that $\sum_{k=1}^n a_k\sigma_k=0$ for some $a_1,\ldots,a_n$. Note that this means that for all $x\in L$, $\sum_{k=1}^n a_k\sigma_k(x)=0$; and so for all $\alpha,x\in L$, $\sum_{k=1}^n a_k\sigma_k(\alpha)\sigma_k(x)=0$, by changing $x$ by $\alpha x$. Thus for all $\alpha\in L$, $\sum_{k=1}^n a_k\sigma_k(\alpha)\sigma_k=0$. Take $\alpha$ such that $\sigma_1(\alpha)\neq \sigma_n(\alpha)$, which exists because $\sigma_1\neq\sigma_n$. Then, by substracting $\sigma_n(\alpha)\sum_{k=1}^n a_k\sigma_k(x)$ from $\sum_{k=1}^n a_k\sigma_k(\alpha)\sigma_k$, we obtain that $\sum_{k=1}^{n-1} a_k(\sigma_k(\alpha)-\sigma_n(\alpha))\sigma_k=0$. Hence, by the induction hypothesis, $a_1=0$, and so, by the induction hypothesis, $a_2=\cdots=a_n=0$, since $\sum_{k=2}^n a_k\sigma_k=0$. Since $\sum_{k=1}^n a_k\sigma_k=0$ implies $a_1=\cdots=a_n=0$, $\sigma_1,\ldots,\sigma_n$ are linearly independent over $L$.
 
 Now, Artin's lemma does not answer our questions about characteristic polynomials and eigenvalues, so let's answer them with the following theorem:
 
-> **Theorem A. ** Let $L/K$ be a field extension of degree $n$ and $\sigma\in\mathrm{Gal}(L/K)$ a Galois automorphism of order $o$. Then:
-> 1. The minimal polynomial of $\sigma$ is $X^o-1$.
-> 2. The characteristic polynomial of $\sigma$ is $(X^o-1)^{n/o}$.
-> 3. If the characteristic of $K$ is not a divisor of $o$ and $K$ contains all $n$th roots of unity $1, \omega,\ldots,\omega^{o-1}$, then there is a $K$-basis of $L$ such that the associated matrix of $\sigma$ is a diagonal matrix with entries $1,\ldots, 1\omega,\ldots,\omega^{o-1}$ repeated $n/o$ times.
-> 4. Let $o=\tilde{o}p^s$ where $p$ is prime and $\tilde{o}$ is not divisble by $p$. If the characteristic of $K$ is $p$ and $K$ contains all $\tilde{o}$th roots of unity $\omega,\ldots,\omega^{\tilde{o}-1}$, then there is a $K$-basis of $L$ such that the associated matrix of $\sigma$ is a block-diagonal matrix with the $\tilde{o}$ Jordan blocks of size $p^s$
-> $$J_{p_s}(\omega^k):=\begin{pmatrix}\omega^k&1&&\\&\omega^k&\ddots&\\&&\ddots&1\\&&&\omega^k\end{pmatrix}\in K^{p^s\times p^s}\,(k\in\{0,\ldots,\tilde{o}-1\})$$
-> repeated $n/o$ times.
+**Theorem A.** Let $L/K$ be a field extension of degree $n$ and $\sigma\in\mathrm{Gal}(L/K)$ a Galois automorphism of order $o$. Then:
+1. The minimal polynomial of $\sigma$ is $X^o-1$.
+2. The characteristic polynomial of $\sigma$ is $(X^o-1)^{n/o}$.
+3. If the characteristic of $K$ is not a divisor of $o$ and $K$ contains all $n$th roots of unity $1, \omega,\ldots,\omega^{o-1}$, then there is a $K$-basis of $L$ such that the associated matrix of $\sigma$ is a diagonal matrix with entries $1,\ldots, 1\omega,\ldots,\omega^{o-1}$ repeated $n/o$ times.
+4. Let $o=\tilde{o}p^s$ where $p$ is prime and $\tilde{o}$ is not divisble by $p$. If the characteristic of $K$ is $p$ and $K$ contains all $\tilde{o}$th roots of unity $\omega,\ldots,\omega^{\tilde{o}-1}$, then there is a $K$-basis of $L$ such that the associated matrix of $\sigma$ is a block-diagonal matrix with the $\tilde{o}$ Jordan blocks of size $p^s$
+$$J_{p_s}(\omega^k):=\begin{pmatrix}\omega^k&1&&\\&\omega^k&\ddots&\\&&\ddots&1\\&&&\omega^k\end{pmatrix}\in K^{p^s\times p^s}\,(k\in\{0,\ldots,\tilde{o}-1\})$$
+repeated $n/o$ times.
 
 *Proof.* First, let us show that we can assume without loss of generality that $n=o$, i.e., that $L/K$ is a Galois extension whose Galois group is generated by $\sigma$.
 
@@ -84,7 +84,7 @@ For the fourth point, we have that the minimal polynomial of $\sigma$ is $(X^{\t
 
 Recall that a *cyclic extension* is a Galois extension whose Galois group is cyclic. The above proposition holds in more generality for cyclic extensions whose degree is not necessarily prime.
 
-> **Theorem B.** Let $L/K$ be a cyclic extension of degree $n$ such that the characteristic of $K$ does not divide $n$ and such taht $K$ contains all $n$th roots of unity. Then $$L=K[\alpha^{\frac{1}{n}}]$$for some $\alpha\in K$.
+**Theorem B.** Let $L/K$ be a cyclic extension of degree $n$ such that the characteristic of $K$ does not divide $n$ and such taht $K$ contains all $n$th roots of unity. Then $$L=K[\alpha^{\frac{1}{n}}]$$for some $\alpha\in K$.
 
 *Proof.* Let $\sigma$ be a generator of the Galois group of $L/K$ and $\omega\in K$ a primitive $n$th root of unity. By Theorem A, $\sigma$ has $\omega$ as an eigenvalue. Let $x\in L$ be one of its eigenvectors. Then
 
@@ -97,13 +97,13 @@ Hence, taking $\alpha=x^n\in K$, we have that $$L=K[\alpha^{\frac{1}{n}}]$$, as 
 
 Moreover, we can obtain some extra information on how to find $\alpha$ if we have the irreducible polynomial of a primitive element of $L/K$. In general, this is the only information that we will have.
 
-> **Theorem B'.** In the setting of Theorem $B$, let $\sigma$ be a generator of the Galois group of $L/K$, $\omega\in K$ a primitive $n$th root of unity and $p=X^n-\sum_{k=0}^na_kX^k$ the irreducible polynomial of a primitive element of $L/K$. Then we can take $\alpha\in K$ to be
-> $$\omega^{-\binom{n}{2}}\det\,L_n(C(p))\in K$$
-> where
-> $$L_n:=\frac{1}{n}\sum_{k=0}^{n-1}\omega^{-k}X^k$$
-> is the Lagrange resolvent and
-> $$C(p):=\begin{pmatrix}0 &  &  &  & -a_0 \\1 & 0 &  &  & -a_1 \\ & 1 & \ddots &  & -a_2 \\ & & \ddots & 0 & \vdots \\ &  & & 1 & -a_{n-1}\end{pmatrix}$$
-> is the companion matrix of $p$.
+**Theorem B'.** In the setting of Theorem $B$, let $\sigma$ be a generator of the Galois group of $L/K$, $\omega\in K$ a primitive $n$th root of unity and $p=X^n-\sum_{k=0}^na_kX^k$ the irreducible polynomial of a primitive element of $L/K$. Then we can take $\alpha\in K$ to be
+$$\omega^{-\binom{n}{2}}\det\,L_n(C(p))\in K$$
+where
+$$L_n:=\frac{1}{n}\sum_{k=0}^{n-1}\omega^{-k}X^k$$
+is the Lagrange resolvent and
+$$C(p):=\begin{pmatrix}0 &  &  &  & -a_0 \\1 & 0 &  &  & -a_1 \\ & 1 & \ddots &  & -a_2 \\ & & \ddots & 0 & \vdots \\ &  & & 1 & -a_{n-1}\end{pmatrix}$$
+is the companion matrix of $p$.
 
 
 
