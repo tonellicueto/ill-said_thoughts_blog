@@ -17,7 +17,7 @@ lang: en
 #lang: eu
 #lang: de
 #lang:fr
-published: true
+published: false
 ---
 
 <div class="jumbotron abstract" style="font-style: italic;">
@@ -46,9 +46,9 @@ where $\omega$ is a $p$th root of unity, which is very misterious in itself. Usi
 
 [^ext]: I leave for a future post dealing with the [Artin–Schreier theory](https://en.wikipedia.org/wiki/Artin%E2%80%93Schreier_theory).
 
-## How can we bring linear algebra into Galois theory?
+## Galois meets linear algebra
 
-Given a Galois extension $L/K$, we can consider any Galois automorphism $\sigma:L\rightarrow L$. Since Galois automorphisms are field-automorphisms of $L$ and fix every element of $K$, we have that $\sigma$ is, in particular, a $K$-linear endomorphism of the $K$-vector space $L$, i.e., a $K$-linear map of the $K$-vector space $L$ to itself. Once we make this realization, we can ask the following questions about $\sigma$ as a linear map: what is the characteristic polynomial of $\sigma$? And its minimal polynomial? What are the eigenvalues? How does the Jordan normal form of $\sigma$ looks like?
+Given a Galois extension $L/K$, we can consider any Galois automorphism $\sigma:L\rightarrow L$. Since Galois automorphisms are field-automorphisms of $L$ and fix every element of $K$, we have that $\sigma$ is, in particular, a $K$-linear endomorphism of the $K$-vector space $L$, i.e., a $K$-linear map of the $K$-vector space $L$ to itself. Once we make this realization, we can ask the following questions about $\sigma$ as a linear map: what is its characteristic polynomial? And its minimal polynomial? What are the eigenvalues? How does the Jordan normal form of $\sigma$ looks like?
 
 However, considering Galois automorphisms as linear endomorphisms is nothing new. On the way to prove the fundamental theorem of Galois theory, one proves the following lemma whose proof we omit[^artin]. The objective of this lemma is to show that there cannot be more Galois automorphisms than the degree of the extension.
 
