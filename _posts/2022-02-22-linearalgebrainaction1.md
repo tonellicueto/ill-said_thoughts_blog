@@ -42,7 +42,7 @@ To prove the above proposition, one employs very explicitly that $L/K$ does not 
 
 $$\sum_{k=0}^{p-1}\omega^{-k}x^k,$$
 
-where $\omega$ is a $p$th root of unity, which is very misterious in itself. Using linear algebra we can get a gratifying proof of this result and more: even a full proof of [Kummer theory](https://en.wikipedia.org/wiki/Kummer_theory) with computational content[^ext].
+where $\omega$ is a $p$th root of unity, which is very misterious in itself. Using linear algebra we can get a gratifying proof of this result and more: even a full proof of [Kummer theory](https://en.wikipedia.org/wiki/Kummer_theory) with computational content[^ext]. Even though many of the techniques highlighted here are not new, linear algebra makes these results more accessible to students who have just learned Galois theory in a way that many deductions follow in a more natural flow than writing formulas that give the desired result.
 
 [^ext]: I leave for a future post dealing with the [Artin–Schreier theory](https://en.wikipedia.org/wiki/Artin%E2%80%93Schreier_theory).
 
@@ -115,7 +115,7 @@ $$\mathcal{L}_n:=\frac{1}{n}\sum_{k=0}^{n-1}\omega^{-k}X^k$$
 
 where $\omega$ is a primitive $n$th root. Using linear algebra, we can still recover the usual approach.
 
-**Theorem B'.** In the setting of Theorem $B,$ let $\sigma$ be a generator of the Galois group of $L/K$ and $\omega\in K$ a primitive $n$th root of unity. Then the linear map
+**Theorem B'.** In the setting of Theorem B, let $\sigma$ be a generator of the Galois group of $L/K$ and $\omega\in K$ a primitive $n$th root of unity. Then the linear map
 
 $$\mathcal{L}_n(\sigma)\frac{1}{n}\sum_{k=0}^{n-1}\omega^{-k}\sigma^k$$
 
@@ -156,7 +156,51 @@ $$\frac{1}{n}\sum_{k=0}^{n-1}\omega^{-k}\sigma^ku$$
 is non-zero, and so, by b) above, it is a non-zero $\omega$-eigenvector of $\sigma$, as desired.
 <p style="text-align:right">$\square$</p>
 
-It is important to note how the classical theory can be fully recovered through linear algebra. Moreover, we obtain sufficient and necessary conditions for
+It is important to note how the classical theory can be fully recovered through linear algebra. Moreover, we obtain sufficient and necessary conditions for guaranteeing that the Lagrange resolvent gives us the desired primitive element. We finish with Hilbert's Theorem 90 for cyclic extensions, which can be used to prove that $\omega$-eigenvectors of $\sigma$ exist.
+
+**Hilbert's Theorem 90 for cyclic extensions.** Let $L/K$ be a cyclic extension of degree $n$ and $\sigma$ a generator of its Galois group. For $x\in L^*$, $x$ has norm,
+
+$$N(x):=\prod_{k=0}^{n-1}\sigma^k(x),$$
+
+equal to one, if and only if there is $z\in L^*$ such that
+
+$$x=\frac{\sigma z}{z}.$$
+
+*Proof.* Given $x\in L^*$, there is $z\in L^*$ such that $x=\sigma (z)/z$ if and only if the $K$-linear map $x^{-1}\sigma:L\mapsto L$ has $1$ as an eigenvalue.
+
+Now, by direct computation,
+
+$$\left(x^{-1}\sigma\right)^n=\prod_{k=0}^{n-1}\sigma^k(x^{-1})\sigma^n=\frac{1}{N(x)}\mathrm{id},$$
+
+due to the definition of norm and the fact that $\sigma$ has order $n$. Hence, the minimal polynomial of $x^{-1}\sigma$ divides $X^n-N(x)^{-1}$. Moreover, by Artin's lemma,
+
+$$\sum_{i=0}^{n-1}a_i\left(x^{-1}\sigma\right)^i= \sum_{k=0}^{n-1}\left(a_k\prod_{k=0}^i\sigma^k(x^{-1})\right)\sigma^i$$
+
+cannot be zero unless all the $a_k$ are so—note that Artin's Lemma imply that the $\sigma^i$ are not only $K$-linear independent, but also $L$-linear independent. Thus, the minimal polynomial of $x^{-1}\sigma$ is precisely
+
+$$X^n-N(x)^{-1}.$$
+
+Now, $1$ is an eigenvalue of $x^{-1}\sigma$ if and only if $1$ is a root of its minimal polynomial $X^n-N(x)^{-1}$ if and only if $N(x)=1$, as we wanted to prove.
+<p style="text-align:right">$\square$</p>
+
+Again we note how the knowledge we obtain about the minimal polynomial alone allows us to answer the question effortlessly. Moreover, using the fact that $X^n-1=(X-1)(\sum_{i=0}^{n-1}X^i)$, we obtain immediately the following result when the characteristic of $K$ does not divide $n$. This explains a formula that appears in some proofs of Hilbert's Theorem 90 for cyclic extensions, such as the one in Lang's *Algebra*.
+
+**Constructive Hilbert's Theorem 90 for cyclic extensions.** Let $L/K$ be a cyclic extension of degree $n$, not divisible by the characteristic of $K$, $\sigma$ a generator of its Galois group, and $x\in L^*$ an element of norm one. Then if $u\in L$ satisfies that for all $v\in L$, $\sigma v\neq x(u+v)$, then
+
+$$z=\sum_{i=0}^{n-1}\frac{\sigma^i(u)}{\prod_{k=0}^i\sigma^k(x)}$$
+
+is non-zero and satisfies that $x=\sigma(z)/z$.
+
+*Proof.* By the proof of Hilbert's Theorem 90, we have that
+
+$$X^n-1=(X-1)(\sum_{i=0}^{n-1}X^i)$$
+
+is the minimal polynomial of $x^{-1}\sigma$. Since the characteristic of $K$ does not divide $n$, this is a factorization into coprime polynomials. Hence a) $\mathrm{im}\,\sum_{i=0}^{n-1}(x^{-1}\sigma)^i=\ker (x^{-1}\sigma-\mathrm{id})$, and b) $\mathrm{im}(x^{-1}\sigma-\mathrm{id})=\ker \sum_{i=0}^{n-1}(x^{-1}\sigma)^i$. Now, after a simple computation,
+
+$$\sum_{i=0}^{n-1}(x^{-1}\sigma)^i=\sum_{i=0}^{n-1}\frac{1}{\prod_{k=0}^i\sigma^k(x)}\sigma^i.$$
+
+Hence the desired claim follows since any element in the non-zero image of this map satisfies the desired property, and to obtain such a non-zero element we only have to evaluate this map at an element $u$ not on the image of $(x^{-1}\sigma-\mathrm{id})$, i.e., such that for all $v\in L$, $\sigma(v)\neq x(u+v)$.
+<p style="text-align:right">$\square$</p>
 
 ## Kummer theory
 
