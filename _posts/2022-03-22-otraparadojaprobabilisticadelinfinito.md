@@ -40,7 +40,7 @@ Ahora, ¿qué quiere decir que el valor esperado–esperanza–de $\mathfrak{x}$
 converge a $\mathbb{E}\mathfrak{x}$ con casi toda seguridad, esto es, con probabilidad uno.
 
 [^lm]: En lenguaje matemático, las $\mathfrak{x}_i$ son variables aleatorias independientes e idénticamente distribuidas, con distribuión la misma que la de $\mathfrak{x}$. Esto es, para cada $i,n\in\mathbb{N},$
-$$\mathrm{Prob}(\mathfrak{x}_i=n)=\mathrm{Prob}(\mathfrak{x}=n)=\frac{6}{\pi^2}\frac{1}{n^2}.$$
+\\[\mathrm{Prob}(\mathfrak{x}_i=n)=\mathrm{Prob}(\mathfrak{x}=n)=\frac{6}{\pi^2}\frac{1}{n^2}.\\]
 
 [^lgn]: Para les expertes: Como estamos tratando con variables no-negativas, la ley de los grandes números sigue siendo cierto incluso cuando la esperanza es infinito. Por ejemplo, [véase este link para referencias](https://math.stackexchange.com/q/1644218/15330).
 
