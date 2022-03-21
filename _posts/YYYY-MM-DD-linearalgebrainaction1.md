@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Linear Algebra at Work.\n 1: Radicals and Kummer's Theory"
+title: "Linear Algebra at Work.\n 1: Revisiting Radicals"
 author: "Josué Tonelli-Cueto"
 description: "'Linear Algebra at Work' is a series of posts showing nice application of linear algebra inside mathematics. In this post: radical extensions and Kummer theory."
 excerpt: "'Linear Algebra at Work' is a series of posts showing nice application of linear algebra inside mathematics. In this post: radical extensions and Kummer theory."
 image: "../imgs/logo.png"
-date: 2022-02-22 22:20:22
+date: YYY-MM-DD
 categories:
 - linear algebra at work
 - mathematics
@@ -28,6 +28,8 @@ The *raison d'être*[^re] of [Galois theory](https://en.wikipedia.org/wiki/Galoi
 
 [^re]: reason for existing
 
+[^1]: Usually left out of any course of Galois theory due to lack of time at the end of the semester.
+
 **Theorem.** A univariate polynomial $f\in K[X]$ is solvable by radical if and only if the Galois group of the Galois group its splitting field over $K$ is solvable.
 
 We can interpret this theorem as one of the first uncomputability results, in which a certain computational method—taking adding, substracting, multiplying, dividiving and taking radicals—is not enough to express the roots of a polynomial. At the core of the proof of the above theorem lies the following proposition.
@@ -42,9 +44,9 @@ To prove the above proposition, one employs very explicitly that $L/K$ does not 
 
 $$\sum_{k=0}^{p-1}\omega^{-k}x^k,$$
 
-where $\omega$ is a $p$th root of unity, which is very misterious in itself. Using linear algebra we can get a gratifying proof of this result and more: even a full proof of [Kummer theory](https://en.wikipedia.org/wiki/Kummer_theory) with computational content[^ext]. Even though many of the techniques highlighted here are not new, linear algebra makes these results more accessible to students who have just learned Galois theory in a way that many deductions follow in a more natural flow than writing formulas that give the desired result.
+where $\omega$ is a $p$th root of unity, which is very mysterious in itself. Using linear algebra we can get a gratifying proof of this result not only for cyclic with prime order, but for cyclic extensions of arbitrary order. Moreover, the technique extends to Abelian extensions allowing us to get a more efficient understanding of radical extensions without reducing to cyclic factorization. Even though many of the techniques highlighted here are not new, linear algebra allows us to get a new perspective on these old results of Galois theory in a way that they are more accessible[^ext].
 
-[^ext]: I leave for a future post dealing with the [Artin–Schreier theory](https://en.wikipedia.org/wiki/Artin%E2%80%93Schreier_theory).
+[^ext]: I will leave for a future post dealing with the finite characteristic case in its full generality, the so-called [Artin–Schreier theory](https://en.wikipedia.org/wiki/Artin%E2%80%93Schreier_theory). Even though, what is written here would allow us to prove a full version of [Kummer theory](https://en.wikipedia.org/wiki/Kummer_theory) in this post, I decided against it, because my objective is to show how we can use linear algebra for understanding radical extensions better.
 
 ## Galois meets linear algebra
 
@@ -202,11 +204,60 @@ $$\sum_{i=0}^{n-1}(x^{-1}\sigma)^i=\sum_{i=0}^{n-1}\frac{1}{\prod_{k=0}^i\sigma^
 Hence the desired claim follows since any element in the non-zero image of this map satisfies the desired property, and to obtain such a non-zero element we only have to evaluate this map at an element $u$ not on the image of $(x^{-1}\sigma-\mathrm{id})$, i.e., such that for all $v\in L$, $\sigma(v)\neq x(u+v)$.
 <p style="text-align:right">$\square$</p>
 
-## Kummer theory
+## Radicals and Abelian extensions
+
+Let $L/K$ be an Abelian extension of degree $n$, which form does it have? When the extension is cyclic, the answer was given above under certain assumptions regarding the roots of unity and the characteristic of $K$. We extend Theorem B to Abelian extensions—the so-called Kummer extensions[^kummerext]—obtaining that the radical structure of Abelian structures is very simple. Recall that the *exponent* of a group $G$, $\exp(G)$, is the minimum number divided by the order of every element of $G$, i.e.,
+
+$$\exp(G):=\min\{n\in\mathbb{N}\mid \text{ for all }g\in G,\,g^n=1\}.$$
+
+[^kummerext]: A *Kummer extension* of exponent $n$ is an Abelian extension $L/K$ such that 1) every Galois automorphism of $L/K$ has order dividing $n$, 2) the characteristic of $K$ does not divide $n$, and 3) $K$ contains all $n$th roots of unity.
+
+**Theorem C.** Let $L/K$ be an Abelian extension of degree $m$ and $n\in \mathbb{N}$ such that
+1. the Galois group of $L/K$ has exponent dividing $n$,
+1. the characteristic of $K$ does not divide $n$, and
+1. $K$ constains all $n$th roots of unity $1,\omega,\ldots,\omega^{n-1}$.
+
+Then there are $\alpha_1,\ldots,\alpha_\ell\in K$ such that
+
+$$L=K[\alpha_1^{1/n},\ldots,\alpha_\ell^{1/n}].$$
+
+More precisely, let $\mathrm{Gal}(L/K)=\prod_{i=1}^{\ell}\langle \sigma_i\rangle$ with $\sigma_i$ of order $o_i$ such that $o_i$ divides $o_{i-1}$—this is always the case by the classification of finite Abelian groups. Then there are non-zero $x_1,\ldots,x_\ell\in L$ such that
+1. for all $i$, $x_i$ is a $\omega^{n/o_i}$-eigenvector of $\sigma_i$;
+1. for all $i$, for all $j\neq i$, $x_i$ is a $1$-eigenvector of $\sigma_j$, i.e., $x_j$ is fixed by $s\igma_j$; and
+And for any non-zero $x_1,\ldots,x_\ell\in L$ satsifying the above conditions, the following holds:
+* $L=K[x_1,\ldots,x_\ell],$ and
+* for all $i$, $X^{o_i}-x^{o_i}$ is the irreducible polynomial of $x_i$ over $K$.
+
+*Proof.* If we find non-zero $x_1,\ldots,x_\ell\in L$ satisfying conditions 1 and 2, then the only Galois automorphism fixing every element in $K[x_1,\ldots,x_\ell]$ is the trivial one. This follows from the following observation: If $\sigma_1^{k_1}\cdots \sigma_\ell^{k_\ell}$ is not trivial, then there is some $i$ for which $k_i$ is not divisible by $o_i$, and so
+
+$$\sigma_1^{k_1}\cdots \sigma_\ell^{k_\ell}x_i=\omega^{nk_i/o_i}x_i\neq x_i.$$
+
+Moreover, by the same argument, we can see that $K[x_i]$ is the subfield of $L$ fixed precisely by $\prod_{j\neq i}\langle \sigma_k\rangle$ and so the Galois group of $K[x_i]/K$ is $\langle \sigma_i\rangle$. Hence, by the proof of Theorem B, we have that $X^{o_i}-x^{o_i}$ is the irreducible polynomial of $x_i$ over $K$, since $x_i$ is a $\omega^{n/o_i}$-eigenvector of $\sigma_i$.
+
+Hence we only have to show the existence of non-zero $x_1,\ldots,x_\ell\in L$ satisfying conditions 1 and 2. Now, let $L_i$ be the subfield of $L$ whose elements are fixed by $\prod_{j\neq i}\langle \sigma_k\rangle$, then, since $\mathrm{Gal}(L/K)$ is Abelian, we have that  
 
 
+<p style="text-align:right">$\square$</p>
 
+We could state a Theorem C' in the same fashion as Theorem B', but the formulas and conditions will be more complicated.
+
+## Back to radical formulas!
+
+Up to now, we have been using formulas
+
+The above result suggest that radical formulas for Abelian extensions are not complicated. In other words, they don't have nested radicals! We can do this explicit as follows.
+
+**Theorem R.** Let $K$ be a field of zero characteristic and $p\in K[X]$. If the Galois group $G$ of the splitting field of $p$ over $K$ is Abelian, then every root of $p$ can be written as
+
+$$\sum_{k=1}^\ell \left(\sum_{i=0}^{n-1}a_{k,i}\omega^i\right)\sqrt[n]{\sum_{j=0}^{n-1}b_{k,j}\omega^j}$$
+
+where $\ell$ is the minimal number of generators of $G$, $n$ is its exponent and $a_{k,i},b_{k,j}\in K$ and $\omega$ is a primitive $n$th root of unity.
+
+*Proof.*
+
+
+<p style="text-align:right">$\square$</p>
+
+The above means that the number of nestings in the radical formulas can related to the length of the series
 
 ***
-
-[^1]: Usually left out of any course of Galois theory due to lack of time at the end of the semester.

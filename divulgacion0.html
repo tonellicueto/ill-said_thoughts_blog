@@ -1,0 +1,58 @@
+---
+layout: default
+title: "Divulgación / Popular Science"
+permalink: /divulgacion/
+---
+
+<div class="post" style="padding-top: 60px">
+
+<header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+</header>
+
+<div class="jumbotron abstract">
+Lista de los posts divulgativos—sobre matemáticas y/o ciencia—en este blog. Mayoritariamente, en castellano, aunque algunos pueden ser en otro idioma (principalmente inglés). / List of posts popularizing mathematics and/or science in this blog. Mostly in Spanish, although some may be in another language (mainly English).
+</div><br/>
+
+
+  {% assign posts = site.posts %}
+
+
+  {%- if posts.size > 0 -%}
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%-d/%b/%Y" -%}
+      {%- for post in posts -%}
+      {%- if post.categories contains "divulgación" -%}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        • {% for author in post.author %}{% assign beforelast = forloop.length | minus: 1 %}
+        <span class="p-author h-card" itemprop="name" style="color:#ee2523;">{{ author }}</span>
+        {%- if forloop.index < beforelast -%}, {% elsif forloop.index == beforelast %} & {% endif -%}
+        {% endfor %}
+        <h3>
+          <a href="{{ post.url | relative_url }}" style="font-variant: small-caps;">
+            {{ post.title | escape }}
+          </a>
+          {%- if post.lang=="en" -%}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" style="float:right;">Read</a>
+          {% elsif post.lang=="es" %}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >Leer</a>
+          {% elsif post.lang=="eu" %}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >Irakurri</a>
+          {% elsif post.lang=="de" %}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >Lesen</a>
+          {% elsif post.lang=="fr" %}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >Lire</a>
+          {%- else -%}
+          <a class="btn btn-read" href="{{ post.url | relative_url }}" Labor="button" >¿Read?</a>
+          {% endif %}
+        </h3>
+          {{ post.excerpt }}
+      </li>
+      {% endif %}
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+
+</div>

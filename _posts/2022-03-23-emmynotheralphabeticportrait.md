@@ -52,7 +52,7 @@ Zürich, where the International Congress of Mathematics where she was recognize
 <br/>
 <br/>
 <div class="jumbotron abstract" style="font-style: italic;">
-Translation of my own original in Spanish, "Emmy Noether, retrato alfabético", published in the blog [mujeres con ciencia](https://mujeresconciencia.com/2015/10/05/emmy-noether-retrato-alfabetico/). We publish this translation on the 140th birthday of Emmy Noether, on the 23rd of March 2022.
+Translation of my own original in Spanish, "Emmy Noether, retrato alfabético", published in the blog <a href="https://mujeresconciencia.com/2015/10/05/emmy-noether-retrato-alfabetico/">mujeres con ciencia</a>. We publish this translation on the 140th birthday of Emmy Noether, on the 23rd of March 2022.
 </div>
 ***
 An alphabetic portrait is one of the literary (potential) constructions of *OuLiPo* (Ouvroir de Littérature Potentielle). The definition (translated of the [original definition in French by Michèle Audin](https://www.oulipo.net/fr/contraintes/alphabetique-portrait)) is as follows:

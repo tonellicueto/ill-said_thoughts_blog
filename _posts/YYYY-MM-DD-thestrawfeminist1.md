@@ -18,7 +18,10 @@ lang: en
 published: false
 ---
 
-A *straw feminist*[^1] is a trope used to exaggerate/misrepresent feminist views in order to characterize feminism as something that does not make sense. As feminism is a plural movement, feminists hold diverse positions and so debate and disagreement is something normal within feminism. Thus one can disagree with certain feminist positions. However, a *straw feminist* attack does not intend an honest rigorous debate, a *straw feminist* attack presents an easy-to-refute (and many times absurd/exaggerated/outrageous) position as a mainstream position within feminism even though no significant part of feminism holds the supposed position. In this way, *straw feminist* attacks are not innocent. Moreover, these attacks form part of a wider context of hostile attacks and stands against feminism whose objective is to discredit the movement at any cost. In this series of posts, I don't intend only to disprove particular *straw feminist* attacks, but also to show the wider context in which they take place.
+A *straw feminist*[^ft] is a trope used to exaggerate/misrepresent feminists as  views in order to characterize feminism as something that does not make sense. As feminism is a plural movement, feminists hold diverse positions and so debate and disagreement is something normal within feminism. Thus one can disagree with certain feminist positions. However, a *straw feminist* attack does not intend an honest rigorous debate, a *straw feminist* attack presents an easy-to-refute (and many times absurd/exaggerated/outrageous) position as a mainstream position within feminism even though no significant part of feminism holds the supposed position. In this way, *straw feminist* attacks are not innocent. Moreover, these attacks form part of a wider context of hostile attacks and stands against feminism whose objective is to discredit the movement at any cost. In this series of posts, I don't intend only to disprove particular *straw feminist* attacks, but also to show the wider context in which they take place.
+
+[^ft]: See the [Tropes vs. Women: #6 The Straw Feminist](https://feministfrequency.com/video/tropes-vs-women-6-the-straw-feminist/) from [Feminist Frequency](https://feministfrequency.com/) and the links there for further information.
+
 
 In the 80s, feminist studies of science emerged as a discipline in its own right. Throughout history—and still today—, we can find examples of how *sexist science* appears and develops. In order to explain how *sexist science* appears, feminist studies of science criticize science as a value-free activity, arguing that, as any other human activity, science is influenced by the contextual values of the society in which it takes place. Among the early women that engaged with these feminist analyses of science in the 80s, we can highlight Donna Haraway, Evelyn Fox Keller, Carolyn Merchant and Sandra Harding.
 
@@ -33,6 +36,8 @@ In the early 90s, at the same time that feminist analyses of science started to 
 
 
 At this point of the story is where we find the the *straw feminist* attack that concern us today: Newton's rape manual. In the section *The Furor over Feminist Science* of the article *Science versus Antiscience?* (1997) from Scientific American[^sa], we can find the following quote:
+
+[^sa]: [https://www.jstor.org/stable/24993570]
 
 >Critics who accuse feminist science studies of being antiscience often cite the most radical scholarship—such as philosopher Sandra Harding’s charge that Isaac Newton’s Principia Mathematica is a “rape manual.” Although feminists have taken a particularly hard hit in recent skirmishes between “the two cultures,” they certainly have not held up a white flag.
 
@@ -59,7 +64,4 @@ In a talk given by Sandra Harding "Objectivity and Diversity: Tensions for Femin
 >Funding is hard to get, and specially not easy now when there are cut backs in funding everywhere in federal goverment and everywhere else. And you are right, funding determines what gets done, certainly, in the natural science and in most of the social sciences. Social sciences do big science, you need funding to go run that research, to travel to Africa or Latinamerica or wherever you are doing your research. So it is an issue I have no solutions to it. But I think that helping graduate students how to get it is a really good project.    
 
 
-
-
-[^1] See the [Tropes vs. Women: #6 The Straw Feminist](https://feministfrequency.com/video/tropes-vs-women-6-the-straw-feminist/) from [Feminist Frequency](https://feministfrequency.com/) and the links there for further information.
-[^sa] [https://www.jstor.org/stable/24993570]
+***
