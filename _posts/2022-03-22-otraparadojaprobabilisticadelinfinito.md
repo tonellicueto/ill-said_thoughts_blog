@@ -22,7 +22,7 @@ Este post forma parte del <a href="https://carnavaldematematicas.wordpress.com/"
 <br/>
 Escojamos un número entero positivo $\mathfrak{x}\in\mathbb{Z}\_{+}$
  al azar de modo que la probabilidad de elegir $n\in\mathbb{Z}\_{+}$ sea
-\[\mathrm{Prob}(\mathfrak{x}=n)=\frac{6}{\pi^2}\frac{1}{n^2}.\]
+\\[\mathrm{Prob}(\mathfrak{x}=n)=\frac{6}{\pi^2}\frac{1}{n^2}.\\]
 Como la suma de todas las probabilidades, $\sum_{n=1}^{\infty}\mathrm{Prob}(\mathfrak{x}=n),$ da uno[^bas], este es un modo válido de escoger un entero positivo al azar.
 
 [^bas]: Esto se debe al [llamado *problema de Basilea* resuelto por Euler](https://es.wikipedia.org/wiki/Problema_de_Basilea).
