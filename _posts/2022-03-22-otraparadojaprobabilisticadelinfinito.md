@@ -67,7 +67,7 @@ Por un lado, hemos visto que el valor esperado de $\mathfrak{x}$ es infinito. Po
 
 Por supuesto, lo paradójico de esto se encuentra en que este hecho ser contraintuitivo. Esta paradoja solo ilustra que podemos escribir número enormes con una pequeña cantidad de cifras. Esto es, esta paradoja ilustra la potencia de nuestro sistema de escritura posicional para escribir números.
 
-[^petersburgo]: Aquelles sabedores de probabilidad, notaran la similitud con otra paradoja probabilística del infinito: [la paradoja de San Petersburgo](https://es.wikipedia.org/wiki/Paradoja_de_San_Petersburgo). Sin embargo, nótese que esta paradoja
+[^petersburgo]: Aquelles sabedores de probabilidad, notaran la similitud con otra paradoja probabilística del infinito: [la paradoja de San Petersburgo](https://es.wikipedia.org/wiki/Paradoja_de_San_Petersburgo). Son similares, en tanto que en ambas tenemos una variable aleatoria con esperanza infinita tal que la esperanza de su logaritmo es finita. Sin embargo, la interpetración subyacente es bien distinta en ambas paradojas.
 
 ***
 <!-- Para facilitar la tarea de recopilar las entradas participantes, os recomiendo que, una vez que hayáis publicado vuestra aportación, me lo notifiquéis por al menos uno de los siguientes medios:
