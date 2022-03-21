@@ -35,12 +35,13 @@ En el caso en cuestion, se da que
 \\[\mathbb{E}\mathfrak{x}=\sum_{n=1}^{\infty}n\frac{6}{\pi^2}\frac{1}{n^2}=\frac{6}{\pi^2}\sum_{n=1}^{\infty}\frac{1}{n}=\infty,\\]
 porque la [serie armónica](https://es.wikipedia.org/wiki/Serie_arm%C3%B3nica_(matem%C3%A1tica)), $\sum_{n=1}^{\infty}\frac{1}{n}$, tiene suma infinita.
 
-Ahora, ¿qué quiere decir que el valor esperado–esperanza–de $\mathfrak{x}$ sea infinito? Ciertamente, cualquier valor concreto de $\mathfrak{x}$ que escojamos va a ser finito. Una interpretación habitual de la esperanza es en términos de la *ley de los grandes números*.[^lgn] Para ello, tomemos que no escojemos un número al azar solo una vez, sino que producimos una sucesión de números aleatorios $\mathfrak{x}_1,\mathfrak{x}_2,\mathfrak{x}_3,\ldots$ de modo que cada número aleatorio es independiente del resto y es escogido al azar del mismo modo que $\mathfrak{x}.$[^lm] Entonces, la *la ley de los grandes números* nos dice que la media aritmética de $\mathfrak{x}_1,\ldots,\mathfrak{x}_n,$
+Ahora, ¿qué quiere decir que el valor esperado–esperanza–de $\mathfrak{x}$ sea infinito? Ciertamente, cualquier valor concreto de $\mathfrak{x}$ que escojamos va a ser finito. Una interpretación habitual de la esperanza es en términos de la *ley de los grandes números*[^lgn]. Para ello, tomemos que no escojemos un número al azar solo una vez, sino que producimos una sucesión de números aleatorios $\mathfrak{x}_1,\mathfrak{x}_2,\mathfrak{x}_3,\ldots$ de modo que cada número aleatorio es independiente del resto y es escogido al azar del mismo modo que $\mathfrak{x}.$[^lm] Entonces, la *la ley de los grandes números* nos dice que la media aritmética de $\mathfrak{x}_1,\ldots,\mathfrak{x}_n,$
 \\[\frac{\mathfrak{x}_1+\cdots+\mathfrak{x}_n}{n},\\]
 converge a $\mathbb{E}\mathfrak{x}$ con casi toda seguridad, esto es, con probabilidad uno.
 
 [^lm]: En lenguaje matemático, las $\mathfrak{x}_i$ son variables aleatorias independientes e idénticamente distribuidas, con distribuión la misma que la de $\mathfrak{x}$. Esto es, para cada $i,n\in\mathbb{N},$
 $$\mathrm{Prob}(\mathfrak{x}_i=n)=\mathrm{Prob}(\mathfrak{x}=n)=\frac{6}{\pi^2}\frac{1}{n^2}.$$
+
 [^lgn]: Para les expertes: Como estamos tratando con variables no-negativas, la ley de los grandes números sigue siendo cierto incluso cuando la esperanza es infinito. Por ejemplo, [véase este link para referencias](https://math.stackexchange.com/q/1644218/15330).
 
 Ahora, la esperanza de $\mathfrak{x}$ es infinita. Esto significa que, con probabilidad uno,
