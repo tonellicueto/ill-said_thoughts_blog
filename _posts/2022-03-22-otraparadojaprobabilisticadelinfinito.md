@@ -72,6 +72,3 @@ Este post forma parte del <a href="https://carnavaldematematicas.wordpress.com/"
 </div>
 
 ***
-<!-- Para facilitar la tarea de recopilar las entradas participantes, os recomiendo que, una vez que hayáis publicado vuestra aportación, me lo notifiquéis por al menos uno de los siguientes medios:
--Publicando un comentario en esta misma entrada con un enlace a tu aportación.
--A través de Twitter con un tweet que incluya el enlace a tu entrada y el hashtag #CarnaMat13_1, y que haga mención a mi cuenta (@Rafalillo86) y a la del Carnaval de Matemáticas (@CarnaMat).-->
