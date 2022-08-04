@@ -59,3 +59,5 @@ An alphabetic portrait is one of the literary (potential) constructions of *OuLi
 >An alphabetic portrait is a list of words (possibly accompanied by complements, even short sentences) arranged in alphabetical order, which paint a portrait.
 
 We note that the reader is free—and invited—to create Eir own alphabetic portrait of whoever E wants.
+
+***
