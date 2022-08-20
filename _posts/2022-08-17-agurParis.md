@@ -34,9 +34,9 @@ ni a tu dama férrea,
 ni a tu soberbia napoleónica,  
 ni a tu ambiente burgués...  
 ...pero a esas gentes  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;que en ti conocí,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a esas,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;¡las echaré de menos!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;que en ti conocí,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a esas,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;¡las echaré de menos!
 <br/>
 <br/>
 <br/>
