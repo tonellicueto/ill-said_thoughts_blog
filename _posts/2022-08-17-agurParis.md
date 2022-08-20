@@ -29,14 +29,14 @@ nunca te odié,
 una ciudad más entre tantas
 —Bilboko beste auzo bat!  
 
-No te echaré de menoa,  
+No te echaré de menos,  
 ni a tu dama férrea,  
 ni a tu soberbia napoleónica,  
 ni a tu ambiente burgués...  
-...pero a esa genetes  
-        que en ti conocí,
-        a esas,
-        ¡las echaré de menos!
+...pero a esas gentes  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;que en ti conocí,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a esas,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;¡las echaré de menos!
 <br/>
 <br/>
 <br/>
