@@ -27,7 +27,7 @@ Nunca te amé,
 y posiblemente peor,  
 nunca te odié,  
 una ciudad más entre tantas  
-—Bilboko beste auzo bat!  
+-Bilboko beste auzo bat!  
 
 No te echaré de menos,  
 ni a tu dama férrea,  
