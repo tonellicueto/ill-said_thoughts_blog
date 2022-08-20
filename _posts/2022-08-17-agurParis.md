@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Agur Paris"
+title: "Agur Paris!"
 author: "Josué Tonelli-Cueto"
 description: "Poema de despedida envíado vía postales a la gente que conocí en París."
 excerpt: "Poema de despedida envíado vía postales a la gente que conocí en París."
@@ -26,7 +26,7 @@ Te dejo por América.
 Nunca te amé,  
 y posiblemente peor,  
 nunca te odié,  
-una ciudad más entre tantas
+una ciudad más entre tantas  
 —Bilboko beste auzo bat!  
 
 No te echaré de menos,  
