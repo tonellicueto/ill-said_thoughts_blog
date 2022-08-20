@@ -2,8 +2,8 @@
 layout: post
 title: "Agur Paris!"
 author: "Josué Tonelli-Cueto"
-description: "Poema de despedida envíado vía postales a la gente que conocí en París."
-excerpt: "Poema de despedida envíado vía postales a la gente que conocí en París."
+description: "Poema de despedida enviado mediante postales a la gente que fue, en mayor o menor medida, parte de mi vida en París."
+excerpt: "Poema de despedida enviado mediante postales a la gente que fue, en mayor o menor medida, parte de mi vida en París."
 image: "../imgs/adiosParis.png"
 date: 2022-08-17
 categories:
@@ -42,7 +42,7 @@ ni a tu ambiente burgués...
 <br/>
 <br/>
 <div class="jumbotron abstract" style="font-style: italic;">
-Este poema fue enviado el 17 de agosto de 2022 mediante postales a 24 personas que conocí y con las que tuve la oportunidad de compartir vivencias durante mi estancia en París. El set de postales que usé fue <a href="https://www.taschen.com/pages/es/catalogue/art/all/22721/facts.christo_and_jeanne_claude_postcard_set.htm">el set de la Taschen</a> que se imprimió por <a href="https://christojeanneclaude.net/artworks/arc-de-triomphe-wrapped/">el proyecto artístico &ldquo;L'Arc de Triomphe, Wrapped, Paris, 1961-2021&rdquo; de Christo y Jeanne-Claude</a> que culminó mientras vivía en París.
+Este poema fue enviado el 17 de agosto de 2022 mediante postales a 24 de las personas que fueron, en mayor o menor medida, parte de mi vida en París. El set de postales que usé fue <a href="https://www.taschen.com/pages/es/catalogue/art/all/22721/facts.christo_and_jeanne_claude_postcard_set.htm">el set de la Taschen</a> que se imprimió por <a href="https://christojeanneclaude.net/artworks/arc-de-triomphe-wrapped/">el proyecto artístico &ldquo;L'Arc de Triomphe, Wrapped, Paris, 1961-2021&rdquo; de Christo y Jeanne-Claude</a> que culminó mientras vivía en París.
 </div>
 
 ***
