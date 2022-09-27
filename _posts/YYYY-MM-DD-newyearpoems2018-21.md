@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Year SMSs for 2022"
+title: "Some New Year SMSs: 2021, 2020, 2019, 2018 and 2017"
 author: "Iasafro Maesman"
 description: "A poem for congratulating the New Year in 2022."
 excerpt: "A poem for congratulating the New Year in 2022."
@@ -65,4 +65,4 @@ As Sisyphus, each year, we carry our rock so we forget it when we reach the top 
 
 [^transl17]: Este texto cuenta con traducción al castellano:
 
-             Tal cual Sísifo, cada año cargamos nuestra roca para después olvidarla al llegar arriba y empezar a subirla de nuevo. ¡Feliz 2017 y que en este nuevo año sea la roca más ligera!
+             Tal cual Sísifo, cada año cargamos nuestra roca para después olvidarla al llegar arriba y empezar a subirla de nuevo. ¡Feliz 2017 y que en este nuevo año sea la roca m&aacute;s ligera!
