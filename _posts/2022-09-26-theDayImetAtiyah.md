@@ -31,15 +31,15 @@ The day was September 26, 2018. On the afternoon, we were making a boat-tour alo
 During that boat-tour, the awaited moment arraived. Atiyah had finished talking to a group and he was alone, an window of opportunity has just opened. Nervous as expected, [Giulia Codenotti](https://www.math.uni-frankfurt.de/~codenott/)—at the time doing the PhD also in the [Berlin Mathematical School](https://www.math-berlin.de/)—gave the final push for me to approach—that's what friends are for. So we approach Atiyah, and the conversation started, more through the talkativeness of Atiyah than by our own.
 
 <p align="center">
-<img src="../imgs/MeetingAtiyah.jpg" alt="Photograph of Michael Atiyah talking to me (Josué Tonelli-Cueto), Peter Huxford and Giulia Codenotti (left to right)" width="75%"/>
-[&copy;2018 HLFF](https://www.flickr.com/photos/hlforum/44944651071/in/album-72157701391916054/)
+<img src="../imgs/MeetingAtiyah.jpg" alt="Photograph of Michael Atiyah talking to me (Josué Tonelli-Cueto), Peter Huxford and Giulia Codenotti (left to right)" width="70%"/><br/>
+<a href="https://www.flickr.com/photos/hlforum/44944651071/in/album-72157701391916054/">&copy;2018 HLFF</a>
 <!--Twitter: Peter Huxford (@pjhuxford)-->
 </p>
 
 The conversation was very one-sided, but none of the listeners there—[Peter Huxford](https://math.uchicago.edu/~huxford/), Giulia and myself—complained, since it is not everyday that you get this window to the life stories of a living legend. Atiyah talked about his personal background (including his Lebanese origins on the father's side) and share some stories about his life, which unfortunately I do not remember.
 
 <p align="center">
-<img src="../imgs/SignedIntroductionToCommutativeAlgebra.jpg" alt="Cover page of the book Introduction to Commutative Algebra signed by Atiyah" width="50%"/>
+<img src="../imgs/SignedIntroductionToCommutativeAlgebra.jpg" alt="Cover page of the book Introduction to Commutative Algebra signed by Atiyah" width="45%"/>
 </p>
 
 Of course, during the conversation, I asked for a signature for the book and got it. Because of this, the conversation turned towards the book. Atiyah recalled how the book came to be as a product of a lecture he gave when he was young. The book came out as the lecture notes of that class, where Macdonald took care of the exercises. Funnily, he complained of how he still received questions about the exercises, complaining of how hard some of these were and how he had anything to do with them.
