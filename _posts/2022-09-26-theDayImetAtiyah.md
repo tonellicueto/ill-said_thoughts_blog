@@ -31,7 +31,7 @@ The day was September 26, 2018. On the afternoon, we were making a boat-tour alo
 During that boat-tour, the awaited moment arraived. Atiyah had finished talking to a group and he was alone, an window of opportunity has just opened. Nervous as expected, [Giulia Codenotti](https://www.math.uni-frankfurt.de/~codenott/)—at the time doing the PhD also in the [Berlin Mathematical School](https://www.math-berlin.de/)—gave the final push for me to approach—that's what friends are for. So we approach Atiyah, and the conversation started, more through the talkativeness of Atiyah than by our own.
 
 <p align="center">
-<img src="../imgs/MeetingAtiyah.jpg" alt="Photograph of Michael Atiyah talking to me (Josué Tonelli-Cueto), Peter Huxford and Giulia Codenotti (left to right)" width="70%"/><br/>
+<img src="../imgs/MeetingAtiyah.jpg" alt="Photograph of Michael Atiyah talking to me (Josué Tonelli-Cueto), Peter Huxford and Giulia Codenotti (left to right)" width="75%"/><br/>
 <a href="https://www.flickr.com/photos/hlforum/44944651071/in/album-72157701391916054/">&copy;2018 HLFF</a>
 <!--Twitter: Peter Huxford (@pjhuxford)-->
 </p>
