@@ -18,7 +18,9 @@ lang: en
 published: false
 ---
 
-During the [6th Heidelberg Laureate Forum (6HLF)](https://www.heidelberg-laureate-forum.org/forum/past-hlfs/6th-hlf-2018.html), I had the chance of meeting in person the legendary [Michael Atiyah](https://en.wikipedia.org/wiki/Michael_Atiyah). Even if one was unfamiliar with his mathematical work, Atiyah had passed to the collective consciousness of mathematicians all around the world and all around this science thanks to his famous book together with [Ian G. Macdonald](https://en.wikipedia.org/wiki/Ian_G._Macdonald): [*Introduction to Commutative Algebra*](https://www.maa.org/press/maa-reviews/introduction-to-commutative-algebra). This book has been a classic in the teaching of commutative algebra since the 80s and, despite its shortcomings, it has the advantage of being a short introduction when compared to other books in the topic—including those published nowadays.
+During the [6th Heidelberg Laureate Forum (6HLF)](https://www.heidelberg-laureate-forum.org/forum/past-hlfs/6th-hlf-2018.html)[^HLFdesc], I had the chance of meeting in person the legendary [Michael Atiyah](https://en.wikipedia.org/wiki/Michael_Atiyah). Even if one was unfamiliar with his mathematical work, Atiyah had passed to the collective consciousness of mathematicians all around the world and all around this science thanks to his famous book together with [Ian G. Macdonald](https://en.wikipedia.org/wiki/Ian_G._Macdonald): [*Introduction to Commutative Algebra*](https://www.maa.org/press/maa-reviews/introduction-to-commutative-algebra). This book has been a classic in the teaching of commutative algebra since the 80s and, despite its shortcomings, it has the advantage of being a short introduction when compared to other books in the topic—including those published nowadays.
+
+[^HLFdes]:  The [Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/) is a conferences where young people interact and socialize in an informal way with some of the great figures—meaning people who have won one of the great awards or prizes—of mathematics and computer science. By doing so, the conference expect to inspire the new generation of mathematicians and computer scientists to come.
 
 # The Moment Itself in which I met Atiyah
 
@@ -44,7 +46,34 @@ Of course, during the conversation, like any regular fanboy, I asked for a signa
 
 Unfortunately, this moment didn't happen in the best circumstances. The 6HLF is infamous for Atiyah's presentation of his 'proof' of [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis). The presented proof was more the proof of a crank than the proof of a mathematical genius such as Atiyah, and it ruined whatever reputation he preserved as an active mathematician. Of course, he will always be remenbered as a great mathematician, but that talk was the fall from grace and one of the saddest way for such a mathematician to end his career.
 
-However, why was Atiyah allowed to give such a talk in such a public forum as the 6HLF? And more importantly, what does this say about the mathematical community? The easy answer would be to blame Atiyah, and not to think any longer. At the closing ceremony of the 6HLF, great claims were made about Academic freedom, about how the speakers at the HLF could talk about what they wish. Unfortunately, this line of thought moves all the responsability away from the HLF, as if the program was not decided in advance.
+However, why was Atiyah allowed to give such a talk in such a public forum as the 6HLF? And more importantly, what does this say about the mathematical community? At the closing ceremony of the 6HLF, great claims were made about Academic freedom, about how the speakers at the HLF could talk about what they wish. Thus the easy answer would be to blame Atiyah, and not to think any longer. Unfortunately, this line of thought obviates the responsability that the HLF has in all this, more so, when we take into account that Atiyah's proof of Riemann hypothesis was rejected by the [arXiv](https://arxiv.org/)—a repository where almost every mathematician upload Eir manuscript when submitting it so that it is accessible to the whole of the mathematical comminity for reading. If we accept the version of the HLF, then we should go and claim that arXiv was against Academic freedom, a claim that is a contradiction in terms.
+
+Before following, let's reconstruct in detail the events[^1]. At some moment, Atiyah believed that he found a "simple proof" of Riemann hypothesis. Because of this, he communicates to the HLF that he will be talking about his proof and submits a preprint with the proof to the arXiv. While the arXiv rejects the preprint, possibly because it was obviously faulty; the HLF does not only let Atiyah talk about his "simple proof", but puts him to speak the first day and starts announcing this through social media and more common media[^media]. What was the objective of this? To promote the HLF to the maximum possible level, because the HLF was not now a conference, but the conference were the genoius of Michael Atiyah would announce his proof of the Riemann hypothesis.
+
+<p align="center">
+<img src="../imgs/HLF18AtiyahTwitter.png" alt="Tweet of the HLF announcing the proof of Atiyah of Riemann hypothesis" width="45%"/><br>
+<a href="https://twitter.com/HLForum/status/1042670700652318720">Example of the media hype created around Atiyah's talk</a>
+</p>
+
+
+
+As a consequence of this, the
+
+the HLF received the notice by Atiyah that he will be talking about Riemann hypothesis and that he will present his proof. Even if Atiyah made the claim that he had a " simple proof",
+
+At this time, the corresponding preprint was missing completely from arXiv, the repositeory where almost every mathematician posts their manuscripts for access by the rest of the mathematical community.
+
+As a conference, the purpose of the HLF is simple: to put into contact great figures of mathematics and computer science with young researchers in order to inspire the latter.  
+
+[^sig]:  In the case of HLF, the definition of "great figure" is simple: the person must have won one of the greatest awards of computer science and/or mathematics: Abel Prize, Fields Medal, Turing Award, etc.
+
+the organizers of a conference bear a responsability
+
+
+
+ the HLF is not a conference as usual, but a conference
+
+this line of thought moves all the responsability away from the HLF, as if the program was not decided in advance.
 
 Taking into account that the talks of the HLF are streamed and recorded, accessible for all the people in the world, the HLF has a responsability in how it broadcasts the image of mathematicians to the world.
 
@@ -66,6 +95,6 @@ alone and not to take any responsability about the fact, since the actions of an
 
 
 
-[^1]: All of this was confirmed in private conversation with the personal research assistant of Atiyah at the time. For the sake of responsability, I will not reveal this person's identity—one thing is putting myself on the line of fire, other thing is to put other people in that line. <!--[Carlos Zapata Carratalá](https://czapatacarratala.wixsite.com/home) @ZapataCarratala-->
+[^1]: These timeline of events was told in private conversation with the personal research assistant of Atiyah at the time. For the sake of responsability, I will not reveal this person's identity—one thing is putting myself on the line of fire, other thing is to put other people in that line. <!--[Carlos Zapata Carratalá](https://czapatacarratala.wixsite.com/home) @ZapataCarratala-->
 
 ***
