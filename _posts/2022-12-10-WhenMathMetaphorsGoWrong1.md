@@ -66,6 +66,6 @@ And once we arrived here, we should be careful. In mathematics—and, more gener
 
 [^gd]: Note that I am not claiming that gender is dual—masculine and feminine—, but that's what the speaker is affirming.
 
-[^video]: Or, even better, [shown in this vide](https://www.youtube.com/watch?v=pFEYzWf-gk8).
+[^video]: Or, even better, [shown in this video](https://www.youtube.com/watch?v=pFEYzWf-gk8).
 
 [^py]: Why Pythagorean realm and not Platonic world? Because Pythagoreans had a mathematical world kind of earlier.
