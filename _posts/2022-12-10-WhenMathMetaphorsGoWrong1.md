@@ -25,7 +25,7 @@ One afternoon, while killing my time while on the toilet, I was watching some yo
 
 >If somebody comes along, just one random wacko, and says that a circle is a shape with four equal straight sides and four right angles, I would say: &ldquo;No, that's a square. Squares are not circles, you idiot.&rdquo; But I don't think I would go giving any college lectures about it. I probably wouldn't make any documentary films on the subject.
 >
->*But if there were to suddenly arise a well-coordinated and well-funded movement to convince the world that geometry is fluid and that squares are circles and circles are squares; and if this movement captured the minds of millions of people, especially young people*; then I would probably make a film called &ldquo;what is a square?&rdquo and spend lots of time engaging on that topic, because I have to share this with everybody else.
+>*But if there were to suddenly arise a well-coordinated and well-funded movement to convince the world that geometry is fluid and that squares are circles and circles are squares; and if this movement captured the minds of millions of people, especially young people*; then I would probably make a film called &ldquo;what is a square?&rdquo; and spend lots of time engaging on that topic, because I have to share this with everybody else.
 >
 >And when there are people who are trying to create a society that is not grounded in reality, that matters to me, because I want to be in reality. I might not like everything about reality all the time, but it still is not a good thing to live in a society that has lost its grip on reality.
 
