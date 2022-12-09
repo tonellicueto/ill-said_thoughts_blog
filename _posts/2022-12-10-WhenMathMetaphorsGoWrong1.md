@@ -21,7 +21,7 @@ lang: en
 published: true
 ---
 
-One afternoon, while killing my time while on the toilet, I was watching some youtube shorts. At some moment, the youtube algorithm decides to show me the video of some anti-trans right-wing extremist[^who] arguing that the problematization of gendersex[^FS] by many gender scholars[^butler] is senseless. The transcription of his speech is the following (emphasis mine):
+One afternoon, while killing my time in the lavatory, I was watching some youtube shorts. At some moment, the youtube algorithm decides to show me the video of some anti-trans right-wing extremist[^who] arguing that the problematization of gendersex[^FS] by many gender scholars[^butler] is senseless. The transcription of his speech is the following (emphasis mine):
 
 >If somebody comes along, just one random wacko, and says that a circle is a shape with four equal straight sides and four right angles, I would say: &ldquo;No, that's a square. Squares are not circles, you idiot.&rdquo; But I don't think I would go giving any college lectures about it. I probably wouldn't make any documentary films on the subject.
 >
