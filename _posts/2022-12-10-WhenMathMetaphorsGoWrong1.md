@@ -42,7 +42,9 @@ We cannot tell anything about the difference between genders from the difference
 After letting clear that the above metaphor is not an argument, we can now explain the reason of my laughter. Why does a mathematician laugh regarding the above metaphor? Isn't this _fluid geometry_ just nonsense? Well... Have you hear about topology? This area of mathematics studies the properties of geometric objects that remain invariant under continuous deformations. In other words, topology is sort of a fluid geometry, where we can transform the rigid geometric objects in a less rigid—more fluid—way. And, even more ironically, a circle and a square are the same topologically.
 
 How are a circle and a square the same topologically? The idea is that we can continuously bend the edges of a squares until we get a circle, as shown in the image below.
+
 ![Topological deformation of a circle into a square](../imgs/squaretocircle.png)
+
 Hence, allowing more flexible transformations, objects that were different under the more rigid ones become equivalent—the same. Of course, all this can be further formalized with more fancy words—homotopy equivalence, simplicial complex, etc.—but the point is showing that mathematically a circle and a square can be the same if seen from the appropriate mathematical standpoint: the standpoint of a topologist.
 
 ## Is mathematics so rigid?
