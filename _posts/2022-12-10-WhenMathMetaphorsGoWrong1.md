@@ -41,7 +41,7 @@ We cannot tell anything about the difference between genders from the difference
 
 After letting clear that the above metaphor is not an argument, we can now explain the reason of my laughter. Why does a mathematician laugh regarding the above metaphor? Isn't this _fluid geometry_ just nonsense? Well... Have you hear about topology? This area of mathematics studies the properties of geometric objects that remain invariant under continuous deformations. In other words, topology is sort of a fluid geometry, where we can transform the rigid geometric objects in a less rigid—more fluid—way. And, even more ironically, a circle and a square are the same topologically.
 
-How are a circle and a square the same topologically? The idea is that we can continuously bend the edges of a squares until we get a circle, as shown in the image below.
+How are a circle and a square the same topologically? The idea is that we can continuously bend the edges of a squares until we get a circle, as illustrated in this image[^video].
 
 ![Topological deformation of a circle into a square](../imgs/squaretocircle.png)
 
@@ -65,5 +65,7 @@ And once we arrived here, we should be careful. In mathematics—and, more gener
 [^butler]: Among these scholars, the most well-known is [the philosopher Judith Butler](https://en.wikipedia.org/wiki/Judith_Butler).
 
 [^gd]: Note that I am not claiming that gender is dual—masculine and feminine—, but that's what the speaker is affirming.
+
+[^video]: Or, even better, [shown in this vide](https://www.youtube.com/watch?v=pFEYzWf-gk8).
 
 [^py]: Why Pythagorean realm and not Platonic world? Because Pythagoreans had a mathematical world kind of earlier.
