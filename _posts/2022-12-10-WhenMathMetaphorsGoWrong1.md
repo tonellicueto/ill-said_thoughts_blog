@@ -4,7 +4,7 @@ title: "When Math Metaphors go wrong...\n What do you have against topology?"
 author: "Josué Tonelli-Cueto"
 description: "In this post, we analyze the metaphor used by a right-wing activist comparing gender theories to a sort of senseless fluid geometry. Now, there is a fluid geometry in mathematics: topology."
 excerpt: "In this post, we analyze the metaphor used by a right-wing activist comparing gender theories to a sort of senseless fluid geometry. Now, there is a fluid geometry in mathematics: topology."
-image: "../imgs/logo.png"
+image: "../imgs/squaredcircle.png"
 date: 2022-12-10 10:12:22
 categories:
 - mathematics
