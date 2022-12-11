@@ -8,11 +8,13 @@ image: "../imgs/squaredcircle.png"
 date: 2022-12-10 10:12:22
 categories:
 - mathematics
+- philosophy
 - politics
 tags:
 - metaphors
-- topology
 - bad arguments
+- topology
+- philosophy of mathematics
 lang: en
 #lang: es
 #lang: eu
@@ -76,4 +78,4 @@ And once we arrived here, we should be careful. In mathematics—and, more gener
 
 [^matcond]: As a mathematician, I find many times having to develop results in other area I wanted to just use. Why? Because the results that I wanted to use from this other area are not available. In this way, some areas of mathematics don't develop just due to a lack of the necessary results to articulate them. For example, the development of algebraic topology benefited enormously of the development of modern algebra by Emmy Noether and _her boys_. Without this development, many results and applications of algebraic topology would have taken longer, since algebraic topology could have not benefited from the power of abstract algebra to simplify and streamline its results.
 
-[^SK3]: This is not only a theoretical statement. Mathematics is full of cases where we need to change the mathematical standpoint to progress. For example, to prove the rational numbers is the only number field with discriminant one—a purely algebraic number-theoretical result—one needs to use Minkowski's theorem—a results from convex geometry—, and, as of today, this is the only proof we know about this fundamental algebraic fact of the rationals known as [Minkowski's theorem](https://en.wikipedia.org/wiki/Minkowski%27s_bound). 
+[^SK3]: This is not only a theoretical statement. Mathematics is full of cases where we need to change the mathematical standpoint to progress. For example, to prove the rational numbers is the only number field with discriminant one—a purely algebraic number-theoretical result—one needs to use Minkowski's theorem—a results from convex geometry—, and, as of today, this is the only proof we know about this fundamental algebraic fact of the rationals known as [Minkowski's theorem](https://en.wikipedia.org/wiki/Minkowski%27s_bound).
