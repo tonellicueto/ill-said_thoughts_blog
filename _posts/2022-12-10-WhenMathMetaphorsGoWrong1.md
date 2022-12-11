@@ -66,7 +66,7 @@ And once we arrived here, we should be careful. In mathematics—and, more gener
 
 [^butler]: Among these scholars, the most &ldquo;infamous&rdquo; one is [the philosopher Judith Butler](https://en.wikipedia.org/wiki/Judith_Butler).
 
-[^gd]: Note that I am not claiming that gender is dual—masculine and feminine—, but that's what the speaker is affirming.
+[^dg]: Note that I am not claiming that gender is dual—masculine and feminine—, but that's what the speaker is affirming.
 
 [^video]: Or, even better, [shown in this video](https://www.youtube.com/watch?v=pFEYzWf-gk8).
 
