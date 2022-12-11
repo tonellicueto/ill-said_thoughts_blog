@@ -64,7 +64,7 @@ And once we arrived here, we should be careful. In mathematics—and, more gener
 
 [^FS]: I use the term _gendersex_ following the use of the term _gender/sex_ by [the biologist Anne Fausto-Sterling](https://en.wikipedia.org/wiki/Anne_Fausto-Sterling) in the book [_Sex/gender: Biology in a Social World_](https://books.google.com/books?id=BhbJUlZvYwEC)—although the term was originally introduced by biopsychologist Sari van Anders. With this decision, I am only following a recent trend among some thinkers in trying to think beyond dualisms. For example, in this respect, [the philosopher Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway) introduced the term _natureculture_ to think beyond the nature vs. culture divide in the book [_The Companion Species Manifesto: Dogs, People, and Significant Otherness_](https://books.google.com/books/about/The_Companion_Species_Manifesto.html?id=hbjCzQEACAAJ).
 
-[^butler]: Among these scholars, the most &lquo;infamous&rquo; one is [the philosopher Judith Butler](https://en.wikipedia.org/wiki/Judith_Butler).
+[^butler]: Among these scholars, the most &ldquo;infamous&rdquo; one is [the philosopher Judith Butler](https://en.wikipedia.org/wiki/Judith_Butler).
 
 [^gd]: Note that I am not claiming that gender is dual—masculine and feminine—, but that's what the speaker is affirming.
 
