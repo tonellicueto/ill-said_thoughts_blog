@@ -5,7 +5,7 @@ author: "Josué Tonelli-Cueto"
 description: "Some years ago, I had the chance of meeting Michael Atiyah and asking for an autograph. I recall the experience, and I take this opportunity to reflect on the sad circumstances on which this happened."
 excerpt: "Some years ago, I had the chance of meeting Michael Atiyah and asking for an autograph. I recall the experience, and I take this opportunity to reflect on the sad circumstances on which this happened."
 image: "../imgs/theDayImetAtiyah.png"
-date: 2022-09-26
+date: 2022-09-26 12:12:12
 categories:
 - conferences
 - mathematics
@@ -40,7 +40,7 @@ The conversation was very one-sided, but none of the listeners there—[Peter Hu
 <img src="../imgs/SignedIntroductionToCommutativeAlgebra.jpg" alt="Cover page of the book Introduction to Commutative Algebra signed by Atiyah" width="45%"/>
 </p>
 
-Of course, during the conversation, like any regular fanboy, I asked for a signature—an autograph—for the book and got it. Because of this, the conversation turned towards the book. Atiyah recalled how the book came to be as a product of a lecture he gave when he was young. The book came out as the lecture notes of that class, where Macdonald took care of the exercises. Funnily, he complained of how he still received questions about the exercises, complaining of how hard some of these were and how he had anything to do with them.
+Of course, during the conversation, like any regular fanboy, I asked for a signature—an autograph—for the book and got it. Because of this, the conversation turned towards the book. Atiyah recalled how the book came to be as a product of a series of lectures he gave when he was young. The book came out as the lecture notes of that class, where Macdonald took care of the exercises. Funnily, he complained of how he still received questions about the exercises, complaining of how hard some of these were and how he didn't have anything to do with them.
 
 # The Sad Circumstances of this Moment
 
@@ -48,14 +48,16 @@ Unfortunately, this moment didn't happen in the best circumstances. The 6HLF is 
 
 However, why was Atiyah allowed to give such a talk in such a public forum as the 6HLF? And more importantly, what does this say about the mathematical community? At the closing ceremony of the 6HLF, great claims were made about Academic freedom, about how the speakers at the HLF could talk about what they wish. Thus the easy answer would be to blame Atiyah, and not to think any longer. Unfortunately, this line of thought obviates the responsability that the HLF has in all this, more so, when we take into account that Atiyah's proof of Riemann hypothesis was rejected by the [arXiv](https://arxiv.org/)—a repository where almost every mathematician upload Eir manuscript when submitting it so that it is accessible to the whole of the mathematical comminity for reading. If we accept the version of the HLF, then we should go and claim that arXiv was against Academic freedom, a claim that is a contradiction in terms.
 
-Before following, let's reconstruct in detail the events[^1]. At some moment, Atiyah believed that he found a "simple proof" of Riemann hypothesis. Because of this, he communicates to the HLF that he will be talking about his proof and submits a preprint with the proof to the arXiv. While the arXiv rejects the preprint, possibly because it was obviously faulty; the HLF does not only let Atiyah talk about his "simple proof", but puts him to speak the first day and starts announcing this through social media and more common media[^media]. What was the objective of this? To promote the HLF to the maximum possible level, because the HLF was not now a conference, but the conference were the genoius of Michael Atiyah would announce his proof of the Riemann hypothesis.
+Before following, let's reconstruct in detail the events[^1]. At some moment, Atiyah believed that he found a "simple proof" of Riemann hypothesis. Because of this, he communicates to the HLF that he will be talking about his proof and submits a preprint with the proof to the arXiv. While the arXiv rejects the preprint, possibly because it was obviously faulty; the HLF does not only let Atiyah talk about his "simple proof", but puts him to speak the first day and starts announcing this through social media and mass media[^media]. What was the objective of this? To promote the HLF to the maximum possible level, because the HLF was not now a conference, but the conference were the genoius of Michael Atiyah would announce his proof of the Riemann hypothesis.
 
 <p align="center">
 <img src="../imgs/HLF18AtiyahTwitter.png" alt="Tweet of the HLF announcing the proof of Atiyah of Riemann hypothesis" width="45%"/><br>
 <a href="https://twitter.com/HLForum/status/1042670700652318720">Example of the media hype created around Atiyah's talk</a>
 </p>
 
+[^1]: These timeline of events was told in private conversation with the personal research assistant of Atiyah at the time. For the sake of responsability, I will not reveal this person's identity—one thing is putting myself on the line of fire, other thing is to put other people in that line. <!--[Carlos Zapata Carratalá](https://czapatacarratala.wixsite.com/home) @ZapataCarratala-->
 
+[^media]: 
 
 As a consequence of this, the
 
@@ -95,6 +97,6 @@ alone and not to take any responsability about the fact, since the actions of an
 
 
 
-[^1]: These timeline of events was told in private conversation with the personal research assistant of Atiyah at the time. For the sake of responsability, I will not reveal this person's identity—one thing is putting myself on the line of fire, other thing is to put other people in that line. <!--[Carlos Zapata Carratalá](https://czapatacarratala.wixsite.com/home) @ZapataCarratala-->
+
 
 ***

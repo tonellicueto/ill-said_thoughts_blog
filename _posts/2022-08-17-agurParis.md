@@ -5,7 +5,7 @@ author: "Iasafro Maesman"
 description: "Poema de despedida enviado mediante postales a la gente que fue, en mayor o menor medida, parte de mi vida en París."
 excerpt: "Poema de despedida enviado mediante postales a la gente que fue, en mayor o menor medida, parte de mi vida en París."
 image: "../imgs/adiosParis.png"
-date: 2022-08-17
+date: 2022-08-17 00:00:00
 categories:
 - poem
 - postcards
