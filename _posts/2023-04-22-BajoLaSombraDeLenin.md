@@ -72,7 +72,7 @@ por el que saldrá el sol.
 <br/>
 <br/>
 <div class="jumbotron abstract" style="font-style: italic;">
-Este poema fue enviado el 10 de agosto de 2018 desde Minsk, Belarrús, mediante postales en nueve partes <a id="fnref:1 href="#fn:1" class="footnote-ref" role="doc-noteref">junto con una traducción al inglés</a>. El poema está inspirado por la diversas estatuas de Vladimir Lenin que aún pueblan las plazas de muchas localidades de la nación belarrusa.
+Este poema fue enviado el 10 de agosto de 2018 desde Minsk, Belarrús, mediante postales en nueve partes <a id="fnref:1" href="#fn:1" class="footnote-ref" role="doc-noteref">junto con una traducción al inglés</a>. El poema está inspirado por la diversas estatuas de Vladimir Lenin que aún pueblan las plazas de muchas localidades de la nación belarrusa.
 </div>
 
 ***
@@ -80,7 +80,7 @@ Este poema fue enviado el 10 de agosto de 2018 desde Minsk, Belarrús, mediante 
 <div class="footnotes" role="doc-endnotes">
 <ol>
 
-<li id="fn:1" role="doc-endnote" style="list-style-type:'\* ';">
+<li id="fn:1" role="doc-endnote" style="list-style-type:none;">
 <p>
 <b>Under the Shadow of Lenin</b>
 </p>
