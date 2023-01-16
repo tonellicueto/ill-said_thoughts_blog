@@ -17,7 +17,7 @@ lang: es
 #lang: eu
 #lang: de
 #lang:fr
-published: true
+published: false
 ---
 
 Agrietada por la contradicción,  
@@ -67,7 +67,7 @@ por el que saldrá el sol.
 <br/>
 <br/>
 <div class="jumbotron abstract" style="font-style: italic;">
-Este poema fue enviado el 10 de agosto de 2018 desde Minsk, Belarrús, mediante postales en nueve partes <a id="fnref:1" href="#fn:1" class="footnote-ref" role="doc-noteref">junto con una traducción al inglés<sup>\*</sup></a>. El poema está inspirado por la diversas estatuas de Vladimir Lenin que aún pueblan las plazas de muchas localidades de la nación belarrusa.
+Este poema fue enviado el 10 de agosto de 2018 desde Minsk, Belarrús, mediante postales en nueve partes <a id="fnref:1" href="#fn:1" class="footnote-ref" role="doc-noteref">junto con una traducción al inglés<sup>*</sup></a>. El poema está inspirado por la diversas estatuas de Vladimir Lenin que aún pueblan las plazas de muchas localidades de la nación belarrusa.
 </div>
 
 ***
