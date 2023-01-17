@@ -13,10 +13,10 @@ tags:
 - Belarus
 - Lenin
 lang: es
-#lang: es
+#lang: en
 #lang: eu
 #lang: de
-#lang:fr
+#lang: fr
 published: false
 ---
 
