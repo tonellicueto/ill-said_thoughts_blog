@@ -12,6 +12,7 @@ categories:
 tags:
 - Belarus
 - Lenin
+- revolution
 lang: es
 #lang: en
 #lang: eu
