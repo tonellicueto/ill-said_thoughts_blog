@@ -44,7 +44,7 @@ Por supuesto, podemos escribir una ecuación y resolverla, pero hay un mejor mé
 [^notaraices]: Aparte, en cualquier problema razonable propuesto para integrar $P(t)/Q(t)$ es necesario que seamos capaces de resolver $Q(t)$. Aunque esto pueda ser complicado en general por razones varias como la teoría de Galois que implica que no toda ecuación pueda ser resuelta mediante radicales.
 
 El método se divide en cuatro pasos:
-1. Hallar las raíces $Q(t)$. Más concretamente, asumamos que las raíces (reales y complejas) de $Q(t)$ son $\zeta_1,\ldots,\zeta_n$ con multiplicidades respectivas $m_1,\ldots,m_n.$
+1. Hallar las raíces $Q(t)$. Más concretamente, asumamos que las raíces (reales y complejas) de $Q(t)$ son $\zeta_1,\ldots,\zeta_n$ con multiplicidades respectivas $m_1,\ldots,m_n$.
 1. Expresar $1/Q(t)$ como sumar de fracciones simples. Más concretamente, usando la notación de arriba, escribiremos $1/Q(t)$ como
    \\[\frac{1}{Q(t)}=\sum_{i=1}^{n}\frac{q_i}{(t-\zeta_i)^{m_i}}=\frac{q_1}{(t-\zeta_1)^{m_1}}+\cdots+\frac{q_n}{(t-\zeta_n)^{m_n}}\\]
    donde los $q_i$ son constantes, posiblemente complejas.

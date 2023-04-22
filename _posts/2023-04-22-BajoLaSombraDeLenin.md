@@ -4,7 +4,7 @@ title: "Bajo la Sombra de Lenin"
 author: "Iasafro Maesman"
 description: "Poema escrito en uno de mis viajes a Belarrús y enviado mediante postales. / Poem written during one of my visits to Belarus and sent through postcards."
 excerpt: "Poema escrito en uno de mis viajes a Belarrús y enviado mediante postales. / Poem written during one of my visits to Belarus and sent through postcards."
-image: "../imgs/adiosParis.png"
+image: "../imgs/BajoLaSombraDeLenin.png"
 date: 2023-04-22 12:00:00
 categories:
 - poem
@@ -17,7 +17,7 @@ lang: es
 #lang: eu
 #lang: de
 #lang: fr
-published: false
+published: true
 ---
 
 Agrietada por la contradicción,  

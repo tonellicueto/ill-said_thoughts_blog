@@ -44,9 +44,19 @@ Even in the Spanish language, one of the few languages[^exmlang] where the self-
 
 [^exmlang]: Except for the Spanish and Portuguese, the rest of languages concedes to US imperialism and calls US people Americans. This is so even in the language of the self-called _avant-garde_ of European culture and thinking: the French.
 [^AS]: Of course, the Uruguayan speakers are more sophisticated, but this writer knows how to count!  
-[^softpower]: While some European countries believe they achieve _soft power_ by educating the elites of foreign countries at their universities, we should not deny that the US through Hollywood and the other media production companies has obtained a soft power over the masses of the world that can attend neither the European universities nor the US ones.
+[^softpower]: While some European countries believe they achieve _soft power_ by educating the elites of foreign countries at their universities, we should not deny that the US through Hollywood and the other media production companies has obtained a soft power over the masses of the world that neither the European universities nor the US ones can achieve.
 
-Towards such a level of cultural and political[^mili] US domination, we cannot do other thing than to resist. But, how? Resisting means to declare our otherness in an explicit way, to accept the constant threat. 
+Towards such a level of cultural and political[^mili] US domination, we cannot do other thing than to resist. But, how? Resisting means to declare our otherness in an explicit way, to accept the constant threat of not fitting it. For an American immigrant into the US, this might be a too high price to pay. When you decide to live in a country, you aspire to be a fellow citizen, not an immigrant in the country that you (want to) feel your own. Moreover, as of today, we lack the language—even more so in the language of the empire—to actively resist the appropiation of the term 'American' by the US. How can Americans and non-Americans resist this?
+
+[^mili]: And military!
+
+Among [all demonyms for people of the USA](), there does not seem to be a clear alternatives for the self-called Americans of the self-called America. Inside the US, the English demonym _yankee_ or _yank_ loses its power, as this refers to US people of a particular US region. The derogatory _gringo_ is probably an antagonizing valid choice, but it could be too confrontational to be an effective term for resistance in US soil—and it might be unespecific as it refers to all Anglo-Americans including Canadians. An issue for finding good demonym is that the US is a "nation without name". The names "United Stated" and "United States of America" lack the propperness of the name of any other country in the Americas. Ironically, the formal name of Mexico is _Estados Unidos Mexicanos_ (Mexican United States) and so they are also united states of America and, even more, also united states of North America, although they are other united states of America, not the United States of America[^MexicanUS].
+
+[^MexicanUS]:  Again, we can see here similar exclusion dynamics to that of the terms "America" and "Americans".
+
+So how can we call these people of the "nameless nation"? We have just to take the namelessness of the US and elevate it to a propper demonym: [_USian_](https://www.urbandictionary.com/define.php?term=USian). Note that this is precisely what the Spanish term _estadouniense_ does with the nameless _Estados Unidos_. Can _USian_ be an effective deliminatory term for these self-called Americans? It can be. Unlike _yankee_ or _gringo_, _USian_ is quite a neutral term. Hence, as a Trojan horse, we can use this term to subert the ...
+
+ The advantage of USian with respect to yankee and gringo is the lack
 
 Resistance is not easy, it means to take an stance against the mayor tendencies, to declare oneself as the other. When we resist, we are insisting in our otherness, in our difference with the collective.
 
@@ -57,7 +67,7 @@ If you are an American in the US, how can you defy the US centric narrative with
 
  Even more, how can the immigrants into the US resist without rejecting the so desired integration?
 
-[^mili]: And military!
+
 
 In doing such an act of resistance, we might find the US right in front of us saying that they call themselves Americans and their country America. However, against these right-wing players, we can reflect their usual arguments agains the transgender community, how the people of the US wants to call themselves and their country is irrelevant!
 
