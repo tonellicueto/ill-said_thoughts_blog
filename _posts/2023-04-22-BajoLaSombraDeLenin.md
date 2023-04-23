@@ -47,7 +47,7 @@ nublado o no, por donde el sol saldrá.
 
 Entonces... ¿llegará ese paraíso?  
 Ese sin clases, donde somos iguales.  
-¿Amanecerá ahí, donde miras, lo prometido  
+¿Amanecerá ahí, donde miras, lo prometido?   
 
 Disentido de mi y mis ideales,  
 sé que llegará la enésima revolución  
