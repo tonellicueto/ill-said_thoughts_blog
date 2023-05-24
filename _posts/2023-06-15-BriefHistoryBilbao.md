@@ -4,7 +4,7 @@ title: "A Brief History of Bilbao"
 author: "Josué Tonelli-Cueto"
 description: "A brief history of Bilbao written for the RSME's 7th Congress of Young Researches (Bilbao, 13-17/jan/2025). This version includes further comments absent in the original text."
 excerpt: "A brief history of Bilbao written for the RSME's 7th Congress of Young Researches (Bilbao, 13-17/jan/2025). This post version further comments absent in the original text."
-image: "../imgs/logo.png"
+image: "../imgs/BriefHistoryBilbao.png"
 date: 2023-06-15 12:00:00
 categories:
 - history
@@ -12,7 +12,7 @@ categories:
 tags:
 - bilbao
 lang: en
-published: true
+published: false
 ---
 
 
