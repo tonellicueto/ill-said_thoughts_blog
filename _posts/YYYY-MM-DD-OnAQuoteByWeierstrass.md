@@ -34,3 +34,9 @@ My intention with this blog is having a place where I can type quick thoughts...
 
 If $x>7\sin x$ then...f
 $$x^2<5$$
+
+https://doi.org/10.48550/arXiv.1803.02193
+
+https://gallica.bnf.fr/ark:/12148/bpt6k994421/f156.item
+
+https://todayinsci.com/K/Kovalevskaya_Sofia/KovalevskayaSofia-Quotations.htm

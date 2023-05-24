@@ -1,0 +1,79 @@
+---
+layout: post
+title: "Una Breve Historia de Bilbao"
+author: "Josué Tonelli-Cueto"
+description: "Una breve historia de Bilbao escrita para el VII Congreso de Jóvenes Investigadores de la RSME. En este post, se añaden más notas al pie de página comentando el texto."
+excerpt: "Una breve historia de Bilbao escrita para el VII Congreso de Jóvenes Investigadores de la RSME. En este post, se añaden más notas al pie de página comentando el texto."
+image: "../imgs/logo.png"
+date: 2023-06-15 12:00:00
+categories:
+- historia
+- the stories we tell
+tags:
+- bilbao
+lang: es
+#lang: es
+#lang: eu
+#lang: de
+#lang:fr
+published: true
+---
+
+
+<div class="jumbotron abstract" style="font-style: italic;">
+Esta breve historia de Bilbao fue escrita para el <a href="https://jovenesrsme2025.xyz/"><em>VI Congreso de Jóvenes Investigadores de la RSME (Bilbao, 13-17/enero/2025)</em></a> para dar una breve visión del desarrollo de Bilbao desde su fundación. Esta versión contine ncomentarios omitidas en la versión de la web.
+</div>
+<br/>
+<br/>
+<br/>
+
+Con sus más de 700 años, es difícil resumir la historia bilbaína en unos pocos párrafos. El objetivo de esta breve historia no es dar una historia detallada, sino transmitir el desarrollo de esta villa y su modo de ser en un texto breve que transmita como Bilbao pasó de ser un núcleo comercial del reino de Castilla a la ciudad icónica de hoy en día pasando por su definitorio periodo industrial.
+
+## Bilbao como Núcleo Comercial (siglos XIV-XVIII)
+
+Bilbao fue fundada en 1300 por <a href="https://es.wikipedia.org/wiki/Diego_L%C3%B3pez_V_de_Haro">Don Diego López V de Haro</a>, entonces <a href="https://es.wikipedia.org/wiki/Se%C3%B1or%C3%ADo_de_Vizcaya"><em>señor de Vizcaya</em></a>, mediante <a href="https://es.wikipedia.org/wiki/Carta_Puebla"><em>Carta Puebla</em></a>, que fue firmada en 1301 por el <a href="https://es.wikipedia.org/wiki/Fernando_IV_de_Castilla">rey Fernando IV de Castilla</a>. A día de hoy, la plaza de Abando está presidida por este fundador quien sujeta en su mano la Carta Puebla que dió origen a la villa. Tras recuperar el <a href="https://es.wikipedia.org/wiki/Se%C3%B1or%C3%ADo_de_Vizcaya"><em>Señorío de Vizcaya</em></a> a la muerte de su tío <a href="https://es.wikipedia.org/wiki/Diego_L%C3%B3pez_V_de_Haro">López V de Haro</a> quien se lo había arrebatado a la muerte del rey Sancho IV, <a href="https://es.wikipedia.org/wiki/Mar%C3%ADa_D%C3%ADaz_de_Haro_(c.1270-1342)">María Díaz de Haro</a> legitima fundación de Bilbao otorgando una nueva carta a la villa en 1310.
+
+Esta nueva carta estableció nuevos privilegios a la villa, convirtiendo a Bilbao en puerto de obligado paso para el comercio del reino de Castilla con el mar. Esto hizo de Bilbao un importante núcleo comercial de Castilla y propició el desarrollo de la villa. Sin embargo, el carácter—y privilegio—comercial de Bilbao generaró tensiones con <a href="https://es.wikipedia.org/wiki/Anteiglesia">las <em>anteiglesias</em></a> y otras villas de Bizkaia que veían como su poder político y económico iba dismuyendo en favor de una incipiente Bilbao. En el siglo XVII, tras arrebatar Bilbao la capitalidad de Bizkaia a <a href="https://es.wikipedia.org/wiki/Bermeo">Bermeo</a>, comenzaría un periodo de crisis y conflictos en Bizkaia que resultaría en varios alzamientos (<a href="https://es.wikipedia.org/wiki/Machinada"><em>las machinadas</em></a>) a lo largo de los siglos XVII y XVIII. Sin embargo, a pesar de ello, Bilbao fue consolidando tanto su poder económico como político dentro de Bizkaia.
+
+Una muestra del poderío comercial desarrollado por Bilbao en este periodo tanto a nivel nacional e internacional se puede apreciar <a href="https://www.merriam-webster.com/dictionary/bilboa">en la palabra inglesa <em>bilbo/bilboa</em></a> surgida a finales del siglo XVI. Esta palabra, cuyo significado se refiere a una espada o a un tipo de barra usada para confinar los pies de prisioneros en barcos, muestra la importancia del comercio objetos derivados del hierro en Bilbao—un hecho que será fundamental en el nacimiento de la Bilbao industrial.
+
+## La Bilbao liberal frente al Carlismo (siglo XIX)
+
+El siglo XIX está marcado principalmente por el conflicto entre las formas más liberales—burguesas—de política que surgían y las formas más tradicionales, que desembocaron en las guerras civiles conocidad como <a href="https://es.wikipedia.org/wiki/Guerras_carlistas">las <em>guerras carlistas</em></a>. Durante este periodo, el caracter burgués de Bilbao se materializó en el hecho de que Bilbao se convirtió en un símbolo del liberalismo dentro de Bizkaia. Debido a esto en parte y su importancia económica, en <a href="https://es.wikipedia.org/wiki/Primera_guerra_carlista">la primera</a> y <a href="https://es.wikipedia.org/wiki/Tercera_guerra_carlista">tercera guerras carlistas</a>, Bilbao fue un objetivo bélico importante de los carlistas. En ambas guerras, el bando carlista asediaría Bilbao no una ni dos, sino tres veces: dos en la primera guerra carlista y una en la tercera.
+
+A pesar de los tres asedios carlistas (<a href="https://es.wikipedia.org/wiki/Sitio_de_Bilbao_(1835)">en 1835</a>, <a href="https://es.wikipedia.org/wiki/Sitio_de_Bilbao_(1836)">en 1836</a> y <a href="https://es.wikipedia.org/wiki/Sitio_de_Bilbao_(1874)">en 1874</a>), Bilbao resistió convirtiéndose así en un símbolo de la victoria del <a href="https://es.wikipedia.org/wiki/Liberalismo_espa%C3%B1ol">liberalismo</a> sobre el tradicionalismo. Estos asedios forman también parte de la mitología bilbaína del bacalao, siendo la leyenda—<a href="https://www.elcorreo.com/jantour/falsa-leyenda-origen-bacalao-bilbao-guturbay-20210528140049-nt.html">muy probablemente falsa</a> dado que las evidencias de la afición bizkaina al bacalao datan de finales del siglo XVIII—la siguiente:
+
+> Un comerciante (al que la leyenda identifica como Simón Gurtubay) pidió erróneamente una tonelada de bacalao al confundirse, en un pedido de bacalao, la &lsquo;o&rsquo; disyuntiva de &ldquo;100 o 120 bacaladas&rdquo; por un cero. Inicialmente, este comerciante estuvo al borde un ataque de nervios, dado que la cantidad pedida de bacalao era imposible de vender sin que se echara a perder. Afortundamente para este, su desgracia sucedió a la vez que el asedio carlista. Así, cuando la comida empezó a escasear, este comerciante pudo vender su tonelada de bacalao a muy buen precio y el bacalao se convitió en un plato popular bilbaíno.
+
+
+##Edad de Oro: la Bilbao Industrial (1880-1930)
+
+En la segunda mitad del siglo XIX, tras su revolución industrial, Reino Unido estaba en necesidad de un acero de mayor calidad. Motivado por este problema, el <a href="https://es.wikipedia.org/wiki/Henry_Bessemer">inventor británico Henry Bessemer</a> inventó <a href="https://es.wikipedia.org/wiki/Convertidor_Bessemer">su nuevo sistema de producción de acero de alta calidad</a>, pero este método requería hierro no fosfórico que estaba disponible sólo en dos lugares de Europa: Suecia y el norte de España, en particular los <a href="https://es.wikipedia.org/wiki/Montes_de_Triano">montes de Triano</a> en las inmediaciones de Bilbao. Este hecho, unido a cambios políticos en Bizkaia que permitieron el comercio de hierro fuera de Bizkaia, propiciaron un incremento del comercio de hierro entre Bilbao y el Reino Unido.
+
+Como consecuencia de este comercio, surgieron diversas industrias siderurgicas en Bilbao y sus alrededores: los <em>Altos Hornos de Bilbao</em>, creada en 1882 a partir de la modernización de la fábrica de Nuestra Señora de El Carmen (fundada en 1854 por los hermanos Ybarra); <em>la Vizcaya</em>, creada en 1882 por el grupo liderado por <a href="https://es.wikipedia.org/wiki/Pedro_Pascual_Gandarias">Pedro Pascual Gandarias</a>; y <em>la Iberia</em>, creada en 1890 a partir de la empresa <em>Goitia y Compañía</em> (fundada por un grupo de guipuzcoanos). Todas estas empresas se fusionarían en 1902 en la que fue la mayor empresa española durante la mayoría del siglo XX: <a href="https://es.wikipedia.org/wiki/Altos_Hornos_de_Vizcaya">los <em>Altos Hornos de Vizcaya</em></a>, la que sería en cierto modo el símbolo de la Bilbao industrial.
+
+Esta revolución industrial bilbaína forjó el Bilbao del imaginario colectivo. Bilbao multiplicó su población por ocho en la última decada del siglo XIX debido al influjo de inmigrantes. Será en esta época cuando Bilbao empezó a expandise y absorver las anteiglesias de sus alrededores, como sucedió durante <a href="https://es.wikipedia.org/wiki/Ensanche_de_Bilbao">el <em>ensanche</em> de Bilbao</a>. Además, estos fuertes cambios demográficos bilbaínos fueron el caldo de cultivo perfecto para el desarrollo local de los movimientos políticos que jugarían un papel central en la política española del siglo XX: el nacionalismo vasco, los movimientos obreros y el socialismo, el republicanismo y el liberalismo monárquico.
+Muestra de esta efervescencia de ideas en Bilbao son figuras vincualadas a la villa como <a href="https://es.wikipedia.org/wiki/Miguel_de_Unamuno">Miguel de Unamuno</a>, el famoso escritor y filósofo bilbaíno; <a href="https://es.wikipedia.org/wiki/Sabino_Arana">Sabino Arana</a>, fundador del nacionalismo vasco y el Partido Nacionalista Vasco; <a href="https://es.wikipedia.org/wiki/Resurrecci%C3%B3n_Mar%C3%ADa_de_Azkue">Resurreción María de Azkue</a>, fundador y primer presidente de <a href="https://es.wikipedia.org/wiki/Real_Academia_de_la_Lengua_Vasca"><em>Euskaltzaindia</em> (Real Academia de la Lengua Vasca)</a>; e <a href="https://es.wikipedia.org/wiki/Indalecio_Prieto">Indalecio Prieto</a>, un político socialista que fue ministro durante la 2.&ordf; República.
+
+Finalmente, es en esta Bilbao industrial donde el <a href="https://es.wikipedia.org/wiki/Athletic_Club"><em>Athletic Club Bilbao</em></a> es fundado en 1898. Este club de fútbol, su estadio—conocido como <em>La Catedral</em> desde antes de que Bilbao tuviera una catedral—y su particular filosofía son a día de hoy una parte esencial de la vida bilbaína con más de 130 años de fervor, historia y tradición.
+
+## Bilbao durante la 2.&ordf; República, la Guerra Civil y el Franquismo (1931-1975)
+
+En la 2.&ordf; República, Bilbao fue una ciudad llena de pluralismo político—nacionalistas, socialistas, comunistas, liberales...—que se prolongó hasta <a href="https://es.wikipedia.org/wiki/Guerra_civil_espa%C3%B1ola">la Guerra Civil</a>. Durante la Guerra Civil, Bilbao fue la sede del <a href="https://es.wikipedia.org/wiki/Gobierno_Provisional_del_Pa%C3%ADs_Vasco">primer Gobierno Vasco</a> liderado por el <a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Antonio_Aguirre">lehendakari José Antonio Aguirre</a>. A pesar de su resistencia y su <a href="https://es.wikipedia.org/wiki/Cintur%C3%B3n_de_Hierro_de_Bilbao">Cinturón de Hierro</a>, Bilbao cayó ante el bando sublevado en 1937. Sin embargo, en su retirada, las tropas nacionalistas y republicanas, por orden del Gobierno Vasco, no destruyeron la industrias de Bilbao &ldquo;para poder garantizar el sustento del pueblo vasco&rdquo;. Este hecho garantizó el papel de Bilbao y sus altos hornos como núcleo industrial de España tras la guerra.
+
+Durante el franquismo, Bilbao sufrió altas dosis de represión. Sin embargo, el franquismo continuó desarrollando la industria bilbaína, lo cual atrajo a la villa bilbaína inmigrantes de todo el estado. Las terribles condiciones de estes propiciaron, en 1947, la primera huelga en la España de la posguerra. A pesar de la respuesta implacable de las autoridades franquistas, esta huelga marca el comienzo de un proceso de activación y radicalización de los movimientos nacionalistas y obreros frente a la dictadura que desembocará en una serie de conflictos laborales y políticos—cada vez más violentos—desde los años 60 hasta el final del franquismo. Así, al terminar el franquismo, Bilbao se encuentra llena de grandes esperanzas sociales y políticas, pero en un clima altamente violento marcado por la continuada actividad de ETA y otros grupos terroristas más allá del fin de la dictadura.
+
+## Crisis y Reconversión Industrial (1976-1996)
+
+Tras la llegada de la democracia, el País Vasco se articula en <a href="https://es.wikipedia.org/wiki/Comunidad_aut%C3%B3noma"><em>Comunidad Autónoma</em></a> a través del <a href="https://es.wikipedia.org/wiki/Estatuto_de_Autonom%C3%ADa_del_Pa%C3%ADs_Vasco_de_1979"><em>Estatuto de Autonomía de Guernica</em></a> en 1979. Sin embargo, las pretensiones de Bilbao a la capitalidad vasca fracasan cuando es Vitoria la elegida como capital. Si esto no fuera poco, la industria siderúrgica bilbaína entra en una grave crisis en los años ochenta. Uno de los mayores símbolos de esta crisis es el cierre de los <a href="https://es.wikipedia.org/wiki/Astilleros_Euskalduna"><em>astilleros Euskalduna</em></a> en 1988, después de que sus trabajadores se opusieran al cierre durante años mediante manifestaciones y enfrentamientos a la policía. Marcada así esta crisis, por multitud de conflictos sociales y políticos, la decada de los ochenta marca el final de la Bilbao industrial y sus altos hornos en el llamado <a href="https://es.wikipedia.org/wiki/Reconversi%C3%B3n_industrial">proceso de reconversión industrial</a>.
+
+Además, esta época está marcada por las terribles inundaciones de 1983 en las que la ría subío hasta cinco metros de altura. El impacto de estas inundaciones (que se llevaron consigo a una treintena de personas) se vio incrementado por el hecho de que estas sucedieron en pleno agosto, en plenas fiestas de Bilbao durante la <em>Aste Nagusia</em>. En una nota más positiva, fue en 1983 y en 1984, cuando el Athletic Club Bilbao consiguió ganar La Liga dos veces consecutivas, tras llevar desde 1956 sin ganar la competición.
+
+## Edad de Plata: la Bilbao Icónica (desde 1997)
+
+En 1995, el cierre de los Altos Hornos de Vizcaya marca la muerte definitiva de la Bilbao industrial. Sin embargo, mientras sus industrias cerraban, Bilbao se preparaba para realizar una reconversión urbanística sin precedentes a nivel global. A comienzos de los noventa, se crea la asociación <a href="https://es.wikipedia.org/wiki/Bilbao_Metr%C3%B3poli-30"><em>Bilbao Metrópoli-30</em></a>, para transicionar Bilbao y sus alrededores desde un ámbito industrial a un ámbito de cultura y servicios; y la sociedad <a href="https://es.wikipedia.org/wiki/Bilbao_R%C3%ADa_2000"><em>Bilbao Ría 2000</em></a>, para regenerar los espacios industriales no utilizados de Bilbao.
+
+Este proceso de regeneración tiene su primera culminación con la innauguración de la red inicial de <a href="https://es.wikipedia.org/wiki/Metro_de_Bilbao"><em>Metro Bilbao</em></a>, en 1995; y el <a href="https://es.wikipedia.org/wiki/Museo_Guggenheim_Bilbao"><em>Museo Guggenheim Bilbao</em></a>, en 1997. A estos le siguen diversos iconos del nuevo Bilbao que conformaran la Bilbao icónica de hoy en día: <a href="https://es.wikipedia.org/wiki/Isozaki_Atea">la <em>Isozaki Atea</em></a>, <a href="https://es.wikipedia.org/wiki/Zubizuri">el <em>ZubiZuri</em><a/>, <a href="https://es.wikipedia.org/wiki/Torre_Iberdrola">la <em>Torre Iberdrola</em></a>, el paseo de la ría, <a href="https://es.wikipedia.org/wiki/Azkuna_Zentroa">la restauración de <em>la Alhóndiga</em> como centro cultural y de ocio</a>... Sin embargo, este llamado <em>Efecto Bilbao</em>, que tantas otras ciudades en el mundo han tratado de imitar, no puede reducirse simplemente a los iconos arquitectónicos de la villa, sino a un profundo proceso de restructuración económica y estructural de Bilbao y sus alrededores durante los años noventa.
+
+
+***
