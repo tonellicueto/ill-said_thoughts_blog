@@ -2,29 +2,23 @@
 layout: post
 title: "Una Breve Historia de Bilbao"
 author: "Josué Tonelli-Cueto"
-description: "Una breve historia de Bilbao escrita para el VII Congreso de Jóvenes Investigadores de la RSME. En este post, se añaden más notas al pie de página comentando el texto."
-excerpt: "Una breve historia de Bilbao escrita para el VII Congreso de Jóvenes Investigadores de la RSME. En este post, se añaden más notas al pie de página comentando el texto."
+description: "Una breve historia de Bilbao escrita para el VII Congreso de Jóvenes Investigadores de la RSME. Esta versión contine comentarios adicionales ausentes en la versión original."
+excerpt: "Una breve historia de Bilbao escrita para el VII Congreso de Jóvenes Investigadores de la RSME. Esta versión contine comentarios adicionales ausentes en la versión original."
 image: "../imgs/logo.png"
 date: 2023-06-15 12:00:00
 categories:
-- historia
+- history
 - the stories we tell
 tags:
 - bilbao
 lang: es
-#lang: es
-#lang: eu
-#lang: de
-#lang:fr
 published: true
 ---
 
 
 <div class="jumbotron abstract" style="font-style: italic;">
-Esta breve historia de Bilbao fue escrita para el <a href="https://jovenesrsme2025.xyz/"><em>VI Congreso de Jóvenes Investigadores de la RSME (Bilbao, 13-17/enero/2025)</em></a> para dar una breve visión del desarrollo de Bilbao desde su fundación. Esta versión contine ncomentarios omitidas en la versión de la web.
+Escribí esta breve historia de Bilbao para el <a href="https://jovenesrsme2025.xyz/"><em>VI Congreso de Jóvenes Investigadores de la RSME (Bilbao, 13-17/enero/2025)</em></a> para dar una visión de conjunto de cómo Bilbao llegó a ser la ciudad que es a día de hoy para les participantes de la conferencia. Esta versión contine comentarios omitidos de la versión original, en los que expando contenidos y expreso mi opinión personal.
 </div>
-<br/>
-<br/>
 <br/>
 
 Con sus más de 700 años, es difícil resumir la historia bilbaína en unos pocos párrafos. El objetivo de esta breve historia no es dar una historia detallada, sino transmitir el desarrollo de esta villa y su modo de ser en un texto breve que transmita como Bilbao pasó de ser un núcleo comercial del reino de Castilla a la ciudad icónica de hoy en día pasando por su definitorio periodo industrial.
@@ -42,11 +36,10 @@ Una muestra del poderío comercial desarrollado por Bilbao en este periodo tanto
 El siglo XIX está marcado principalmente por el conflicto entre las formas más liberales—burguesas—de política que surgían y las formas más tradicionales, que desembocaron en las guerras civiles conocidad como <a href="https://es.wikipedia.org/wiki/Guerras_carlistas">las <em>guerras carlistas</em></a>. Durante este periodo, el caracter burgués de Bilbao se materializó en el hecho de que Bilbao se convirtió en un símbolo del liberalismo dentro de Bizkaia. Debido a esto en parte y su importancia económica, en <a href="https://es.wikipedia.org/wiki/Primera_guerra_carlista">la primera</a> y <a href="https://es.wikipedia.org/wiki/Tercera_guerra_carlista">tercera guerras carlistas</a>, Bilbao fue un objetivo bélico importante de los carlistas. En ambas guerras, el bando carlista asediaría Bilbao no una ni dos, sino tres veces: dos en la primera guerra carlista y una en la tercera.
 
 A pesar de los tres asedios carlistas (<a href="https://es.wikipedia.org/wiki/Sitio_de_Bilbao_(1835)">en 1835</a>, <a href="https://es.wikipedia.org/wiki/Sitio_de_Bilbao_(1836)">en 1836</a> y <a href="https://es.wikipedia.org/wiki/Sitio_de_Bilbao_(1874)">en 1874</a>), Bilbao resistió convirtiéndose así en un símbolo de la victoria del <a href="https://es.wikipedia.org/wiki/Liberalismo_espa%C3%B1ol">liberalismo</a> sobre el tradicionalismo. Estos asedios forman también parte de la mitología bilbaína del bacalao, siendo la leyenda—<a href="https://www.elcorreo.com/jantour/falsa-leyenda-origen-bacalao-bilbao-guturbay-20210528140049-nt.html">muy probablemente falsa</a> dado que las evidencias de la afición bizkaina al bacalao datan de finales del siglo XVIII—la siguiente:
-
 > Un comerciante (al que la leyenda identifica como Simón Gurtubay) pidió erróneamente una tonelada de bacalao al confundirse, en un pedido de bacalao, la &lsquo;o&rsquo; disyuntiva de &ldquo;100 o 120 bacaladas&rdquo; por un cero. Inicialmente, este comerciante estuvo al borde un ataque de nervios, dado que la cantidad pedida de bacalao era imposible de vender sin que se echara a perder. Afortundamente para este, su desgracia sucedió a la vez que el asedio carlista. Así, cuando la comida empezó a escasear, este comerciante pudo vender su tonelada de bacalao a muy buen precio y el bacalao se convitió en un plato popular bilbaíno.
 
 
-##Edad de Oro: la Bilbao Industrial (1880-1930)
+## Edad de Oro: la Bilbao Industrial (1880-1930)
 
 En la segunda mitad del siglo XIX, tras su revolución industrial, Reino Unido estaba en necesidad de un acero de mayor calidad. Motivado por este problema, el <a href="https://es.wikipedia.org/wiki/Henry_Bessemer">inventor británico Henry Bessemer</a> inventó <a href="https://es.wikipedia.org/wiki/Convertidor_Bessemer">su nuevo sistema de producción de acero de alta calidad</a>, pero este método requería hierro no fosfórico que estaba disponible sólo en dos lugares de Europa: Suecia y el norte de España, en particular los <a href="https://es.wikipedia.org/wiki/Montes_de_Triano">montes de Triano</a> en las inmediaciones de Bilbao. Este hecho, unido a cambios políticos en Bizkaia que permitieron el comercio de hierro fuera de Bizkaia, propiciaron un incremento del comercio de hierro entre Bilbao y el Reino Unido.
 
