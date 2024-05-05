@@ -130,7 +130,7 @@ infinite more times<br/>
 in Sisyphusian convergence<br/>
 to that infinity,<br/>
 to which Lenin looks,<br/>
-from which the comes out.
+from which the sun comes out.
 </p>
 <p><a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#8617;</a></p>
 </li>
