@@ -1,22 +1,18 @@
 ---
 layout: post
-title: "Title"
+title: "Speech at the TRU-UE Picket"
 author: "Josué Tonelli-Cueto"
 description: "..."
 excerpt: "..."
 image: "../imgs/logo.png"
-date: YYYY-MM-DD
+date: 2024-02-21
 categories:
-- category1
+- speech
 - category2
 tags:
 - tag1
 - tag2
 lang: en
-#lang: es
-#lang: eu
-#lang: de
-#lang:fr
 published: false
 ---
 
