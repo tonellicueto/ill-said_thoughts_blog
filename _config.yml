@@ -65,7 +65,7 @@ feed:
   excerpt_only: true
 
 # Build settings
-theme: jekyll-theme-minima
+theme: minima
 
 plugins:
  - jekyll-feed
