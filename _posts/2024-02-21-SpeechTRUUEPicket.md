@@ -7,11 +7,12 @@ excerpt: "..."
 image: "../imgs/logo.png"
 date: 2024-02-21
 categories:
+- academia
 - speech
-- category2
+- politics
 tags:
-- tag1
-- tag2
+- union
+- worker rights
 lang: en
 published: false
 ---
