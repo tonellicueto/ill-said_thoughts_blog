@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Speech at the TRU-UE Picket of February 20, 2024"
+title: "Speech at the TRU-UE Picket"
 author: "Josué Tonelli-Cueto"
 description: "Speech given at the TRU-UE trial picket on the February 20th of 2024. The speech showed the support of the JHU Postdocs to the JHU Grad Students."
 excerpt: "Speech given at the TRU-UE trial picket on the February 20th of 2024. The speech showed the support of the JHU Postdocs to the JHU Grad Students."
