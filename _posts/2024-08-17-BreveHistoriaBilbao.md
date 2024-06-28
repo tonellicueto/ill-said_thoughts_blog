@@ -5,7 +5,7 @@ author: "Josué Tonelli-Cueto"
 description: "Una breve historia de Bilbao escrita para el VII Congreso de Jóvenes Investigadores de la RSME. Esta versión contine comentarios adicionales ausentes en la versión original."
 excerpt: "Una breve historia de Bilbao escrita para el VII Congreso de Jóvenes Investigadores de la RSME. Esta versión contine comentarios adicionales ausentes en la versión original."
 image: "../imgs/BreveHistoriaBilbao.png"
-date: 2023-06-15 12:00:00
+date: 2024-08-17 12:00:00
 categories:
 - history
 - the stories we tell

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Speech at the TRU-UE Picket"
+title: "Speech at the TRU-UE Picket of February 20, 2024"
 author: "Josué Tonelli-Cueto"
-description: "..."
-excerpt: "..."
-image: "../imgs/logo.png"
-date: 2024-02-21
+description: "Speech given at the TRU-UE trial picket on the February 20th of 2024. The speech showed the support of the JHU Postdocs to the JHU Grad Students."
+excerpt: "Speech given at the TRU-UE trial picket on the February 20th of 2024. The speech showed the support of the JHU Postdocs to the JHU Grad Students."
+image: "../imgs/SpeechTRUUEPicketFeb202024.png"
+date: 2024-05-08
 categories:
 - academia
 - speech
@@ -14,11 +14,13 @@ tags:
 - union
 - worker rights
 lang: en
-published: false
+published: true
 ---
 
 <div class="jumbotron abstract" style="font-style: italic;">
-This is speech was prepared together with some postdocs in support of the TRU-UE Picket.
+On Tuesday, February 20th of 2024, the <a href="https://trujhu.org/">Teachers and Researchers United (TRU-UE)</a>, the union of the grad workers at Johns Hopkins, did an all day practice picket to demonstrate the power of the union to the university administration, which was stalling at the time trying to deny union shop (universal union membership) and working protections of the contract.
+<br/>
+I gave the speech below in representation of supporting postdocs at Johns Hopkins—postdocs who are now in the effort or forming their own union: <a href="https://hopkinspro-uaw.org/">the Hopkins PRO-UAW</a>. This speech benefited enormously from the addition and feedback from my fellow postdocs Alfred Gan and Ben Fernando and UAW staffer TJ Cook.
 </div>
 <br/>
 <br/>
