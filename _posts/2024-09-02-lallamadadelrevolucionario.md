@@ -15,7 +15,7 @@ lang: es
 published: true
 ---
 
-<p style="color:#5980d4;font-size:0.7em;white-space: nowrap;">
+<p style="color:#5980d4;white-space: nowrap;">
 las condiciones materiales<br/>
 del momento del desarrollo histórico<br/>
 en el que vivimos<br/>
