@@ -33,10 +33,10 @@ y su encendida alma <br/>
 hacia ese mañana, <br/>
 horizonte sentido <br/>
 mas nunca vivido <br/>
-y que, quizás, nunca vivirá 
+y que, quizás, nunca vivirá
 </p>
 <br/>
-<p style="color: #ac3235;padding-left: 40%;white-space: nowrap;">
+<p style="color: #ac3235;padding-left: 45%;white-space: nowrap;">
 las condiciones materiales  <br/>
 del momento del desarrollo histórico  <br/>
 que hoy disfrutamos <br/>
