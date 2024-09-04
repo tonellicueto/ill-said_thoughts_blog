@@ -4,7 +4,7 @@ title: "la circumstancia del revolucionario"
 author: "Josué Tonelli-Cueto"
 description: "Poema escrito en el Día del Trabajo y enviado mediante una única postal a una única persona."
 excerpt: "Poema escrito en el Día del Trabajo y enviado mediante una única postal a una única persona."
-image: "../imgs/logo.png"
+image: "../imgs/lacircumstanciadelrevolucionario.png"
 date: 2024-09-02
 categories:
 - poem
