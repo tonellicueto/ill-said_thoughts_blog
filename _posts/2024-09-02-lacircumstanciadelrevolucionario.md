@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "la circumstancia del revolucionario"
-author: "Josué Tonelli-Cueto"
+author: "Iasafro Maesman"
 description: "Poema escrito en el Día del Trabajo y enviado mediante una única postal a una única persona."
 excerpt: "Poema escrito en el Día del Trabajo y enviado mediante una única postal a una única persona."
 image: "../imgs/lacircumstanciadelrevolucionario.png"
