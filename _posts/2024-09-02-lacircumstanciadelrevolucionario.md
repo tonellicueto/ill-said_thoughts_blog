@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "la llamada del revolucionario"
+title: "la circumstancia del revolucionario"
 author: "Josué Tonelli-Cueto"
 description: "Poema escrito en el Día del Trabajo y enviado mediante una única postal a una única persona."
 excerpt: "Poema escrito en el Día del Trabajo y enviado mediante una única postal a una única persona."
