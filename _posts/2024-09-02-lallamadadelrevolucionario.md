@@ -21,8 +21,8 @@ del momento del desarrollo histórico<br/>
 en el que vivimos<br/>
 son las que son
 </p>
-
-<p style="padding-left: 25%;">
+<br/>
+<p style="padding-left: 20%;">
 cuando llama esa llama<br/>
 de la revolución<br/>
 a ese su corazón,<br/>
@@ -35,15 +35,14 @@ horizonte sentido<br/>
 mas nunca vivido<br/>
 y que, quizás, nunca vivirá
 </p>
-
-
-<p style="color: #ac3235;padding-left: 50%;">
+<br/>
+<p style="color: #ac3235;padding-left: 40%;">
 las condiciones materiales<br/>
 del momento del desarrollo histórico<br/>
 que hoy disfrutamos<br/>
 están escritas en sangre
 </p>
-
+<br/>
 <br/>
 <br/>
 <br/>
