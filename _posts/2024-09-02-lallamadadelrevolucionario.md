@@ -15,7 +15,7 @@ lang: es
 published: true
 ---
 
-<p style="color:#5980d4;font-size:0.8em;">
+<p style="color:#5980d4;font-size:0.7em;">
 las condiciones materiales<br/>
 del momento del desarrollo histórico<br/>
 en el que vivimos<br/>
@@ -36,7 +36,7 @@ mas nunca vivido<br/>
 y que, quizás, nunca vivirá
 </p>
 <br/>
-<p style="color: #ac3235;padding-left: 40%;font-size:0.8em;">
+<p style="color: #ac3235;padding-left: 40%;font-size:0.7em;">
 las condiciones materiales<br/>
 del momento del desarrollo histórico<br/>
 que hoy disfrutamos<br/>
