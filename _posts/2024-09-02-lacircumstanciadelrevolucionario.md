@@ -49,5 +49,5 @@ están escritas en sangre
 <br/>
 <br/>
 <div class="jumbotron abstract" style="font-style: italic;">
-Este poema fue enviado el 3 de septiembre de 2024 desde Baltimore en una única postal a una única persona. La inspiración del poema viene de eventos sucedidos al autor durante el Día del Trabajador estadounidense el 2 de septiembre del 2024.
+Este poema fue enviado el 3 de septiembre de 2024 desde Baltimore en una única postal a una única persona. La inspiración del poema viene de eventos sucedidos al autor durante el Día del Trabajo estadounidense—<em>Labor Day</em>—el 2 de septiembre del 2024.
 </div>
