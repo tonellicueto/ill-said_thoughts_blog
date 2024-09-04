@@ -15,14 +15,14 @@ lang: es
 published: true
 ---
 
-<p style="color:#5980d4;font-size:0.7em;">
+<p style="color:#5980d4;font-size:0.7em;white-space: nowrap;">
 las condiciones materiales<br/>
 del momento del desarrollo histórico<br/>
 en el que vivimos<br/>
 son las que son
 </p>
 <br/>
-<p style="padding-left: 20%;">
+<p style="padding-left: 20%;white-space: nowrap;">
 cuando llama esa llama<br/>
 de la revolución<br/>
 a ese su corazón,<br/>
@@ -36,7 +36,7 @@ mas nunca vivido<br/>
 y que, quizás, nunca vivirá
 </p>
 <br/>
-<p style="color: #ac3235;padding-left: 40%;font-size:0.7em;">
+<p style="color: #ac3235;padding-left: 40%;white-space: nowrap;">
 las condiciones materiales<br/>
 del momento del desarrollo histórico<br/>
 que hoy disfrutamos<br/>
