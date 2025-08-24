@@ -19,9 +19,9 @@ published: true
 
 <p style="white-space: nowrap;">
 Only us,<br/>
-     with no other<br/>
-     or with others,<br/>
-can project the <span style="font-weight: bold;color:#5980d4;">colors</span><br/>
+&emsp;&emsp;with no other<br/>
+&emsp;&emsp;or with others,<br/>
+can project the <span id="colors" style="font-weight: bold;color:#ee2523;">colors</span><br/>
 onto the lived images<br/>
 of our experience
 </p>
@@ -38,3 +38,13 @@ without our active sight
 <div class="jumbotron abstract" style="font-style: italic;">
 The original version of this poem was sent through two series: a first one of four postcards on April 30th of 2025, and a second one (numbered from II-α to II-ξ) of 14 postcards on August 20th of 2025. Each postcard depicted a colorless scene of Paris that could be colored, letting the person receiving the postcard whether or not E wants to project Eir colors onto it. Hence the poem-postcard plays on the idea on how our subjectivity (metaphorized as <i>color projection</i>) shapes our experiences, being the participatory element just an extra emphasis on our active role at experiencing the world and constructing our experience. The present on-line version add a twist randomizing the coloring of the word &ldquo;colors&rdquo; in the poem.
 </div>
+<script type="text/javascript">
+<!--
+function ColorChange() {
+  document.getElementById("colors").style.color="rgb(" + Math.round(Math.random() * 255) + "," + Math.round(Math.random() * 255)
+                + "," + Math.round(Math.random() * 255) + ")";
+}
+
+window.onload = ColorChange;
+//-->
+</script>
