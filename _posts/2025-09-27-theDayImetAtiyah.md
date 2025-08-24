@@ -5,7 +5,7 @@ author: "Josué Tonelli-Cueto"
 description: "Some years ago, I had the chance of meeting Michael Atiyah and asking for an autograph. I recall the experience, and I take this opportunity to reflect on the sad circumstances on which this happened."
 excerpt: "Some years ago, I had the chance of meeting Michael Atiyah and asking for an autograph. I recall the experience, and I take this opportunity to reflect on the sad circumstances on which this happened."
 image: "../imgs/theDayImetAtiyah.png"
-date: 2022-09-26 12:12:12
+date: 2025-06-27 12:12:12
 categories:
 - conferences
 - mathematics
@@ -44,9 +44,9 @@ Of course, during the conversation, like any regular fanboy, I asked for a signa
 
 # The Sad Circumstances of this Moment
 
-Unfortunately, this moment didn't happen in the best circumstances. The 6HLF is infamous for Atiyah's presentation of his 'proof' of [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis). The presented proof was more the proof of a crank than the proof of a mathematical genius such as Atiyah, and it ruined whatever reputation he preserved as an active mathematician. Of course, he will always be remembered as a great mathematician, but that talk was the fall from grace and one of the saddest way for such a mathematician to end his career.However, why was Atiyah allowed to give such a talk in such a public forum as the 6HLF? And more importantly, what does this say about the mathematical community?
+Unfortunately, this moment didn't happen in the best circumstances. The 6HLF is infamous for Atiyah's presentation of his 'proof' of [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis). The presented proof was more the proof of a crank than the proof of a mathematical genius such as Atiyah, and it ruined whatever reputation he preserved as an active mathematician. Of course, he will always be remembered as a great mathematician, but that talk was the fall from grace and one of the saddest way for such a mathematician to end his career. However, why was Atiyah allowed to give such a talk in such a public forum as the 6HLF? And more importantly, what does this say about the mathematical community?
 
-At the closing ceremony of the 6HLF, possibly due to the backslash against Atiyah's presentation, the HLF used academic freedom as a shield claimimg that the speakers at the HLF have the academic freedom to talk about whatever they want. Thus the only responsible person regarding Atiyah's talk was Atiyah himself. Unfortunately, this line of thought obviates the responsability that the HLF has in all this, more so, when we take into account that Atiyah's proof of Riemann hypothesis was rejected by the [arXiv](https://arxiv.org/)[^arxiv_note]. If we accept the version of the HLF, then we should go and claim that arXiv is against academic freedom, a claim that is a contradiction in terms—with the possible exception of [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)[^scihub_note], no other platform has done more for free and open science than arXiv.
+At the closing ceremony of the 6HLF, possibly due to the backslash against Atiyah's presentation, the HLF used academic freedom as a shield claiming that the speakers at the HLF have the academic freedom to talk about whatever they want. Thus the only responsible person regarding Atiyah's talk was Atiyah himself. Unfortunately, this line of thought obviates the responsability that the HLF has in all this, more so, when we take into account that Atiyah's proof of Riemann hypothesis was rejected by the [arXiv](https://arxiv.org/)[^arxiv_note]. If we accept the version of the HLF, then we should go and claim that arXiv is against academic freedom, a claim that is a contradiction in terms—with the possible exception of [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub)[^scihub_note], no other platform has done more for free and open science than arXiv.
 
 [^arxiv_note]:  For those outside mathematical research, the arXiv is a preprint server where mathematicians upload their manuscripts so that they are available to the wider mathematical community freely and openly. As of today, almost every mathematician upload Eir manuscript to arXiv when finishing it so that other mathematicians can access their work while the manuscript is undergoing the review process, which in mathematics can take years—in other areas, the review process is definitely shorter. In this way, a lot of the manuscripts in arXiv are raw documents which can contain typos and erros. In this way, it is very uncommon for arxiv to reject a manuscript.
 
@@ -63,7 +63,7 @@ Before following, let's reconstruct in detail the events[^1]. At some moment, At
 
 [^media]:  To put some examples: ....
 
-As a consequence of this media hype, all the eyes of the mathematical world were on Atiyah at his HLF talk. Moreover, this is not a metaphorical figure, since [the talks at the HLF are recorded and streamed]() for everyone to watch. Of course, this made the fall of Atiyah bigger, as he didn't give his talk only to the attendees at the HLF, but to the whole world. Because of this 
+As a consequence of this media hype, all the eyes of the mathematical world were on Atiyah at his HLF talk. Moreover, this is not a metaphorical figure, since [the talks at the HLF are recorded and streamed]() for everyone to watch. Of course, this made the fall of Atiyah bigger, as he didn't give his talk only to the attendees at the HLF, but to the whole world. Because of this
 
 At this moment, we can contextualize better the actions of HLF,
 
