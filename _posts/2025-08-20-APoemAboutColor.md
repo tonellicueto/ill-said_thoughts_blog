@@ -18,15 +18,15 @@ published: true
 ---
 
 <p style="white-space: nowrap;">
-Only us,
-     with no other
-     or with others,
-can project the <span style="font-weight: bold;color:#5980d4;">colors</span>
-onto the lived images
+Only us,<br/>
+     with no other<br/>
+     or with others,<br/>
+can project the <span style="font-weight: bold;color:#5980d4;">colors</span><br/>
+onto the lived images<br/>
 of our experience
 </p>
 <p style="white-space: nowrap;">
-World's colorless
+World's colorless<br/>
 without our active sight
 </p>
 <br/>
