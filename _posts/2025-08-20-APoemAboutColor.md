@@ -4,7 +4,7 @@ title: "A poem about color"
 author: "Iasafro Maesman"
 description: "On-line adaptation of a postcard-poem using projecting color as a metaphor of our active role in shaping our experiences."
 excerpt: "On-line adaptation of a postcard-poem using projecting color as a metaphor of our active role in shaping our experiences."
-image: "../imgs/apoemaboutcolor.jpg"
+image: "../imgs/apoemaboutcolor.png"
 date: 2025-08-20 20:20:20
 categories:
 - poem
