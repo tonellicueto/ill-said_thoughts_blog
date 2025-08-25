@@ -19,9 +19,9 @@ published: true
 
 <p style="white-space: nowrap;">
 Only us,<br/>
-&emsp;&emsp;with no other<br/>
-&emsp;&emsp;or with others,<br/>
-can project the <span id="colors" style="font-weight: bold;color:#ee2523;">colors</span><br/>
+&emsp;&emsp;&ensp;with no other<br/>
+&emsp;&emsp;&ensp;or with others,<br/>
+can project the <span id="colors" style="font-weight: bold;color:#ee2523;" onclick="ColorChange()">colors</span><br/>
 onto the lived images<br/>
 of our experience
 </p>
