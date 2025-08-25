@@ -17,7 +17,7 @@ lang: en
 published: true
 ---
 
-<p style="white-space: nowrap;"> 
+<p style="white-space: nowrap;">
 Only us,<br/>
 &emsp;&emsp;&ensp;with no other<br/>
 &emsp;&emsp;&ensp;or with others,<br/>
@@ -34,7 +34,8 @@ without our active sight
 <br/>
 <br/>
 <div class="jumbotron abstract" style="font-style: italic;">
-The original version of this poem was sent through two series: a first one of four postcards on April 30th of 2025, and a second one (numbered from II-α to II-ξ) of 14 postcards on August 20th of 2025. Each postcard depicted a colorless scene of Paris that could be colored, letting the person receiving the postcard whether or not E wants to project Eir colors onto it. Hence the poem-postcard plays on the idea on how our subjectivity (metaphorized as <i>color projection</i>) shapes our experiences, being the participatory element just an extra emphasis on our active role at experiencing the world and constructing our experience. The present on-line version add a twist randomizing the coloring of the word &ldquo;colors&rdquo; in the poem.
+The original version of this poem was sent through two series: a first one of four postcards on April 30th of 2025, and a second one (numbered from II-α to II-ξ) of 14 postcards on August 20th of 2025. Each postcard depicted a colorless scene of Paris that could be colored, letting the person receiving the postcard whether or not E wants to project Eir colors onto it. Hence the poem-postcard plays on the idea on how our subjectivity (metaphorized as <i>color projection</i>) shapes our experiences, being the participatory element just an extra emphasis on our active role at experiencing the world and constructing our experience. <br/><br/>
+In the present on-line version, there is no image that the reader can color at will. Because of this, to emulate the interactive aspect of the postcard-poem, the word &ldquo;colors&rdquo; in the poem is randomly colored and it changes its color to a random color each time that it is clicked. 
 </div>
 <script type="text/javascript">
 <!--
