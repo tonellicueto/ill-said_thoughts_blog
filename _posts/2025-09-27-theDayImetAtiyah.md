@@ -5,7 +5,7 @@ author: "Josué Tonelli-Cueto"
 description: "Some years ago, I had the chance of meeting Michael Atiyah and asking for an autograph. I recall the experience, and I take this opportunity to reflect on the sad circumstances on which this happened."
 excerpt: "Some years ago, I had the chance of meeting Michael Atiyah and asking for an autograph. I recall the experience, and I take this opportunity to reflect on the sad circumstances on which this happened."
 image: "../imgs/theDayImetAtiyah.png"
-date: 2025-06-27 12:12:12
+date: 2025-09-27 12:12:12
 categories:
 - conferences
 - mathematics

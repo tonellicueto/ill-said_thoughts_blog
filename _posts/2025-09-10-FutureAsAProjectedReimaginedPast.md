@@ -5,7 +5,7 @@ author: "Josué Tonelli-Cueto"
 description: "..."
 excerpt: "..."
 #image: "..."
-date: YYYY-MM-DD
+date: 2025-09-10 08:10:12
 categories:
 - mathematics
 - philosophy
