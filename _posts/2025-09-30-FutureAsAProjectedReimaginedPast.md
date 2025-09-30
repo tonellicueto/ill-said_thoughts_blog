@@ -5,7 +5,7 @@ author: "Josué Tonelli-Cueto"
 description: "How does the past shape our future? How can we visualize a new future in a different way to what we used to?"
 excerpt: "How does the past shape our future? How can we visualize a new future in a different way to what we used to?"
 image: "../imgs/FutureAsProjectedReimaginedPast.png"
-date: 2025-09-30 08:10:12
+date: 2025-09-30 17:45:12
 categories:
 - philosophy
 - politics
