@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Future as a Projected Reimagined Past"
-author: "Iasafro Maesman"
+author: "Josué Tonelli-Cueto"
 description: "How does the past shape our future? How can we visualize a new future in a different way to what we used to?"
 excerpt: "How does the past shape our future? How can we visualize a new future in a different way to what we used to?"
 image: "../imgs/FutureAsProjectedReimaginedPast.png"
