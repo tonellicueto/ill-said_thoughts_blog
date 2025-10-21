@@ -19,7 +19,7 @@ published: true
 
 <div class="jumbotron abstract" style="font-style: italic;">
 On Wednesday, October 15th of 2025, at 17:30, the <a href="https://wufubaltimore.com/"><i>With Us For Us Baltimore</i> (WUFU Baltimore)</a>, a coalition of several Baltimore organizations fighting so that non-profit universities and hospitals in Baltimore pay their fair share of taxes for the services that the city provides to them, making them accountable to the communities they interact with, called for the rally &ldquo;Hopkins Respect Baltimore&rdquo; to protest so that the Johns Hopkins University is more accountable to Baltimore. This rally had four main request for Hopkins: (1) to pay its fair share of taxes, (2) to eliminate the JHU private police, (3) to stop the elimination of trees due to the construction of the Data Science and Artificial Intelligence Institute (DSAI Institute), and (4) to stop union busting within the institution.
-<br/>At this rally, I had the privilege of talking in the name of our recently certified postdoc union Hopkins PRO-UAW as one of the member of the Bargaining Committee of recently formed our union. Below the speech, I pronounced at the event. <a href="https://www.instagram.com/reel/DP2LnPXjb_v/">A full video of the rally is available at the instagram page of WUFU Baltimore</a>.
+<br/>At this rally, I had the privilege of talking in the name of our recently certified postdoc union Hopkins PRO-UAW as one of the member of the Bargaining Committee of recently formed our union. Below the speech, I pronounced at the event. <a href="https://www.instagram.com/reel/DP2LnPXjb_v/">A full video of the rally, including the speech transcribed below, is available at the instagram page of WUFU Baltimore</a>.
 </div>
 <br/>
 <br/>
