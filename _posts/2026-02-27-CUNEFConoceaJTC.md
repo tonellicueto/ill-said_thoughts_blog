@@ -32,7 +32,7 @@ Josué Tonelli-Cueto es Assistant Professor en Tenure Track en el Departamento d
 
 *Josué Tonelli-Cueto is an Assistant Professor on Tenure Track in the Department of Quantitative Methods at CUNEF Universidad, after developing his career in Germany (2017-2019), France (2020-2022) and the USA (2022-2026). Mathematician specializing in the design and analysis of numerical methods for non-linear problems coming from the sciences and engineering, using a theoretical framework based on condition numbers, algebraic geometry and probability. Beyond research, his organizational labor in science should be mentioned, particularly his role as chairperson of the organizing committee of [RSME's 7th Congress of Young Researchers (2025)](https://jovenes2025.rsme.es/) and active member of [Hopkins PRO-UAW (2023-2026)](https://hopkinspro-uaw.org/).*
 
-### Por favor, resume brevemente tu trayectoria académica\  *Could you briefly summarize your academic background?*
+### Por favor, resume brevemente tu trayectoria académica *Could you briefly summarize your academic background?*
 
 Tras completar la Licenciatura en Matemáticas en la Universidad del País Vasco/Euskal Herriko Unibertsitatea en 2014, me fui a Berlín a realizar mis estudios de máster y doctorado. Allí, en la Berlin Mathematical School y la Technische Universität Berlin (Alemania), realicé el doctorado bajo la dirección de Peter Bürgisser y Felipe Cucker del 2017 al 2019, obteniendo el 3º Premio para tesis doctorales en los Premios Tiburtius 2020 de las Universidades de Berlín.
 
