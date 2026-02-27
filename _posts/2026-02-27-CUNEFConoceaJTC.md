@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My unedited answers to CUNEF Universidad's &ldquo;Conoce a... Josué Tonelli-Cueto&rdquo;"
+title: "My Unedited Answers to\n CUNEF Universidad's\n &ldquo;Conoce a... Josué Tonelli-Cueto&rdquo;"
 author: "Josué Tonelli-Cueto"
 description: "Respuestas dadas para una campaña de comunicación de CUNEF Universidad para presentarme internamente. "
 excerpt: "Respuestas dadas para una campaña de comunicación de CUNEF Universidad para presentarme internamente."
