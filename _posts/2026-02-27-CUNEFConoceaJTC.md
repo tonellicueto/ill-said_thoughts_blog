@@ -10,7 +10,7 @@ categories: academia
 tags:
 - the stories we tell
 - my life as a mathematician
-lang: es
+langs: [es,en]
 published: true
 ---
 
