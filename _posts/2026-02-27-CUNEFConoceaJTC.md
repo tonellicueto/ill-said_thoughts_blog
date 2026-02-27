@@ -15,8 +15,8 @@ published: true
 ---
 
 <div class="jumbotron abstract"><p>
-En mi universidad actual, CUNEF Universidad, me pidieron responder a unas preguntas de un cuestionario de su campaña "Conoce a..." en la que presentan a las nuevas incorporaciones dentro de la universidad. Aquí se encuentran mi presentación íntegra, sin ninguna modificación editorial<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">\*</a></sup>, mandada por e-mail a las personas de CUNEF Universidad el 27 de febrero del 2026.</p>
-<p style="font-style: italic;">At my current university, CUNEF Universidad, they requested me to answer some questions of a questionnaire so they could introduce me through e-mail in their communication campaign "Conoce a..." ("Get to know..."). Here you can find my whole introduction, without any further editorial edits<sup id="fnref:1b"><a href="#fn:1" class="footnote-ref" role="doc-noteref">\*</a></sup>, that was sent by e-mail to people at CUNEF Universidad on February 27th, 2026.</p>
+En mi universidad actual, CUNEF Universidad, me pidieron responder a unas preguntas de un cuestionario de su campaña "Conoce a..." en la que presentan a las nuevas incorporaciones dentro de la universidad. Aquí se encuentran mi presentación íntegra, sin ninguna modificación editorial<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">*</a></sup>, mandada por e-mail a las personas de CUNEF Universidad el 27 de febrero del 2026.</p>
+<p style="font-style: italic;">At my current university, CUNEF Universidad, they requested me to answer some questions of a questionnaire so they could introduce me through e-mail in their communication campaign "Conoce a..." ("Get to know..."). Here you can find my whole introduction, without any further editorial edits<sup id="fnref:1b"><a href="#fn:1" class="footnote-ref" role="doc-noteref">*</a></sup>, that was sent by e-mail to people at CUNEF Universidad on February 27th, 2026.</p>
 </div>
 <br/>
 <br/>
