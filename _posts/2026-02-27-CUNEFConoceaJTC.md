@@ -21,10 +21,6 @@ En mi universidad actual, CUNEF Universidad, me pidieron responder a unas pregun
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 Josué Tonelli-Cueto es Assistant Professor en Tenure Track en el Departamento de Métodos Cuantitativos en CUNEF Universidad tras desarrollar su carrera investigadora en Alemania (2017-2019), Francia (2020-2022) y EE.UU. (2022-2026). Matemático especialista en el desarrollo y análisis de métodos numéricos para problemas no-lineales provenientes de las ciencias y la ingeniería, usando un marco teórico basado en números de condición, geometría algebraica y probabilidad. Más allá de la investigación, cabe destacar su labor organizativa en la ciencia, particularmente su papel como presidente del comité organizador del [VII Congreso de Jóvenes Investigadores de la RSME (2025)](https://jovenes2025.rsme.es/) y miembro activo de [Hopkins PRO-UAW (2023-2026)](https://hopkinspro-uaw.org/).
 
