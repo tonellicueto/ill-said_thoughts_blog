@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "&ldquo;Conoce a... Josué Tonelli-Cueto&rdquo;\n My unedited answers to a CUNEF Universidad's internal communication campaign"
+title: "&ldquo;Conoce a... Josué Tonelli-Cueto&rdquo; My unedited answers to a CUNEF Universidad's internal communication campaign"
 author: "Josué Tonelli-Cueto"
 description: "Respuestas dadas para una campaña de comunicación de CUNEF Universidad para presentarme internamente. "
 excerpt: "Respuestas dadas para una campaña de comunicación de CUNEF Universidad para presentarme internamente."
@@ -10,7 +10,9 @@ categories: academia
 tags:
 - the stories we tell
 - my life as a mathematician
-lang: es
+langs:
+-es
+-en
 published: true
 ---
 
@@ -18,12 +20,19 @@ published: true
 En mi universidad actual, CUNEF Universidad, me pidieron responder a unas preguntas de un cuestionario de su campaña "Conoce a..." en la que presentan a las nuevas incorporaciones dentro de la universidad. Aquí se encuentran mi presentación íntegra, sin ninguna modificación editorial<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">\*</a></sup>, mandada por e-mail a las personas de CUNEF Universidad el 27 de febrero del 2026.</p>
 <p style="font-style: italic;">At my current university, CUNEF Universidad, they requested me to answer some questions of a questionnaire so they could introduce me through e-mail in their communication campaign "Conoce a..." ("Get to know..."). Here you can find my whole introduction, without any further editorial edits<sup id="fnref:1b"><a href="#fn:1" class="footnote-ref" role="doc-noteref">\*</a></sup>, that was sent by e-mail to people at CUNEF Universidad on February 27th, 2026.</p>
 </div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 Josué Tonelli-Cueto es Assistant Professor en Tenure Track en el Departamento de Métodos Cuantitativos en CUNEF Universidad tras desarrollar su carrera investigadora en Alemania (2017-2019), Francia (2020-2022) y EE.UU. (2022-2026). Matemático especialista en el desarrollo y análisis de métodos numéricos para problemas no-lineales provenientes de las ciencias y la ingeniería, usando un marco teórico basado en números de condición, geometría algebraica y probabilidad. Más allá de la investigación, cabe destacar su labor organizativa en la ciencia, particularmente su papel como presidente del comité organizador del [VII Congreso de Jóvenes Investigadores de la RSME (2025)](https://jovenes2025.rsme.es/) y miembro activo de [Hopkins PRO-UAW (2023-2026)](https://hopkinspro-uaw.org/).
 
 *Josué Tonelli-Cueto is an Assistant Professor on Tenure Track in the Department of Quantitative Methods at CUNEF Universidad, after developing his career in Germany (2017-2019), France (2020-2022) and the USA (2022-2026). Mathematician specializing in the design and analysis of numerical methods for non-linear problems coming from the sciences and engineering, using a theoretical framework based on condition numbers, algebraic geometry and probability. Beyond research, his organizational labor in science should be mentioned, particularly his role as chairperson of the organizing committee of [RSME's 7th Congress of Young Researchers (2025)](https://jovenes2025.rsme.es/) and active member of [Hopkins PRO-UAW (2023-2026)](https://hopkinspro-uaw.org/).*
 
-# Por favor, resume brevemente tu trayectoria académica *Could you briefly summarize your academic background?*
+### Por favor, resume brevemente tu trayectoria académica\  *Could you briefly summarize your academic background?*
 
 Tras completar la Licenciatura en Matemáticas en la Universidad del País Vasco/Euskal Herriko Unibertsitatea en 2014, me fui a Berlín a realizar mis estudios de máster y doctorado. Allí, en la Berlin Mathematical School y la Technische Universität Berlin (Alemania), realicé el doctorado bajo la dirección de Peter Bürgisser y Felipe Cucker del 2017 al 2019, obteniendo el 3º Premio para tesis doctorales en los Premios Tiburtius 2020 de las Universidades de Berlín.
 
@@ -41,7 +50,7 @@ Y estas preguntas las afronto usando un marco teórico basado en números de con
 
 *And I face all these question using a theoretical framework that uses condition numbers, algebraic geometry and probability.*
 
-# ¿Qué destacarías de tu experiencia internacional? *What aspects of your international experience would you highlight?*
+### ¿Qué destacarías de tu experiencia internacional? *What aspects of your international experience would you highlight?*
 
 A pesar de ser de Bilbao, he estado viviendo en el extranjero más de diez años desde 2014 hasta mi regreso a España, con mi incorporación en CUNEF Universidad. He vivido en países muy distintos entre sí: Alemania (5 años y medio), Francia (2 años y medio)  y EE.UU. (3 años y medio). Y aquí no entro en todas esas otras culturas de las que me he empapado a través de la gente con la que he convivido (y he amado) en todo este proceso de estar en el extranjero.
 
@@ -56,7 +65,7 @@ Todo esto dicho, en este estar fuera, se aprende a ver lo bueno y lo malo de los
 *All this said, in this being abroad, one learns to see the good and the bad in the places from a non-mythifying viewpoint, making true that Bilbainian joke—or not—that every place is a neighborhood of Bilbao (or, using a less Bilbainian idiom, that in every country dogs bite). Moreover, I have learnt the importance of building communities in every environment in which we are, since, although exasperating sometimes, only in community—in dialogue, interaction and organization with others—we can have that solidarity that makes a little less heavy the world, and it allows us to solve the systemic problems we face.*
 
 
-# ¿Qué te motivó a convertirte en profesor y qué es lo que más te apasiona de tu ámbito de estudio? *What motivated you to become a professor and what are you most passionate about in your field?*
+### ¿Qué te motivó a convertirte en profesor y qué es lo que más te apasiona de tu ámbito de estudio? *What motivated you to become a professor and what are you most passionate about in your field?*
 
 Mi amor por las Matemáticas. Sin embargo, este amor mío no debe entenderse como una fascinación por "la belleza de las Matemáticas”. Para mi, lo apasionante de las Matemáticas está en la construcción de Sus edificios teóricos y el recorrido de los laberintos de Sus problemas. No hay nada como ese proceso de andar oscuras, sumido en una mezcla de confusión, inestabilidad y frustración, para llegar a ese momento de éxtasis (casi) religioso en que las piezas encajan y con clarividencia se ven las cosas.
 
@@ -66,7 +75,7 @@ Este andar a oscuras por la caverna sin saber si vas a llegar a ver el sol (o es
 
 *This wandering in the darkness of the cavern not knowing if you are gonna see the sun or not (or, using a more maritime and less Platonic metaphor, this sailing the unknown sea without knowing whether you will arrive a destination) is what thrills me. In my research regarding computational problems and the algorithms that solve them, there is not a unique formalism in which questions can be solved. This means that we need to re-evaluate our definitions and theoretical assumptions many times to see that they are effectively capturing our intuitions or the computational phenomena that we want to explain with out theory.*
 
-# ¿Qué te atrajo de CUNEF Universidad y qué has encontrado al llegar? *What attracted you to CUNEF Universidad and what did you find when you arrived?*
+### ¿Qué te atrajo de CUNEF Universidad y qué has encontrado al llegar? *What attracted you to CUNEF Universidad and what did you find when you arrived?*
 
 El salario, la carga docente razonable y la financiación de cara la investigación.
 
@@ -80,13 +89,13 @@ Al llegar a CUNEF Universidad, aparte de colegas que ya sabía que estaban aquí
 
 *When arriving CUNEF Universidad, in addition to the many colleagues of mine already here, I found departments full of young professors with the will to do things. As any other place, CUNEF has its problems, but life is movement and I am certain that with the community of professor that CUNEF has we will face them with success, contributions this way to build a first class university.*
 
-# ¿Qué destacarías del proyecto [de CUNEF Universidad]? *What would you highlight about the project [of CUNEF Universidad]?*
+### ¿Qué destacarías del proyecto [de CUNEF Universidad]? *What would you highlight about the project [of CUNEF Universidad]?*
 
 El proyecto de CUNEF Universidad es un proyecto interesante. La expansión actual de CUNEF hacia un profesorado con un fondo más matemático es una apuesta con sentido en un mundo cada vez más cuantificado y matematizado con cada vez más algoritmos automatizando decisiones. Sin embargo, en esta rápida expansión, el desafío mayor es construir una tradición académica de investigación y docencia que integre las tradiciones heredadas de todas las nuevas personas que estamos llegando a CUNEF, particularmente a Métodos Cuantitativos y Matemáticas. Así, lo que destaco del proyecto es esta oportunidad única de crear algo nuevo y especial integrando las mejores prácticas de las tradiciones que cada une trae consigo.
 
 *The project of CUNEF Universidad is an interesting project. The current expansion of CUNEF towards a faculty with a more mathematical background is a rational bet in a world that is each time more quantified and mathematized and in which each time more algorithms are automatizing decisions. However, in this fast expansion, the biggest challenge is to build an academic research and teaching tradition that integrates all the inherited traditions of all the new people that are arriving to CUNEF, specially to Quantitative Methods and Mathematics. In this way, what I highlight about the project is that unique opportunity of creating something new and special integrating the best practices of all the traditions that each one of us bring with ourselves.*
 
-# ¿Cómo es la vida en Madrid? *What do you think about life in Madrid?*
+### ¿Cómo es la vida en Madrid? *What do you think about life in Madrid?*
 
 A pesar de no ser Bilbao (la Capital del Universo, o el Mundo cuando les bilbaínes nos sentimos modestes, para quien no lo sepa), Madrid tiene sus cosas buenas—siendo esta ciudad el cuarto atractivo de CUNEF Universidad.
 
