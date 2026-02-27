@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "&ldquo;Conoce a... Josué Tonelli-Cueto&rdquo; My unedited answers to a CUNEF Universidad's internal communication campaign"
+title: "My unedited answers to CUNEF Universidad's &ldquo;Conoce a... Josué Tonelli-Cueto&rdquo;"
 author: "Josué Tonelli-Cueto"
 description: "Respuestas dadas para una campaña de comunicación de CUNEF Universidad para presentarme internamente. "
 excerpt: "Respuestas dadas para una campaña de comunicación de CUNEF Universidad para presentarme internamente."
@@ -10,7 +10,7 @@ categories: academia
 tags:
 - the stories we tell
 - my life as a mathematician
-lang: es
+langs: [es
 published: true
 ---
 
