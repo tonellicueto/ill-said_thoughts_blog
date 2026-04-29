@@ -55,12 +55,12 @@ en habla castellana  <br/>
 de lengua americana
 </p>
 
-y así el español
-ya no era español
-sino americano,
-y así lo hispano
-dejó de ser español
-para tornarse americano
+y así el español  
+ya no era español  
+sino americano,  
+y así lo hispano  
+dejó de ser español  
+para tornarse americano  
 
 
 
