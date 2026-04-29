@@ -11,6 +11,7 @@ categories:
 - politics
 tags:
 - America
+- español
 - the stories we tell
 lang: es
 published: true
