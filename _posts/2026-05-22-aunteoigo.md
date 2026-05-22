@@ -88,7 +88,7 @@ de ese pueblo<br/>
 del que eras voz<br/>
 y ahora corazón<br/>
 </p>
-***
+<hr />
 <p id="prefinal0" style="display:none">
 <b>versión prefinal:</b>
 <p>
@@ -117,7 +117,7 @@ de ese pueblo<br/>
 del que eras voz<br/>
 y ahora corazón<br/>
 </p>
-
+***
 <script type="text/javascript">
 <!--
 function AlternativeDisplay() {
