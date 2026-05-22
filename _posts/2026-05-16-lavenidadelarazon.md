@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "la venida de la razón (poema exploratorio)"
+title: "la venida de la razón\n(poema exploratorio)"
 author: "Iasafro Maesman"
 description: "un poema exploratorio sobre la razón com diosa devorante"
 excerpt: "un poema exploratorio sobre la razón com diosa devorante"
