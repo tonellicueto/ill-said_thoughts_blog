@@ -2,16 +2,18 @@
 layout: post
 title: "aún te oigo"
 author: "Iasafro Maesman"
-description: "un poema sobre cómo le americane conquistó la lengua española y la cultura hispana"
-excerpt: "un poema sobre cómo le americane conquistó la lengua española y la cultura hispana"
+description: "poema dedicado al Federico García Lorca poeta tras una de mis visitas a Granada"
+excerpt: "poema dedicado al Federico García Lorca poeta tras una de mis visitas a Granada"
 image: "../imgs/aunteoigo.png"
 date: 2026-05-22 23:59:59
 categories:
 - poem
-- politics
--
+- poetry
+- postcards
 tags:
 - Federico García Lorca
+- Granada
+- the stories we tell
 lang: es
 published: false
 ---
@@ -52,6 +54,8 @@ La lengua española habiendo sido expandida por medio de la conquista e imposici
 La versión actual del poema emergió <span onclick="AlternativeDisplay()">de una versión original escrita el 24 de abril del 2026 tras varios meses de haberla llevado dentro</span>. Esta versión original fue compartida con varies de mis amigues de aquí y allá para asegurarme de que tuviera el tono correcto. Sin embargo, de todes elles, debo agradecer especialmente las recomendaciones de Antonella Petrelli que ayudaron a mejorar el flujo del poema en su versión final.
 </div>
 
+***
+
 <p id="postal0" style="display:none">
 <b>versión postal:</b>
 <p>
@@ -84,6 +88,7 @@ de ese pueblo<br/>
 del que eras voz<br/>
 y ahora corazón<br/>
 </p>
+***
 <p id="prefinal0" style="display:none">
 <b>versión prefinal:</b>
 <p>

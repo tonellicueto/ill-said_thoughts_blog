@@ -145,6 +145,8 @@ El presente poema es un poema exploratorio inspirado por el <i>Industriemuseum</
 En tanto que poema exploratorio, este no es necesariamente un poema definitivo sino un poema que explora conexiones, metáforas y símiles para ser incorporados luego a otros poemas. Sin embargo, es final en tanto que refinamiento significativo de <span onclick="AlternativeDisplay()">la versión postal mandada desde Bélgica el 16 de mayo del 2026 en tres iteraciones</span>. Este poema, sin embargo, encaja dentro del proyecto poético <i>&ldquo;matemática: una aproximación religiosa&rdquo;</i> cuyo objetivo es la creación de textos literarios, de connotación religiosa, en los que la matemática ocupa el lugar del absoluto que usualmente ocupa un dios. Aunque el poema vaya de la venida de la razón como diosa que nos libera y nos oprime a la vez vía su tecnología, no puede olvidarse que gran parte de esta liberación, opresión y tecnología sucede a través de la Matemática y su modo de codificar el mundo.
 </div>
 
+***
+
 <p id="postal0" style="display:none">
 <b>versión postal:</b>
 <p>
