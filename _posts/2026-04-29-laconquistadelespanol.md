@@ -76,6 +76,7 @@ La lengua española habiendo sido expandida por medio de la conquista e imposici
 <br/><br/>
 La versión actual del poema emergió <span onclick="AlternativeDisplay()">de una versión original escrita el 24 de abril del 2026 tras varios meses de haberla llevado dentro</span>. Esta versión original fue compartida con varies de mis amigues de aquí y allá para asegurarme de que tuviera el tono correcto. Sin embargo, de todes elles, debo agradecer especialmente las recomendaciones de Antonella Petrelli que ayudaron a mejorar el flujo del poema en su versión final.
 </div>
+
 ***
 
 <script type="text/javascript">

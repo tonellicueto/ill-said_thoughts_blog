@@ -240,7 +240,7 @@ ese grito que no acaba,<br/>
 aún lo gritamos sin descanso<br/>
 </p>
 
-***
+<hr />
 
 <script type="text/javascript">
 <!--
