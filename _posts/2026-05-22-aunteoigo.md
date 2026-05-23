@@ -15,7 +15,7 @@ tags:
 - Granada
 - the stories we tell
 lang: es
-published: false
+published: true
 ---
 
 aún te oigo,  
@@ -49,13 +49,10 @@ y ahora corazón
 <br/>
 <br/>
 <div class="jumbotron abstract" style="font-style: italic;">
-La lengua española habiendo sido expandida por medio de la conquista e imposición por América fue conquistada por les propies americanes que la hicieron suya. En este proceso, el español no es tanto el español como el americano que hizo de la cultura hispana continente de las cientos de tradiciones americanas que sobrevivieron a la conquista. Así, este poema no trata de cómo el español conquistó América, sino de cómo América y sus americanes conquistaron el español.
-<br/><br/>
-La versión actual del poema emergió <span onclick="AlternativeDisplay()">de una versión original escrita el 24 de abril del 2026 tras varios meses de haberla llevado dentro</span>. Esta versión original fue compartida con varies de mis amigues de aquí y allá para asegurarme de que tuviera el tono correcto. Sin embargo, de todes elles, debo agradecer especialmente las recomendaciones de Antonella Petrelli que ayudaron a mejorar el flujo del poema en su versión final.
+El presente poema, compuesto durante una visita a Granada y refinado posteriormente, es un poema en honor al Federico García Lorca poeta. <!--El enfásis en decir &ldquo;poeta&rdquo; es porque este es el Federico García Lorca con el que tengo más familiaridad, pues, en mi ignorancia, aún no he tenido tiempo de interactuar propiamente con el Federico García Lorca dramaturgo, persona... Tal admisión de ignorancia es una admisión de que debo explorar más, esto es, mi ignorancia de los otros Federico García Lorcas se debe más a mi falta de tiempo que de interés.-->La versión final aquí dada es un refinamiento de <span onclick="AlternativeDisplayPo()">la versión original postal mandada el 19 de mayo del 2026 en 13 iteraciones postales (un par de postales por iteración)</span> y <span onclick="AlternativeDisplayPF()">la versión prefinal compuesta ese mismo día</span>.
 </div>
 
-***
-
+<hr id="postalline" style="display:none"/>
 <p id="postal0" style="display:none">
 <b>versión postal:</b>
 <p>
@@ -88,7 +85,7 @@ de ese pueblo<br/>
 del que eras voz<br/>
 y ahora corazón<br/>
 </p>
-<hr />
+<hr id="prefinalline" style="display:none"/>
 <p id="prefinal0" style="display:none">
 <b>versión prefinal:</b>
 <p>
@@ -117,23 +114,44 @@ de ese pueblo<br/>
 del que eras voz<br/>
 y ahora corazón<br/>
 </p>
-***
+<hr/>
 <script type="text/javascript">
 <!--
-function AlternativeDisplay() {
-  x=document.getElementById("final");
-  if (x.style.display == "block") {
-    x.style.display="none";
-  } else {
-    x.style.display="block";
-  }
+function AlternativeDisplayPo() {
+  x=document.getElementById("postalline");
+  x.style.display="block";
 
-  x=document.getElementById("original");
-  if (x.style.display == "block") {
-    x.style.display="none";
-  } else {
-    x.style.display="block";
-  }
+  x=document.getElementById("postal0");
+  x.style.display="block";
+
+  x=document.getElementById("postal1");
+  x.style.display="block";
+
+  x=document.getElementById("postal2");
+  x.style.display="block";
+
+  x=document.getElementById("postal3");
+  x.style.display="block";
+
+  x=document.getElementById("postal4");
+  x.style.display="block";
+}
+
+function AlternativeDisplayPF() {
+  x=document.getElementById("prefinalline");
+  x.style.display="block";
+
+  x=document.getElementById("prefinal0");
+  x.style.display="block";
+
+  x=document.getElementById("prefinal1");
+  x.style.display="block";
+
+  x=document.getElementById("prefinal2");
+  x.style.display="block";
+
+  x=document.getElementById("prefinal3");
+  x.style.display="block";
 }
 //-->
 </script>
