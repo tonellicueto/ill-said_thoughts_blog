@@ -148,17 +148,17 @@ En tanto que poema exploratorio, este no es necesariamente un poema definitivo s
 <hr id="postalline" style="display:none"/>
 <p id="postal0" style="display:none">
 <b>versión postal:</b>
-<p>
+</p>
 <p id="postal1" style="display:none">
 y la diosa robada<br/>
 bajó a esta tierra<br/>
 con cuerpo de metal<br/>
-<p>
+</p>
 <p id="postal2" style="display:none">
 razón enmetalada,<br/>
 viva herramienta<br/>
 que todo cambiará<br/>
-<p>
+</p>
 <p id="postal3" style="display:none">
 razón inevitable,<br/>
 razón triunfante,<br/>
@@ -166,12 +166,12 @@ condiciones materiales<br/>
 en progreso constante,<br/>
 liberación inigualable<br/>
 de las fuerzas naturales<br/>
-<p>
+</p>
 <p id="postal4" style="display:none">
 pum issississi pum issississi<br/>
 pum issississi pum issississi<br/>
 pum issississi pum issississi<br/>
-<p>
+</p>
 <p id="postal5" style="display:none">
 música maquinal<br/>
 que suena sin parar,<br/>
@@ -179,7 +179,7 @@ sonidos de libertad<br/>
 de la razón triunfal<br/>
 nos anuncian ya<br/>
 su revolución sin igual<br/>
-<p>
+</p>
 <p id="postal6" style="display:none">
 mas alguien grita,<br/>
 ese nuevo proletariado,<br/>
@@ -189,7 +189,7 @@ ese grito desesperado,<br/>
 ese grito ya eterno<br/>
 de una vida sinviva<br/>
 que sale de dentro<br/>
-<p>
+</p>
 <p id="postal7" style="display:none">
 música maquinal<br/>
 tornada en infernal,<br/>
@@ -197,27 +197,27 @@ sonido de opresión<br/>
 de la neutra razón<br/>
 que todo cambió<br/>
 sin cambiar lo esencial<br/>
-<p>
+</p>
 <p id="postal8" style="display:none">
 purrrrrrr pu, purrrrr pu<br/>
 purrrrrrr pu, purrrrr pu<br/>
 PURRRRR PU, PURRRRR PU<br/>
-<p>
+</p>
 <p id="postal9" style="display:none">
 música repetitiva<br/>
 de nuestra razón<br/>
 en delirio conquistador<br/>
-<p>
+</p>
 <p id="postal10" style="display:none">
 avanza su tecnología<br/>
 por cada rincón<br/>
 en constante revolución<br/>
-<p>
+</p>
 <p id="postal11" style="display:none">
 TRRR PAJ PAJ TURRRRRR RU<br/>
 TRRR PAJ PAJ TURRRRRR RU<br/>
 TRRR PAJ PAJ TURRRRRR RU<br/>
-<p>
+</p>
 <p id="postal12" style="display:none">
 y lo que eramos<br/>
 ya no lo somos,<br/>
@@ -226,12 +226,12 @@ en cuerpo y alma<br/>
 con su promesa<br/>
 de infinitas posibilidades<br/>
 en el aquí y ahora<br/>
-<p>
+</p>
 <p id="postal13" style="display:none">
 iiij TUUUJJJ trrrrr TTTEEJJ IJJ rrrJJJIII<br/>
 iiij TUUUJJJ trrrrr TTTEEJJ IJJ rrrJJJIII<br/>
 iiij TUUUJJJ trrrrr TTTEEJJ IJJ rrrJJJIII<br/>
-<p>
+</p>
 <p id="postal14" style="display:none">
 mas aún gritamos,<br/>
 ese grito de esperanza,<br/>

@@ -55,7 +55,7 @@ El presente poema, compuesto durante una visita a Granada y refinado posteriorme
 <hr id="postalline" style="display:none"/>
 <p id="postal0" style="display:none">
 <b>versión postal:</b>
-<p>
+</p>
 <p id="postal1" style="display:none">
 aún te oigo,<br/>
 voz hecha carne,<br/>
@@ -88,13 +88,13 @@ y ahora corazón<br/>
 <hr id="prefinalline" style="display:none"/>
 <p id="prefinal0" style="display:none">
 <b>versión prefinal:</b>
-<p>
+</p>
 <p id="prefinal1" style="display:none">
 aún te oigo,<br/>
 hompaisaje<br/>
 voz hecha carne,<br/>
 pueblo hecho arte<br/>
-<p>
+</p>
 <p id="prefinal2" style="display:none">
 aún te oigo...<br/>
 esas fascistas balas<br/>
@@ -104,7 +104,7 @@ mas solo tu cuerpo,<br/>
 tu voz, no callaron,<br/>
 aún oigo tu alma<br/>
 en ese tu pueblo<br/>
-<p>
+</p>
 <p id="prefinal3" style="display:none">
 ahí te oigo,<br/>
 oigo tu latir,<br/>
