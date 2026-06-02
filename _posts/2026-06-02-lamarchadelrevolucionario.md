@@ -2,8 +2,8 @@
 layout: post
 title: "la marcha del revolucionario"
 author: "Iasafro Maesman"
-description: "Poema escrito tras ciertas largas marchas a lo largo de mi vida"
-excerpt: "Poema escrito tras ciertas largas marchas a lo largo de mi vida"
+description: "Poema inspirado por esas marchas largas de la vida"
+excerpt: "Poema inspirado por esas marchas largas de la vida"
 image: "../imgs/lamarchadelrevolucionario.png"
 date: 2026-06-02 12:55:25
 categories:
