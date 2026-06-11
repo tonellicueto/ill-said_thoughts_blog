@@ -67,7 +67,7 @@ As a consequence of this media hype, all the eyes of the mathematical world were
 
 At this moment, we can contextualize better the actions of HLF,
 
-Now,
+Now, 
 
 the HLF received the notice by Atiyah that he will be talking about Riemann hypothesis and that he will present his proof. Even if Atiyah made the claim that he had a " simple proof",
 
