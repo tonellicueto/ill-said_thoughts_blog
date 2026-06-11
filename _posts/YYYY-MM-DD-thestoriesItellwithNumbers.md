@@ -26,7 +26,7 @@ By looking at the picture, we can see that the depicted scene is kind of far fro
 
 # Proofs as Stories
 
-
+A proof is...
 
 # Parameterized Stories
 
