@@ -14,10 +14,6 @@ tags:
 - algebra
 - emmy noether
 lang: en
-#lang: es
-#lang: eu
-#lang: de
-#lang:fr
 published: true
 ---
 
