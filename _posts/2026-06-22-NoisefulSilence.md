@@ -36,8 +36,8 @@ prayed...<br/>
 </div>
 </div>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;no answer,  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;only silence  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;no answer,  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;only silence  
 
 tired of silence,  
 we built the radio:  
