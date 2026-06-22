@@ -34,30 +34,36 @@ prayed,<br/>
 prayed...<br/>
 </p>
 </div>
-
-no answer,  
-only silence  
-
-tired of silence,  
-we built the radio:  
-noise in our ears  
-
-tired of silence,  
-we built the tv:  
-noise in our eyes  
-
-tired of silence,  
-we build the net:  
-noise in our relations  
-
-tired of silence,  
-we built the AI:  
-noise in our thoughts  
-
-and full of noise,  
-&nbsp;&nbsp;&nbsp;we still pray,  
-&nbsp;&nbsp;as there is still no answer,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;only noiseful silence  
+<p>
+no answer,  <br/>
+only silence  <br/>
+</p>
+<p>
+tired of silence,  <br/>
+we built the radio:  <br/>
+noise in our ears  <br/>
+</p>
+<p>
+tired of silence,  <br/>
+we built the tv:  <br/>
+noise in our eyes  <br/>
+</p>
+<p>
+tired of silence,  <br/>
+we build the net:  <br/>
+noise in our relations  <br/>
+</p>
+<p>
+tired of silence,  <br/>
+we built the AI:  <br/>
+noise in our thoughts  <br/>
+</p>
+<p>
+and full of noise,  <br/>
+&nbsp;&nbsp;&nbsp;we still pray,  <br/>
+&nbsp;&nbsp;as there is still no answer,  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;only noiseful silence  <br/>
+</p>
 
 
 
@@ -71,5 +77,3 @@ and full of noise,
 <div class="jumbotron abstract" style="font-style: italic;">
 This poem was written on April 12th of 2025 in Paris, France, while preparing for a job interview for a researcher position at Inria Paris. At the moment it was written, I was feeling sort of sick probably due to some food poisoning, which put me the rest of the day and part of the next in bed. The poem is a reflection of how we use technology to fill the vacuums inside of our being, but how this turns our to be a senseless task, even as technology is able to fill more and more aspects of our life, as the vacuums—the silence—remains there despite the technological noise.
 </div>
-
-***
