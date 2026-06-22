@@ -36,8 +36,8 @@ prayed...<br/>
 </div>
 </div>
 
-no answer,  
-only silence  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;no answer,  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;only silence  
 
 tired of silence,  
 we built the radio:  
@@ -56,9 +56,9 @@ we built the AI:
 noise in our thoughts  
 
 and full of noise,  
-&nbsp;&nbsp;&nbsp;we still pray,  
-&nbsp;&nbsp;as there is still no answer,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;only noiseful silence  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;we still pray,  
+&nbsp;&nbsp;&nbsp;as there is still no answer,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;only noiseful silence  
 
 
 
