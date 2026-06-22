@@ -26,8 +26,8 @@ Como la suma de todas las probabilidades, $\sum_{n=1}^{\infty}\mathrm{Prob}(\mat
 ## ¿Cómo de grande es $\mathfrak{x}$?
 
 Para responder esta pregunta, un método popular es computar la *esperanza* de $\mathfrak{x},$
-\\[\mathbb{E}\mathfrak{x}:=\sum_{n=1}^\infty k\mathrm{Prob}(\mathfrak{x}=n).\\]
-En el caso en cuestion, se da que
+\\[\mathbb{E}\mathfrak{x}:=\sum_{n=1}^\infty n\,\mathrm{Prob}(\mathfrak{x}=n).\\]
+En el caso en cuestión, se da que
 \\[\mathbb{E}\mathfrak{x}=\sum_{n=1}^{\infty}n\frac{6}{\pi^2}\frac{1}{n^2}=\frac{6}{\pi^2}\sum_{n=1}^{\infty}\frac{1}{n}=\infty,\\]
 porque la [serie armónica](https://es.wikipedia.org/wiki/Serie_arm%C3%B3nica_(matem%C3%A1tica)), $\sum_{n=1}^{\infty}\frac{1}{n}$, tiene suma infinita.
 
@@ -35,7 +35,7 @@ Ahora, ¿qué quiere decir que el valor esperado–esperanza–de $\mathfrak{x}$
 \\[\frac{\mathfrak{x}_1+\cdots+\mathfrak{x}_n}{n},\\]
 converge a $\mathbb{E}\mathfrak{x}$ con casi toda seguridad, esto es, con probabilidad uno.
 
-[^lm]: En lenguaje matemático, las $\mathfrak{x}_i$ son variables aleatorias independientes e idénticamente distribuidas, con distribuión la misma que la de $\mathfrak{x}$. Esto es, para cada $i,n\in\mathbb{N},$
+[^lm]: En lenguaje matemático, las $\mathfrak{x}_i$ son variables aleatorias independientes e idénticamente distribuidas, con distribución la misma que la de $\mathfrak{x}$. Esto es, para cada $i,n\in\mathbb{N},$
        \\[\mathrm{Prob}(\mathfrak{x}_i=n)=\mathrm{Prob}(\mathfrak{x}=n)=\frac{6}{\pi^2}\frac{1}{n^2}.\\]
 
 [^lgn]: Para les expertes: Como estamos tratando con variables no-negativas, la ley de los grandes números sigue siendo cierto incluso cuando la esperanza es infinito. Por ejemplo, [véase este link para referencias](https://math.stackexchange.com/q/1644218/15330).
@@ -51,7 +51,7 @@ A la hora de escribir un número, el aspecto más importante que va a determinar
 donde $\log$ es el logaritmo en base 10 y $\lfloor~\rfloor$ denota que redondeamos hacia abajo, esto es, $\lfloor \log(\mathfrak{x})\rfloor$ es $\log(\mathfrak{x})$ omitiendo los decimales tras la coma.
 
 Así, siguiendo la misma lógica probabilística, ¿cuál es el coste esperado para escribir $\mathfrak{x}$? Esto es, ¿cuál es el número de digitos esperado para escribir $\mathfrak{x}$? Computando podemos ver que
-\\[\mathbb{E}\,\mathrm{número-de-digitos}(\mathfrak{x})\\]
+\\[\mathbb{E}\,\text{número-de-digitos}(\mathfrak{x})\\]
 está dado por
 \\[1+\frac{6}{\pi^2}\sum_{n=1}^\infty\frac{\lfloor \log(n)\rfloor}{n^2}\simeq 1.0670073952\ldots<2.\\]
 Esto es, ¡el coste esperado de escribir $\mathfrak{x}$ es a lo sumo dos! Usando la ley de los grandes números para interpretar esto, si elegimos una gran cantidad de números al azar de la misma forma que $\mathfrak{x}$, el coste medio de escribir estos números será constante, esto es, el coste de escribir todos los números será aproximadamente proporcional a la cantidad de números aleatorios considerados.
@@ -59,11 +59,11 @@ Esto es, ¡el coste esperado de escribir $\mathfrak{x}$ es a lo sumo dos! Usando
 ## Llegando a la paradoja...
 
 Por un lado, hemos visto que el valor esperado de $\mathfrak{x}$ es infinito. Por otro lado, la cantidad esperada de dígitos de $\mathfrak{x}$ es a lo sumo dos. Así, hemos llegado a la siguiente 'paradoja'[^petersburgo]:
-> A pesar de que el valor esperado de $\mathfrak{x}$ es infinito, el coste esperado para escribir $\mathfrak{x}$ (o el número de cifras esperado de $\mathfrak{x}$) es menos de dos. Esto es, podemos 'esperar' escribir un número aleatorio 'esperadamente' infinito con un número finito de cifras.
+> A pesar de que el valor esperado de $\mathfrak{x}$ es infinito, el coste esperado para escribir $\mathfrak{x}$ (o el número de cifras esperado de $\mathfrak{x}$) es menos de dos. Esto es, podemos 'esperar' escribir un número aleatorio 'esperádamente' infinito con un número finito de cifras.
 
 Por supuesto, lo paradójico de esto se encuentra en que este hecho ser contraintuitivo. Esta paradoja solo ilustra que podemos escribir número enormes con una pequeña cantidad de cifras. Esto es, esta paradoja ilustra la potencia de nuestro sistema de escritura posicional para escribir números.
 
-[^petersburgo]: Aquelles sabedores de probabilidad, notaran la similitud con otra paradoja probabilística del infinito: [la paradoja de San Petersburgo](https://es.wikipedia.org/wiki/Paradoja_de_San_Petersburgo). Son similares, en tanto que en ambas tenemos una variable aleatoria con esperanza infinita tal que la esperanza de su logaritmo es finita. Sin embargo, la interpetración subyacente es bien distinta en ambas paradojas.
+[^petersburgo]: Aquelles sabedores de probabilidad, notaran la similitud con otra paradoja probabilística del infinito: [la paradoja de San Petersburgo](https://es.wikipedia.org/wiki/Paradoja_de_San_Petersburgo). Son similares, en tanto que en ambas tenemos una variable aleatoria con esperanza infinita tal que la esperanza de su logaritmo es finita. Sin embargo, la interpretación subyacente es bien distinta en ambas paradojas.
 
 ***
 
